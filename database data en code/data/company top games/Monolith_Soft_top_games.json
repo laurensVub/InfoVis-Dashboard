@@ -1,0 +1,1448 @@
+{
+    "count": 17,
+    "next": "https://api.rawg.io/api/games?developers=27291&key=6144c1f5ae184e6a89a3e2b34caf541c&ordering=-rating&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "slug": "baten-kaitos-eternal-wings-and-the-lost-ocean",
+            "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 105,
+                        "name": "GameCube",
+                        "slug": "gamecube"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "2003-12-05",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/845/84520cabe424512e5364a08862d8713a.jpg",
+            "rating": 4.55,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 7,
+                    "percent": 63.64
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 3,
+                    "percent": 27.27
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 1,
+                    "percent": 9.09
+                }
+            ],
+            "ratings_count": 11,
+            "reviews_text_count": 0,
+            "added": 55,
+            "added_by_status": {
+                "yet": 10,
+                "owned": 12,
+                "beaten": 10,
+                "toplay": 20,
+                "dropped": 2,
+                "playing": 1
+            },
+            "metacritic": 80,
+            "suggestions_count": 554,
+            "updated": "2022-10-07T09:11:16",
+            "id": 55978,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 31,
+                    "name": "Singleplayer",
+                    "slug": "singleplayer",
+                    "language": "eng",
+                    "games_count": 234962,
+                    "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+                },
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen",
+                "name_en": "Teen",
+                "name_ru": "С 13 лет"
+            },
+            "user_game": null,
+            "reviews_count": 11,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/845/84520cabe424512e5364a08862d8713a.jpg"
+                },
+                {
+                    "id": 3495845,
+                    "image": "https://media.rawg.io/media/screenshots/6a6/6a6cb3ac26df3eafc1a34b161da48d75.jpg"
+                },
+                {
+                    "id": 3495846,
+                    "image": "https://media.rawg.io/media/screenshots/1b4/1b4e20e153f68efbaa2c1163389ef0eb.jpg"
+                },
+                {
+                    "id": 3495847,
+                    "image": "https://media.rawg.io/media/screenshots/7a3/7a34c9c5d375bf3e89fc16489d5d978c.jpg"
+                },
+                {
+                    "id": 752368,
+                    "image": "https://media.rawg.io/media/screenshots/51f/51fd689ecfea850c1cac064efbfe96d6.jpg"
+                },
+                {
+                    "id": 752369,
+                    "image": "https://media.rawg.io/media/screenshots/173/173bb8ead663ed25ae1d4e2c725891f1.jpg"
+                },
+                {
+                    "id": 752370,
+                    "image": "https://media.rawg.io/media/screenshots/8fa/8fa12acb03407f48be18dea908e73ba6.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "slug": "xenoblade-chronicles-2-torna-the-golden-country",
+            "name": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo Switch",
+                        "slug": "nintendo-switch"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 6,
+                        "name": "Nintendo Store",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "released": "2018-09-14",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/35b/35b514c99b084d6b14ceb37181113645.jpg",
+            "rating": 4.4,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 47,
+                    "percent": 53.41
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 35,
+                    "percent": 39.77
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 3,
+                    "percent": 3.41
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 3,
+                    "percent": 3.41
+                }
+            ],
+            "ratings_count": 87,
+            "reviews_text_count": 1,
+            "added": 289,
+            "added_by_status": {
+                "yet": 56,
+                "owned": 38,
+                "beaten": 95,
+                "toplay": 75,
+                "dropped": 12,
+                "playing": 13
+            },
+            "metacritic": null,
+            "suggestions_count": 365,
+            "updated": "2025-01-20T17:13:37",
+            "id": 58824,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 468,
+                    "name": "role-playing",
+                    "slug": "role-playing",
+                    "language": "eng",
+                    "games_count": 1614,
+                    "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen",
+                "name_en": "Teen",
+                "name_ru": "С 13 лет"
+            },
+            "user_game": null,
+            "reviews_count": 88,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/35b/35b514c99b084d6b14ceb37181113645.jpg"
+                },
+                {
+                    "id": 779331,
+                    "image": "https://media.rawg.io/media/screenshots/3fb/3fbafd7e8049a601f91f3b17dff6ec07.jpg"
+                },
+                {
+                    "id": 779332,
+                    "image": "https://media.rawg.io/media/screenshots/20f/20fd1d3fb904d47d05f35e8d06ab7cb1.jpg"
+                },
+                {
+                    "id": 779333,
+                    "image": "https://media.rawg.io/media/screenshots/cd0/cd09cb50e6c0e0ec836ee201a371a921.jpeg"
+                },
+                {
+                    "id": 779334,
+                    "image": "https://media.rawg.io/media/screenshots/faf/fafe86a13dbc31628065158862371696.jpg"
+                },
+                {
+                    "id": 779335,
+                    "image": "https://media.rawg.io/media/screenshots/7fb/7fb03fb9fcc8e61cb6fe5bbc2cd454dc.jpg"
+                },
+                {
+                    "id": 779336,
+                    "image": "https://media.rawg.io/media/screenshots/35b/35b514c99b084d6b14ceb37181113645.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "slug": "xenoblade-chronicles-3",
+            "name": "Xenoblade Chronicles 3",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo Switch",
+                        "slug": "nintendo-switch"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 6,
+                        "name": "Nintendo Store",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "released": "2022-07-29",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/ae7/ae7cfc9a66232839112663899d2c8d8d.jpg",
+            "rating": 4.39,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 43,
+                    "percent": 69.35
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 8,
+                    "percent": 12.9
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 7,
+                    "percent": 11.29
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 4,
+                    "percent": 6.45
+                }
+            ],
+            "ratings_count": 58,
+            "reviews_text_count": 3,
+            "added": 314,
+            "added_by_status": {
+                "yet": 57,
+                "owned": 36,
+                "beaten": 61,
+                "toplay": 135,
+                "dropped": 7,
+                "playing": 18
+            },
+            "metacritic": null,
+            "suggestions_count": 608,
+            "updated": "2025-03-01T01:25:42",
+            "id": 736257,
+            "score": null,
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 62,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/ae7/ae7cfc9a66232839112663899d2c8d8d.jpg"
+                },
+                {
+                    "id": 3230857,
+                    "image": "https://media.rawg.io/media/screenshots/39e/39e3f875efaa7e216cfde29e50378ef2.jpg"
+                },
+                {
+                    "id": 3230858,
+                    "image": "https://media.rawg.io/media/screenshots/108/10842320f67cbb53a1a165ad322fd7de.jpg"
+                },
+                {
+                    "id": 3230859,
+                    "image": "https://media.rawg.io/media/screenshots/cd3/cd3f7e41b8b4b56818e1c2e9d7870954.jpg"
+                },
+                {
+                    "id": 3230860,
+                    "image": "https://media.rawg.io/media/screenshots/3e4/3e4d85c52fc2a5c968de1a3c7ea52d06.jpg"
+                },
+                {
+                    "id": 3230861,
+                    "image": "https://media.rawg.io/media/screenshots/b2f/b2fc926a2612b7abcf058636f2a1805a.jpg"
+                },
+                {
+                    "id": 3230862,
+                    "image": "https://media.rawg.io/media/screenshots/36e/36ec533ef6ac8b9e895b18451b1686c7.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "slug": "xenoblade-chronicles",
+            "name": "Xenoblade Chronicles",
+            "playtime": 14,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 8,
+                        "name": "Nintendo 3DS",
+                        "slug": "nintendo-3ds"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 11,
+                        "name": "Wii",
+                        "slug": "wii"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 6,
+                        "name": "Nintendo Store",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "released": "2010-06-10",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/5ad/5ad4f07b3aa8a23f64378f0da28930b8.jpg",
+            "rating": 4.35,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 75,
+                    "percent": 62.5
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 26,
+                    "percent": 21.67
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 12,
+                    "percent": 10.0
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 7,
+                    "percent": 5.83
+                }
+            ],
+            "ratings_count": 118,
+            "reviews_text_count": 2,
+            "added": 330,
+            "added_by_status": {
+                "yet": 40,
+                "owned": 72,
+                "beaten": 102,
+                "toplay": 63,
+                "dropped": 36,
+                "playing": 17
+            },
+            "metacritic": 89,
+            "suggestions_count": 422,
+            "updated": "2024-12-23T15:50:39",
+            "id": 23875,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 24,
+                    "name": "RPG",
+                    "slug": "rpg",
+                    "language": "eng",
+                    "games_count": 23132,
+                    "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+                },
+                {
+                    "id": 468,
+                    "name": "role-playing",
+                    "slug": "role-playing",
+                    "language": "eng",
+                    "games_count": 1614,
+                    "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen",
+                "name_en": "Teen",
+                "name_ru": "С 13 лет"
+            },
+            "user_game": null,
+            "reviews_count": 120,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/5ad/5ad4f07b3aa8a23f64378f0da28930b8.jpg"
+                },
+                {
+                    "id": 242356,
+                    "image": "https://media.rawg.io/media/screenshots/39c/39cb12d41fb5612bbe35cee2c1efefc4.jpg"
+                },
+                {
+                    "id": 242357,
+                    "image": "https://media.rawg.io/media/screenshots/e01/e014a674d56b971d2fff9caa077230d6.jpg"
+                },
+                {
+                    "id": 242358,
+                    "image": "https://media.rawg.io/media/screenshots/196/1968719fdb23364c5326a0d64ba2a887.jpg"
+                },
+                {
+                    "id": 242359,
+                    "image": "https://media.rawg.io/media/screenshots/2fa/2fafcbb23ac3211cd86753ad00569662.jpg"
+                },
+                {
+                    "id": 242360,
+                    "image": "https://media.rawg.io/media/screenshots/448/4483cf841c34e47a9743d87f6d91a855.jpg"
+                },
+                {
+                    "id": 242361,
+                    "image": "https://media.rawg.io/media/screenshots/42d/42d31aab1d2c7a3054ea378e20fe8729.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "slug": "super-smash-bros-brawl",
+            "name": "Super Smash Bros. Brawl",
+            "playtime": 24,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 11,
+                        "name": "Wii",
+                        "slug": "wii"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 6,
+                        "name": "Nintendo Store",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "released": "2008-03-09",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/a00/a00c19dae42d87ca31d903d26761d335.jpg",
+            "rating": 4.3,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 148,
+                    "percent": 47.74
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 136,
+                    "percent": 43.87
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 18,
+                    "percent": 5.81
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 8,
+                    "percent": 2.58
+                }
+            ],
+            "ratings_count": 305,
+            "reviews_text_count": 3,
+            "added": 614,
+            "added_by_status": {
+                "yet": 15,
+                "owned": 119,
+                "beaten": 346,
+                "toplay": 25,
+                "dropped": 103,
+                "playing": 6
+            },
+            "metacritic": 93,
+            "suggestions_count": 234,
+            "updated": "2025-02-25T08:11:11",
+            "id": 25414,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen",
+                "name_en": "Teen",
+                "name_ru": "С 13 лет"
+            },
+            "user_game": null,
+            "reviews_count": 310,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/a00/a00c19dae42d87ca31d903d26761d335.jpg"
+                },
+                {
+                    "id": 249547,
+                    "image": "https://media.rawg.io/media/screenshots/c94/c940db241de06269a05e4d372dbaa54d.jpg"
+                },
+                {
+                    "id": 249548,
+                    "image": "https://media.rawg.io/media/screenshots/ed3/ed3d53d54b0e99fc74605c236f3e11da.jpg"
+                },
+                {
+                    "id": 249549,
+                    "image": "https://media.rawg.io/media/screenshots/881/8819a51deed492c511027f605169ddea.jpg"
+                },
+                {
+                    "id": 249550,
+                    "image": "https://media.rawg.io/media/screenshots/66d/66dd39d6eb851348871e2c6e2698c2a4.jpg"
+                },
+                {
+                    "id": 787134,
+                    "image": "https://media.rawg.io/media/screenshots/42a/42ae86605b909353d8fe3747dfc9de4c.jpg"
+                },
+                {
+                    "id": 787135,
+                    "image": "https://media.rawg.io/media/screenshots/e48/e48e1d1c0e0b54f0c365db5ad518657c.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 6,
+                    "name": "Fighting",
+                    "slug": "fighting"
+                }
+            ]
+        },
+        {
+            "slug": "xenoblade-chronicles-x",
+            "name": "Xenoblade Chronicles X",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 10,
+                        "name": "Wii U",
+                        "slug": "wii-u"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 6,
+                        "name": "Nintendo Store",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "released": "2015-12-04",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/db8/db83a83c7fc09dca7d5357ed28d167dd.jpg",
+            "rating": 4.3,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 34,
+                    "percent": 50.75
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 21,
+                    "percent": 31.34
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 11,
+                    "percent": 16.42
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 1,
+                    "percent": 1.49
+                }
+            ],
+            "ratings_count": 65,
+            "reviews_text_count": 2,
+            "added": 214,
+            "added_by_status": {
+                "yet": 41,
+                "owned": 30,
+                "beaten": 54,
+                "toplay": 38,
+                "dropped": 41,
+                "playing": 10
+            },
+            "metacritic": 84,
+            "suggestions_count": 606,
+            "updated": "2024-12-23T15:50:39",
+            "id": 23756,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 468,
+                    "name": "role-playing",
+                    "slug": "role-playing",
+                    "language": "eng",
+                    "games_count": 1616,
+                    "image_background": "https://media.rawg.io/media/games/a91/a911f0a91991469e398fa70091507a5b.jpg"
+                },
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                }
+            ],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 67,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/db8/db83a83c7fc09dca7d5357ed28d167dd.jpg"
+                },
+                {
+                    "id": 241506,
+                    "image": "https://media.rawg.io/media/screenshots/827/827bebd1b2160a5fcb825bd32ea2551b.jpg"
+                },
+                {
+                    "id": 241507,
+                    "image": "https://media.rawg.io/media/screenshots/074/0743129a05e625bd9a8c8ebad7c4d352.jpg"
+                },
+                {
+                    "id": 241508,
+                    "image": "https://media.rawg.io/media/screenshots/53b/53bcaeab75ae68f154f23ea5ebb2ac04.jpg"
+                },
+                {
+                    "id": 241509,
+                    "image": "https://media.rawg.io/media/screenshots/645/6455821c8c11b663e8e3a5cadcde4222.jpg"
+                },
+                {
+                    "id": 241510,
+                    "image": "https://media.rawg.io/media/screenshots/095/0958e51f7714f046e2fab770e8eff8ea.jpg"
+                },
+                {
+                    "id": 241511,
+                    "image": "https://media.rawg.io/media/screenshots/aa5/aa5c1aa2e1b578b3126362d88fb0de8a.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "slug": "xenoblade-chronicles-2",
+            "name": "Xenoblade Chronicles 2",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo Switch",
+                        "slug": "nintendo-switch"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 6,
+                        "name": "Nintendo Store",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "released": "2017-11-30",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/a9a/a9a6055569c986a04d066b310ea57ebb.jpg",
+            "rating": 4.28,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 131,
+                    "percent": 50.58
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 90,
+                    "percent": 34.75
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 28,
+                    "percent": 10.81
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 10,
+                    "percent": 3.86
+                }
+            ],
+            "ratings_count": 255,
+            "reviews_text_count": 3,
+            "added": 734,
+            "added_by_status": {
+                "yet": 111,
+                "owned": 98,
+                "beaten": 237,
+                "toplay": 166,
+                "dropped": 58,
+                "playing": 64
+            },
+            "metacritic": 83,
+            "suggestions_count": 567,
+            "updated": "2025-02-12T19:35:17",
+            "id": 43753,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 36,
+                    "name": "Open World",
+                    "slug": "open-world",
+                    "language": "eng",
+                    "games_count": 8369,
+                    "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+                },
+                {
+                    "id": 134,
+                    "name": "Anime",
+                    "slug": "anime",
+                    "language": "eng",
+                    "games_count": 15088,
+                    "image_background": "https://media.rawg.io/media/games/3ea/3ea0e57ede873970c0f1130e30d88749.jpg"
+                },
+                {
+                    "id": 468,
+                    "name": "role-playing",
+                    "slug": "role-playing",
+                    "language": "eng",
+                    "games_count": 1620,
+                    "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+                },
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen",
+                "name_en": "Teen",
+                "name_ru": "С 13 лет"
+            },
+            "user_game": null,
+            "reviews_count": 259,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/a9a/a9a6055569c986a04d066b310ea57ebb.jpg"
+                },
+                {
+                    "id": 628753,
+                    "image": "https://media.rawg.io/media/screenshots/799/799b1a80f06693ad59e4fed0b6d71269.jpg"
+                },
+                {
+                    "id": 628754,
+                    "image": "https://media.rawg.io/media/screenshots/b56/b562b17ceb010770961342d5e3509584.jpg"
+                },
+                {
+                    "id": 628755,
+                    "image": "https://media.rawg.io/media/screenshots/191/191fa63ec54ad776d8594518a0747023.jpg"
+                },
+                {
+                    "id": 628756,
+                    "image": "https://media.rawg.io/media/screenshots/810/810fbac0d9df81ece5c1674388d98b75.jpg"
+                },
+                {
+                    "id": 628757,
+                    "image": "https://media.rawg.io/media/screenshots/b50/b500224bc5def470e51aebc3955198f3.jpg"
+                },
+                {
+                    "id": 628758,
+                    "image": "https://media.rawg.io/media/screenshots/def/deff6fc6564f7ecd120904c43c6ee78e.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "slug": "xenosaga-episode-i-der-wille-zur-macht",
+            "name": "Xenosaga Episode I: Der Wille zur Macht",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 15,
+                        "name": "PlayStation 2",
+                        "slug": "playstation2"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "2003-02-25",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/bd2/bd2fd65d744c91d143af62b676f6269e.jpg",
+            "rating": 4.2,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 14,
+                    "percent": 56.0
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 9,
+                    "percent": 36.0
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 1,
+                    "percent": 4.0
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 1,
+                    "percent": 4.0
+                }
+            ],
+            "ratings_count": 25,
+            "reviews_text_count": 0,
+            "added": 69,
+            "added_by_status": {
+                "yet": 11,
+                "owned": 11,
+                "beaten": 23,
+                "toplay": 15,
+                "dropped": 6,
+                "playing": 3
+            },
+            "metacritic": 83,
+            "suggestions_count": 488,
+            "updated": "2023-11-10T01:41:04",
+            "id": 302306,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4492,
+                    "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/3bd/3bd37baee6dc6e15c278a83c787ebd8d.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen",
+                "name_en": "Teen",
+                "name_ru": "С 13 лет"
+            },
+            "user_game": null,
+            "reviews_count": 25,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/bd2/bd2fd65d744c91d143af62b676f6269e.jpg"
+                },
+                {
+                    "id": 1912423,
+                    "image": "https://media.rawg.io/media/screenshots/a61/a61c56be4b3ed3216c39c4e0b8879cfa.jpg"
+                },
+                {
+                    "id": 1912424,
+                    "image": "https://media.rawg.io/media/screenshots/747/7472ef861479456c017494f5159f73ec.jpg"
+                },
+                {
+                    "id": 1912425,
+                    "image": "https://media.rawg.io/media/screenshots/e2b/e2beec5842b5629551199999d729b922.jpg"
+                },
+                {
+                    "id": 1912426,
+                    "image": "https://media.rawg.io/media/screenshots/6e4/6e4e3ab9ef986b0310294058a6aa3d49.jpg"
+                },
+                {
+                    "id": 3748598,
+                    "image": "https://media.rawg.io/media/screenshots/b42/b42ff4b34d92c7ff07a31956b8a1d2d7.jpg"
+                },
+                {
+                    "id": 3748599,
+                    "image": "https://media.rawg.io/media/screenshots/296/29617ba4110efccc1e5181b580e01b61.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "slug": "xenoblade-chronicles-3d",
+            "name": "Xenoblade Chronicles 3D",
+            "playtime": 36,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 8,
+                        "name": "Nintendo 3DS",
+                        "slug": "nintendo-3ds"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 6,
+                        "name": "Nintendo Store",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "released": "2015-04-10",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/0af/0afb5a63d17c9ea21a8aa93b88cdb1fd.jpg",
+            "rating": 4.15,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 16,
+                    "percent": 59.26
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 5,
+                    "percent": 18.52
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 3,
+                    "percent": 11.11
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 3,
+                    "percent": 11.11
+                }
+            ],
+            "ratings_count": 25,
+            "reviews_text_count": 2,
+            "added": 67,
+            "added_by_status": {
+                "yet": 13,
+                "owned": 8,
+                "beaten": 23,
+                "toplay": 8,
+                "dropped": 11,
+                "playing": 4
+            },
+            "metacritic": 86,
+            "suggestions_count": 309,
+            "updated": "2024-08-29T21:39:30",
+            "id": 27946,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 468,
+                    "name": "role-playing",
+                    "slug": "role-playing",
+                    "language": "eng",
+                    "games_count": 1614,
+                    "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen",
+                "name_en": "Teen",
+                "name_ru": "С 13 лет"
+            },
+            "user_game": null,
+            "reviews_count": 27,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/0af/0afb5a63d17c9ea21a8aa93b88cdb1fd.jpg"
+                },
+                {
+                    "id": 267382,
+                    "image": "https://media.rawg.io/media/screenshots/783/7833d605373af30722b22b3839564abf.jpg"
+                },
+                {
+                    "id": 267383,
+                    "image": "https://media.rawg.io/media/screenshots/34e/34ed02f00bc1d6c04442a7f17f975ab1.jpg"
+                },
+                {
+                    "id": 267384,
+                    "image": "https://media.rawg.io/media/screenshots/e86/e8667e47b372dbfcff4e9610a8e019c3.jpg"
+                },
+                {
+                    "id": 267385,
+                    "image": "https://media.rawg.io/media/screenshots/8ed/8ed80a232046d391e2bc90e4000b2155.jpg"
+                },
+                {
+                    "id": 267386,
+                    "image": "https://media.rawg.io/media/screenshots/67f/67f8dc9d952d5bb0f514ed44fe44314f.jpg"
+                },
+                {
+                    "id": 267387,
+                    "image": "https://media.rawg.io/media/screenshots/379/3795f45891a0f04b38664a3ca593767a.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo",
+                        "slug": "nintendo"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "slug": "xenosaga-episode-ii-jenseits-von-gut-und-bose",
+            "name": "Xenosaga Episode II: Jenseits von Gut und Bose",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 15,
+                        "name": "PlayStation 2",
+                        "slug": "playstation2"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "2004-06-24",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/4db/4db4cd10a57295499186651977bd0b33.jpg",
+            "rating": 3.75,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 10,
+                    "percent": 62.5
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 5,
+                    "percent": 31.25
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 1,
+                    "percent": 6.25
+                }
+            ],
+            "ratings_count": 16,
+            "reviews_text_count": 0,
+            "added": 46,
+            "added_by_status": {
+                "yet": 11,
+                "owned": 5,
+                "beaten": 17,
+                "toplay": 11,
+                "dropped": 1,
+                "playing": 1
+            },
+            "metacritic": 73,
+            "suggestions_count": 113,
+            "updated": "2023-11-10T01:41:02",
+            "id": 320363,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4496,
+                    "image_background": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3983,
+                    "image_background": "https://media.rawg.io/media/games/dfa/dfa0906773ebb8a50d15548ac5b8ee5e.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen",
+                "name_en": "Teen",
+                "name_ru": "С 13 лет"
+            },
+            "user_game": null,
+            "reviews_count": 16,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/4db/4db4cd10a57295499186651977bd0b33.jpg"
+                },
+                {
+                    "id": 2139645,
+                    "image": "https://media.rawg.io/media/screenshots/354/35422061e714544a8f09e00e07aa406d.jpg"
+                },
+                {
+                    "id": 2139646,
+                    "image": "https://media.rawg.io/media/screenshots/4db/4db4cd10a57295499186651977bd0b33.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        }
+    ],
+    "user_platforms": false
+}

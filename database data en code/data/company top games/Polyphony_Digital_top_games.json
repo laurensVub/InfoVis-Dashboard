@@ -1,0 +1,1391 @@
+{
+    "count": 11,
+    "next": "https://api.rawg.io/api/games?developers=14277&key=6144c1f5ae184e6a89a3e2b34caf541c&ordering=-rating&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "slug": "gran-turismo-4",
+            "name": "Gran Turismo 4",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 15,
+                        "name": "PlayStation 2",
+                        "slug": "playstation2"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "2004-12-28",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/e9d/e9d6ebd887cbdade457d64cea51fe47c.jpg",
+            "rating": 4.44,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 51,
+                    "percent": 54.26
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 37,
+                    "percent": 39.36
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 4,
+                    "percent": 4.26
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 2,
+                    "percent": 2.13
+                }
+            ],
+            "ratings_count": 94,
+            "reviews_text_count": 0,
+            "added": 209,
+            "added_by_status": {
+                "yet": 12,
+                "owned": 54,
+                "beaten": 61,
+                "toplay": 19,
+                "dropped": 57,
+                "playing": 6
+            },
+            "metacritic": 89,
+            "suggestions_count": 366,
+            "updated": "2025-01-22T07:51:15",
+            "id": 59132,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                }
+            ],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 94,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/e9d/e9d6ebd887cbdade457d64cea51fe47c.jpg"
+                },
+                {
+                    "id": 806915,
+                    "image": "https://media.rawg.io/media/screenshots/a94/a94b0ac30f5491e52af71cd9b75b7357.jpg"
+                },
+                {
+                    "id": 806916,
+                    "image": "https://media.rawg.io/media/screenshots/836/8368f52f8a869170953789173dc9977a.jpg"
+                },
+                {
+                    "id": 806917,
+                    "image": "https://media.rawg.io/media/screenshots/13b/13b60ee4df38d508546dca3ccd5aa188.jpg"
+                },
+                {
+                    "id": 806918,
+                    "image": "https://media.rawg.io/media/screenshots/e58/e585ff5b9adb1e345fa052d23eb640ca.jpg"
+                },
+                {
+                    "id": 806919,
+                    "image": "https://media.rawg.io/media/screenshots/4c8/4c8cbe1df571b19b122faa122048038f.jpg"
+                },
+                {
+                    "id": 806920,
+                    "image": "https://media.rawg.io/media/screenshots/002/002e7c7f1f893020d9f67ddb68f6fb1c.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                }
+            ]
+        },
+        {
+            "slug": "gran-turismo-2",
+            "name": "Gran Turismo 2",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 27,
+                        "name": "PlayStation",
+                        "slug": "playstation1"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 106,
+                        "name": "Dreamcast",
+                        "slug": "dreamcast"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "1999-12-11",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/64d/64d9b8d00ea0da293f584077ad432aa9.jpg",
+            "rating": 4.41,
+            "rating_top": 5,
+            "ratings": [
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 59,
+                    "percent": 53.15
+                },
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 44,
+                    "percent": 39.64
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 5,
+                    "percent": 4.5
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 3,
+                    "percent": 2.7
+                }
+            ],
+            "ratings_count": 110,
+            "reviews_text_count": 1,
+            "added": 258,
+            "added_by_status": {
+                "yet": 9,
+                "owned": 63,
+                "beaten": 89,
+                "toplay": 17,
+                "dropped": 76,
+                "playing": 4
+            },
+            "metacritic": 93,
+            "suggestions_count": 282,
+            "updated": "2025-03-01T01:30:11",
+            "id": 52996,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 31,
+                    "name": "Singleplayer",
+                    "slug": "singleplayer",
+                    "language": "eng",
+                    "games_count": 236399,
+                    "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Multiplayer",
+                    "slug": "multiplayer",
+                    "language": "eng",
+                    "games_count": 40195,
+                    "image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+                },
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 11142,
+                    "name": "driving-simulator",
+                    "slug": "driving-simulator",
+                    "language": "eng",
+                    "games_count": 17,
+                    "image_background": "https://media.rawg.io/media/screenshots/bca/bcaa8f097533e352fc3ab673452d8c62.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 1,
+                "name": "Everyone",
+                "slug": "everyone",
+                "name_en": "Everyone",
+                "name_ru": "Для всех"
+            },
+            "user_game": null,
+            "reviews_count": 111,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/64d/64d9b8d00ea0da293f584077ad432aa9.jpg"
+                },
+                {
+                    "id": 729937,
+                    "image": "https://media.rawg.io/media/screenshots/341/341797d38641d7d2fa8d9cb487a60dcf.jpg"
+                },
+                {
+                    "id": 729938,
+                    "image": "https://media.rawg.io/media/screenshots/578/578e6fc079316804cb0db61faa7ef9d9.jpg"
+                },
+                {
+                    "id": 729939,
+                    "image": "https://media.rawg.io/media/screenshots/216/21614cf49c56f262ae4c9ec174aa18fc.jpg"
+                },
+                {
+                    "id": 729940,
+                    "image": "https://media.rawg.io/media/screenshots/ab1/ab128b9eeda4253315407a9810a88f96.jpg"
+                },
+                {
+                    "id": 729941,
+                    "image": "https://media.rawg.io/media/screenshots/c3e/c3ea04473bc8faf3e2a33d11d75449a1.jpg"
+                },
+                {
+                    "id": 729942,
+                    "image": "https://media.rawg.io/media/screenshots/b3e/b3e1c40d253279d3d2fab0b7bcd9f127.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 11,
+                        "name": "SEGA",
+                        "slug": "sega"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                }
+            ]
+        },
+        {
+            "slug": "gran-turismo-7",
+            "name": "Gran Turismo 7",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 187,
+                        "name": "PlayStation 5",
+                        "slug": "playstation5"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 3,
+                        "name": "PlayStation Store",
+                        "slug": "playstation-store"
+                    }
+                }
+            ],
+            "released": "2022-03-04",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/3f6/3f6a04b856f23310d3c2f5be8c5963f7.jpg",
+            "rating": 4.25,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 31,
+                    "percent": 47.69
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 27,
+                    "percent": 41.54
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 5,
+                    "percent": 7.69
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 2,
+                    "percent": 3.08
+                }
+            ],
+            "ratings_count": 64,
+            "reviews_text_count": 0,
+            "added": 597,
+            "added_by_status": {
+                "yet": 25,
+                "owned": 356,
+                "beaten": 30,
+                "toplay": 119,
+                "dropped": 26,
+                "playing": 41
+            },
+            "metacritic": 84,
+            "suggestions_count": 508,
+            "updated": "2025-03-17T11:18:00",
+            "id": 452633,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                }
+            ],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 65,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/3f6/3f6a04b856f23310d3c2f5be8c5963f7.jpg"
+                },
+                {
+                    "id": 2414052,
+                    "image": "https://media.rawg.io/media/screenshots/63b/63bd4904de4a4dcc58f86b6d75651631.jpg"
+                },
+                {
+                    "id": 2414053,
+                    "image": "https://media.rawg.io/media/screenshots/3ba/3ba37890dec761493add08abab7e1cb9.jpg"
+                },
+                {
+                    "id": 2414054,
+                    "image": "https://media.rawg.io/media/screenshots/5b3/5b32c70f6fb30ae5879c3ac93f2351dd.jpg"
+                },
+                {
+                    "id": 2414055,
+                    "image": "https://media.rawg.io/media/screenshots/1f0/1f02bf3b452bdd54bc36b7787ec7f384.jpg"
+                },
+                {
+                    "id": 2414056,
+                    "image": "https://media.rawg.io/media/screenshots/a4b/a4b7954426e5ad8e612d5bd2d856bb9e.jpg"
+                },
+                {
+                    "id": 2414057,
+                    "image": "https://media.rawg.io/media/screenshots/1bb/1bbfc8b0b6015879d8a75f2718d50ba4.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                }
+            ]
+        },
+        {
+            "slug": "gran-turismo-6",
+            "name": "Gran Turismo 6",
+            "playtime": 10,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 3,
+                        "name": "PlayStation Store",
+                        "slug": "playstation-store"
+                    }
+                }
+            ],
+            "released": "2013-12-05",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/0d9/0d9d8b49fd76d9ea437f0d52fc2c31a4.jpg",
+            "rating": 4.17,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 66,
+                    "percent": 45.83
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 56,
+                    "percent": 38.89
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 17,
+                    "percent": 11.81
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 5,
+                    "percent": 3.47
+                }
+            ],
+            "ratings_count": 144,
+            "reviews_text_count": 0,
+            "added": 654,
+            "added_by_status": {
+                "yet": 16,
+                "owned": 467,
+                "beaten": 72,
+                "toplay": 14,
+                "dropped": 74,
+                "playing": 11
+            },
+            "metacritic": null,
+            "suggestions_count": 327,
+            "updated": "2025-02-07T18:27:21",
+            "id": 3820,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 2,
+                "name": "Everyone 10+",
+                "slug": "everyone-10-plus",
+                "name_en": "Everyone 10+",
+                "name_ru": "С 10 лет"
+            },
+            "user_game": null,
+            "reviews_count": 144,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/0d9/0d9d8b49fd76d9ea437f0d52fc2c31a4.jpg"
+                },
+                {
+                    "id": 603183,
+                    "image": "https://media.rawg.io/media/screenshots/23f/23f99532f874d0a4fedfb396e38971e0.jpg"
+                },
+                {
+                    "id": 603184,
+                    "image": "https://media.rawg.io/media/screenshots/98a/98a65d399895ec8bb4b3891a85337dcf.jpg"
+                },
+                {
+                    "id": 603185,
+                    "image": "https://media.rawg.io/media/screenshots/1e2/1e29e74c509495502b2ccfd252cc33cc.jpg"
+                },
+                {
+                    "id": 603186,
+                    "image": "https://media.rawg.io/media/screenshots/d75/d75a98dc376daaac8aee3bf5c18f04f9.jpg"
+                },
+                {
+                    "id": 603187,
+                    "image": "https://media.rawg.io/media/screenshots/5cd/5cd41ba4c41e680d25c8c9a8d12b9e46.jpg"
+                },
+                {
+                    "id": 603188,
+                    "image": "https://media.rawg.io/media/screenshots/fc5/fc5905876886c415cb8d45bfb7e64313.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                }
+            ]
+        },
+        {
+            "slug": "gran-turismo-5",
+            "name": "Gran Turismo 5",
+            "playtime": 63,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "2010-11-24",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/dc1/dc19247b653958c45f0625a097d7623a.jpg",
+            "rating": 4.15,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 82,
+                    "percent": 47.13
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 63,
+                    "percent": 36.21
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 25,
+                    "percent": 14.37
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 4,
+                    "percent": 2.3
+                }
+            ],
+            "ratings_count": 174,
+            "reviews_text_count": 0,
+            "added": 877,
+            "added_by_status": {
+                "yet": 21,
+                "owned": 642,
+                "beaten": 95,
+                "toplay": 15,
+                "dropped": 98,
+                "playing": 6
+            },
+            "metacritic": 84,
+            "suggestions_count": 356,
+            "updated": "2025-02-24T18:33:52",
+            "id": 39080,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 1,
+                "name": "Everyone",
+                "slug": "everyone",
+                "name_en": "Everyone",
+                "name_ru": "Для всех"
+            },
+            "user_game": null,
+            "reviews_count": 174,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/dc1/dc19247b653958c45f0625a097d7623a.jpg"
+                },
+                {
+                    "id": 510597,
+                    "image": "https://media.rawg.io/media/screenshots/dba/dba9aa32296114b1c98ea3f12d02bab7.jpg"
+                },
+                {
+                    "id": 510598,
+                    "image": "https://media.rawg.io/media/screenshots/bef/befa6a1e3e1c083df615be68db53d868.jpg"
+                },
+                {
+                    "id": 510599,
+                    "image": "https://media.rawg.io/media/screenshots/afa/afa1d9fb20c99e3efe89f27a57deaf8f.jpg"
+                },
+                {
+                    "id": 510600,
+                    "image": "https://media.rawg.io/media/screenshots/e66/e66dcacaf1d25dc016991fbadf3d00c9_mZawaOS.jpg"
+                },
+                {
+                    "id": 510601,
+                    "image": "https://media.rawg.io/media/screenshots/889/88939db4b442bb543167e1b66cc87757.jpg"
+                },
+                {
+                    "id": 510602,
+                    "image": "https://media.rawg.io/media/screenshots/7d0/7d061366fcd84b2cdf90a4d884b9d06a.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                }
+            ]
+        },
+        {
+            "slug": "gran-turismo-sport",
+            "name": "Gran Turismo Sport",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 3,
+                        "name": "PlayStation Store",
+                        "slug": "playstation-store"
+                    }
+                }
+            ],
+            "released": "2017-10-17",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/e98/e989eb7026737bbb7bd386c1d16a5735.jpg",
+            "rating": 3.92,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 280,
+                    "percent": 50.45
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 141,
+                    "percent": 25.41
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 107,
+                    "percent": 19.28
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 27,
+                    "percent": 4.86
+                }
+            ],
+            "ratings_count": 554,
+            "reviews_text_count": 1,
+            "added": 2327,
+            "added_by_status": {
+                "yet": 65,
+                "owned": 1771,
+                "beaten": 110,
+                "toplay": 41,
+                "dropped": 214,
+                "playing": 126
+            },
+            "metacritic": 75,
+            "suggestions_count": 420,
+            "updated": "2025-03-18T22:30:09",
+            "id": 24,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4491,
+                    "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3980,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                },
+                {
+                    "id": 130,
+                    "name": "Driving",
+                    "slug": "driving",
+                    "language": "eng",
+                    "games_count": 5349,
+                    "image_background": "https://media.rawg.io/media/games/370/3703c683968a54f09630dcf03366ea35.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 1,
+                "name": "Everyone",
+                "slug": "everyone",
+                "name_en": "Everyone",
+                "name_ru": "Для всех"
+            },
+            "user_game": null,
+            "reviews_count": 555,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/e98/e989eb7026737bbb7bd386c1d16a5735.jpg"
+                },
+                {
+                    "id": 172,
+                    "image": "https://media.rawg.io/media/screenshots/836/8365729b583e2d198499f9338469ad67.jpg"
+                },
+                {
+                    "id": 173,
+                    "image": "https://media.rawg.io/media/screenshots/8d0/8d01496aab8ea489fc54e348524368a4.jpg"
+                },
+                {
+                    "id": 174,
+                    "image": "https://media.rawg.io/media/screenshots/c54/c54a32105acc95ffa1402d239dcd62c1.jpg"
+                },
+                {
+                    "id": 175,
+                    "image": "https://media.rawg.io/media/screenshots/d56/d56db26bd4424304ef80ba087ff5108b.jpg"
+                },
+                {
+                    "id": 176,
+                    "image": "https://media.rawg.io/media/screenshots/c64/c6449ecfe624f4fab08188d4f4e89479.jpg"
+                },
+                {
+                    "id": 177,
+                    "image": "https://media.rawg.io/media/screenshots/818/818d10030bc1a8dfa14c7f7b4972e598.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                }
+            ]
+        },
+        {
+            "slug": "gran-turismo-5-prologue",
+            "name": "Gran Turismo 5 Prologue",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "2007-12-13",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/7bd/7bde227a5542d9a118433057af910615.jpg",
+            "rating": 3.62,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 5,
+                    "percent": 62.5
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 1,
+                    "percent": 12.5
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 1,
+                    "percent": 12.5
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 1,
+                    "percent": 12.5
+                }
+            ],
+            "ratings_count": 8,
+            "reviews_text_count": 0,
+            "added": 25,
+            "added_by_status": {
+                "owned": 6,
+                "beaten": 11,
+                "toplay": 2,
+                "dropped": 6
+            },
+            "metacritic": null,
+            "suggestions_count": 347,
+            "updated": "2022-08-10T23:18:54",
+            "id": 39079,
+            "score": null,
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 8,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/7bd/7bde227a5542d9a118433057af910615.jpg"
+                },
+                {
+                    "id": 510283,
+                    "image": "https://media.rawg.io/media/screenshots/db4/db496e062c1dda731f7eb9200c9a9ead.jpg"
+                },
+                {
+                    "id": 510284,
+                    "image": "https://media.rawg.io/media/screenshots/87f/87ff01131a9e976584edfa7e170b0fdb.jpg"
+                },
+                {
+                    "id": 510285,
+                    "image": "https://media.rawg.io/media/screenshots/b2f/b2f87c3d0c0ea8ee90b9a5643a827219.jpg"
+                },
+                {
+                    "id": 510286,
+                    "image": "https://media.rawg.io/media/screenshots/68e/68ec0a7390128d248925e0ce93c8c949.jpg"
+                },
+                {
+                    "id": 510287,
+                    "image": "https://media.rawg.io/media/screenshots/881/8810b6c61571b6b28a2f13d6173cb7e1.jpg"
+                },
+                {
+                    "id": 510288,
+                    "image": "https://media.rawg.io/media/screenshots/e51/e519d6c0717560e0da7716c162be774b.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "slug": "gran-turismo-spec-ii",
+            "name": "Gran Turismo Sport: Spec II",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 3,
+                        "name": "PlayStation Store",
+                        "slug": "playstation-store"
+                    }
+                }
+            ],
+            "released": "2019-10-04",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/55a/55a64030ca1dace6716c74973a03c2b8.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 6,
+            "added_by_status": {
+                "owned": 3,
+                "toplay": 2,
+                "dropped": 1
+            },
+            "metacritic": null,
+            "suggestions_count": 282,
+            "updated": "2023-06-26T13:25:54",
+            "id": 379648,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 115,
+                    "name": "Controller",
+                    "slug": "controller",
+                    "language": "eng",
+                    "games_count": 12674,
+                    "image_background": "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg"
+                },
+                {
+                    "id": 33,
+                    "name": "VR",
+                    "slug": "vr",
+                    "language": "eng",
+                    "games_count": 12588,
+                    "image_background": "https://media.rawg.io/media/screenshots/c02/c02c64324edc2045ea1fc0601cdaaa0c.jpg"
+                },
+                {
+                    "id": 130,
+                    "name": "Driving",
+                    "slug": "driving",
+                    "language": "eng",
+                    "games_count": 5245,
+                    "image_background": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+                },
+                {
+                    "id": 413,
+                    "name": "online",
+                    "slug": "online",
+                    "language": "eng",
+                    "games_count": 6550,
+                    "image_background": "https://media.rawg.io/media/games/9f1/9f1891779cb20f44de93cef33b067e50.jpg"
+                },
+                {
+                    "id": 625,
+                    "name": "party",
+                    "slug": "party",
+                    "language": "eng",
+                    "games_count": 4152,
+                    "image_background": "https://media.rawg.io/media/screenshots/35a/35a5b7aba92cb3cac5e3dde272336edf.jpg"
+                },
+                {
+                    "id": 1407,
+                    "name": "race",
+                    "slug": "race",
+                    "language": "eng",
+                    "games_count": 6789,
+                    "image_background": "https://media.rawg.io/media/screenshots/085/08553ac02c3d79bba1703dd4dc967b68.jpg"
+                },
+                {
+                    "id": 1632,
+                    "name": "cars",
+                    "slug": "cars",
+                    "language": "eng",
+                    "games_count": 5833,
+                    "image_background": "https://media.rawg.io/media/games/e4b/e4b42b75dfeaf7921946055bd6708861.jpg"
+                },
+                {
+                    "id": 844,
+                    "name": "simulator",
+                    "slug": "simulator",
+                    "language": "eng",
+                    "games_count": 7348,
+                    "image_background": "https://media.rawg.io/media/screenshots/07e/07e706154f3890863520c64d12f34c81.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 1,
+                "name": "Everyone",
+                "slug": "everyone",
+                "name_en": "Everyone",
+                "name_ru": "Для всех"
+            },
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/55a/55a64030ca1dace6716c74973a03c2b8.jpg"
+                },
+                {
+                    "id": 2194420,
+                    "image": "https://media.rawg.io/media/screenshots/661/6617213507260ee992fc39ba9864d5c4.jpg"
+                },
+                {
+                    "id": 2194421,
+                    "image": "https://media.rawg.io/media/screenshots/aa2/aa2cb24a357f386879e0900ec704e04f.jpg"
+                },
+                {
+                    "id": 2194422,
+                    "image": "https://media.rawg.io/media/screenshots/4d6/4d69866d84be5077577d2afc133164e1.jpg"
+                },
+                {
+                    "id": 2194423,
+                    "image": "https://media.rawg.io/media/screenshots/080/0803deacee1563a81688ad33d2156cba.jpg"
+                },
+                {
+                    "id": 2194424,
+                    "image": "https://media.rawg.io/media/screenshots/aa2/aa21297eb6e6f2a0fa487f0ff0412c5f.jpg"
+                },
+                {
+                    "id": 2194425,
+                    "image": "https://media.rawg.io/media/screenshots/68a/68a8838de3a2d9aa821b461396e6bb97.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                }
+            ]
+        },
+        {
+            "slug": "omega-boost",
+            "name": "Omega Boost",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 27,
+                        "name": "PlayStation",
+                        "slug": "playstation1"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "1999-04-22",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/0dc/0dcda6d4ec754fb4e419021bed117ce3.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 3,
+                    "percent": 75.0
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 1,
+                    "percent": 25.0
+                }
+            ],
+            "ratings_count": 4,
+            "reviews_text_count": 0,
+            "added": 14,
+            "added_by_status": {
+                "owned": 7,
+                "beaten": 3,
+                "toplay": 3,
+                "playing": 1
+            },
+            "metacritic": null,
+            "suggestions_count": 306,
+            "updated": "2022-08-23T04:05:10",
+            "id": 57660,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 31,
+                    "name": "Singleplayer",
+                    "slug": "singleplayer",
+                    "language": "eng",
+                    "games_count": 227300,
+                    "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+                },
+                {
+                    "id": 37796,
+                    "name": "exclusive",
+                    "slug": "exclusive",
+                    "language": "eng",
+                    "games_count": 4496,
+                    "image_background": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg"
+                },
+                {
+                    "id": 37797,
+                    "name": "true exclusive",
+                    "slug": "true-exclusive",
+                    "language": "eng",
+                    "games_count": 3983,
+                    "image_background": "https://media.rawg.io/media/games/dfa/dfa0906773ebb8a50d15548ac5b8ee5e.jpg"
+                }
+            ],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 4,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/0dc/0dcda6d4ec754fb4e419021bed117ce3.jpg"
+                },
+                {
+                    "id": 763719,
+                    "image": "https://media.rawg.io/media/screenshots/61d/61d33546775c8d7d7374f0250416a564.jpg"
+                },
+                {
+                    "id": 763720,
+                    "image": "https://media.rawg.io/media/screenshots/e67/e675a0aac38ba90190a4e362b2bdc3ef.jpg"
+                },
+                {
+                    "id": 763721,
+                    "image": "https://media.rawg.io/media/screenshots/603/6030aae5d48edc015c96efed04feea8f.jpg"
+                },
+                {
+                    "id": 763722,
+                    "image": "https://media.rawg.io/media/screenshots/044/0440481d4ad9842633927d49aadc873b.jpg"
+                },
+                {
+                    "id": 763723,
+                    "image": "https://media.rawg.io/media/screenshots/967/967e2ef97ebbacd24bfad6b16024a9d4.jpg"
+                },
+                {
+                    "id": 763724,
+                    "image": "https://media.rawg.io/media/screenshots/ea2/ea2a30207ae30fdce8e7c7ba047feaed.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": []
+        },
+        {
+            "slug": "gran-turismo-5-corvette-stingray-dlc",
+            "name": "Gran Turismo 5: Corvette Stingray DLC",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "stores": null,
+            "released": "2013-01-15",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/939/9392b861e20651369952e2639960ba64.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 4,
+            "added_by_status": {
+                "owned": 3,
+                "dropped": 1
+            },
+            "metacritic": null,
+            "suggestions_count": 198,
+            "updated": "2019-01-09T12:41:06",
+            "id": 41902,
+            "score": null,
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/939/9392b861e20651369952e2639960ba64.jpg"
+                },
+                {
+                    "id": 604958,
+                    "image": "https://media.rawg.io/media/screenshots/61c/61c1cd7533fc1d756939fa36cb36e57a.jpg"
+                },
+                {
+                    "id": 604959,
+                    "image": "https://media.rawg.io/media/screenshots/87c/87c55e7610e405abab07bd67998a7243_oQN6j00.jpg"
+                },
+                {
+                    "id": 604960,
+                    "image": "https://media.rawg.io/media/screenshots/233/2339ea24ec10dd760fee5aa0da7b081c.jpg"
+                },
+                {
+                    "id": 604961,
+                    "image": "https://media.rawg.io/media/screenshots/028/028b01edcc60d5b64fac412777fb87d9.jpg"
+                },
+                {
+                    "id": 604962,
+                    "image": "https://media.rawg.io/media/screenshots/006/006c7cf23e681401d8d24ad784ed326a.jpg"
+                },
+                {
+                    "id": 604963,
+                    "image": "https://media.rawg.io/media/screenshots/939/9392b861e20651369952e2639960ba64.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        }
+    ],
+    "user_platforms": false
+}

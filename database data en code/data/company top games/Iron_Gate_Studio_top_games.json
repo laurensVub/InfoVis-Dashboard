@@ -1,0 +1,592 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "slug": "destroyer-the-u-boat-hunter",
+            "name": "Destroyer: The U-Boat Hunter",
+            "playtime": 2,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 1,
+                        "name": "Steam",
+                        "slug": "steam"
+                    }
+                },
+                {
+                    "store": {
+                        "id": 5,
+                        "name": "GOG",
+                        "slug": "gog"
+                    }
+                }
+            ],
+            "released": "2022-09-27",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/7b4/7b4edede0cb1f97c7ff04dbe2dcde817.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 1,
+                    "percent": 100.0
+                }
+            ],
+            "ratings_count": 1,
+            "reviews_text_count": 0,
+            "added": 140,
+            "added_by_status": {
+                "yet": 7,
+                "owned": 131,
+                "dropped": 2
+            },
+            "metacritic": null,
+            "suggestions_count": 396,
+            "updated": "2023-12-08T13:24:35",
+            "id": 857720,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 31,
+                    "name": "Singleplayer",
+                    "slug": "singleplayer",
+                    "language": "eng",
+                    "games_count": 235265,
+                    "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+                },
+                {
+                    "id": 42396,
+                    "name": "Для одного игрока",
+                    "slug": "dlia-odnogo-igroka",
+                    "language": "rus",
+                    "games_count": 58120,
+                    "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+                },
+                {
+                    "id": 42417,
+                    "name": "Экшен",
+                    "slug": "ekshen",
+                    "language": "rus",
+                    "games_count": 44522,
+                    "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+                },
+                {
+                    "id": 40849,
+                    "name": "Steam Cloud",
+                    "slug": "steam-cloud",
+                    "language": "eng",
+                    "games_count": 20917,
+                    "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+                },
+                {
+                    "id": 42413,
+                    "name": "Симулятор",
+                    "slug": "simuliator",
+                    "language": "rus",
+                    "games_count": 22011,
+                    "image_background": "https://media.rawg.io/media/games/27b/27b02ffaab6b250cc31bf43baca1fc34.jpg"
+                },
+                {
+                    "id": 42411,
+                    "name": "Ранний доступ",
+                    "slug": "rannii-dostup",
+                    "language": "rus",
+                    "games_count": 16643,
+                    "image_background": "https://media.rawg.io/media/games/447/4470c1e76f01acfaf5af9c207d1c1c92.jpg"
+                },
+                {
+                    "id": 42436,
+                    "name": "Тактика",
+                    "slug": "taktika",
+                    "language": "rus",
+                    "games_count": 4348,
+                    "image_background": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg"
+                },
+                {
+                    "id": 80,
+                    "name": "Tactical",
+                    "slug": "tactical",
+                    "language": "eng",
+                    "games_count": 5721,
+                    "image_background": "https://media.rawg.io/media/games/476/476178ef18ab0534771d099f51cdc694.jpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Early Access",
+                    "slug": "early-access",
+                    "language": "eng",
+                    "games_count": 17113,
+                    "image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+                },
+                {
+                    "id": 70,
+                    "name": "War",
+                    "slug": "war",
+                    "language": "eng",
+                    "games_count": 9651,
+                    "image_background": "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg"
+                },
+                {
+                    "id": 42430,
+                    "name": "Война",
+                    "slug": "voina",
+                    "language": "rus",
+                    "games_count": 2749,
+                    "image_background": "https://media.rawg.io/media/games/d7d/d7d33daa1892e2468cd0263d5dfc957e.jpg"
+                },
+                {
+                    "id": 42460,
+                    "name": "Реализм",
+                    "slug": "realizm",
+                    "language": "rus",
+                    "games_count": 7247,
+                    "image_background": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+                },
+                {
+                    "id": 571,
+                    "name": "3D",
+                    "slug": "3d",
+                    "language": "eng",
+                    "games_count": 87867,
+                    "image_background": "https://media.rawg.io/media/games/74c/74c68a8de3d4983ff932dd456ac2dc66.jpg"
+                },
+                {
+                    "id": 77,
+                    "name": "Realistic",
+                    "slug": "realistic",
+                    "language": "eng",
+                    "games_count": 7268,
+                    "image_background": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg"
+                },
+                {
+                    "id": 89,
+                    "name": "Historical",
+                    "slug": "historical",
+                    "language": "eng",
+                    "games_count": 3545,
+                    "image_background": "https://media.rawg.io/media/games/39a/39a8aa7798b685f9625e857bc394259d.jpg"
+                },
+                {
+                    "id": 1465,
+                    "name": "combat",
+                    "slug": "combat",
+                    "language": "eng",
+                    "games_count": 13957,
+                    "image_background": "https://media.rawg.io/media/games/615/61503312a95d451198d80d9bae275f79.jpg"
+                },
+                {
+                    "id": 42503,
+                    "name": "Стратегия в реальном времени",
+                    "slug": "strategiia-v-realnom-vremeni",
+                    "language": "rus",
+                    "games_count": 2151,
+                    "image_background": "https://media.rawg.io/media/games/0fa/0fadc446fd1e9ae9e23a32793d9a5406.jpg"
+                },
+                {
+                    "id": 42431,
+                    "name": "Военные действия",
+                    "slug": "voennye-deistviia",
+                    "language": "rus",
+                    "games_count": 2135,
+                    "image_background": "https://media.rawg.io/media/games/8bd/8bd24e3c15354a9555bb1437fe555a69.jpg"
+                },
+                {
+                    "id": 168,
+                    "name": "RTS",
+                    "slug": "rts",
+                    "language": "eng",
+                    "games_count": 2605,
+                    "image_background": "https://media.rawg.io/media/games/d87/d87268c4b7b33b278cbc1f152db39729.jpg"
+                },
+                {
+                    "id": 81,
+                    "name": "Military",
+                    "slug": "military",
+                    "language": "eng",
+                    "games_count": 2149,
+                    "image_background": "https://media.rawg.io/media/games/109/10956e4561064fc4f1dda0baa540735e.jpg"
+                },
+                {
+                    "id": 40937,
+                    "name": "Steam Trading Cards",
+                    "slug": "steam-trading-cards-2",
+                    "language": "eng",
+                    "games_count": 721,
+                    "image_background": "https://media.rawg.io/media/games/e44/e445335e611b4ccf03af71fffcbd30a4.jpg"
+                },
+                {
+                    "id": 42459,
+                    "name": "Вторая мировая война",
+                    "slug": "vtoraia-mirovaia-voina",
+                    "language": "rus",
+                    "games_count": 725,
+                    "image_background": "https://media.rawg.io/media/games/b47/b47c20aa6cfd4c825d37e2bc68462e9c.jpg"
+                },
+                {
+                    "id": 105,
+                    "name": "World War II",
+                    "slug": "world-war-ii",
+                    "language": "eng",
+                    "games_count": 1006,
+                    "image_background": "https://media.rawg.io/media/games/b47/b47c20aa6cfd4c825d37e2bc68462e9c.jpg"
+                },
+                {
+                    "id": 58127,
+                    "name": "Бой",
+                    "slug": "boi-2",
+                    "language": "rus",
+                    "games_count": 8807,
+                    "image_background": "https://media.rawg.io/media/games/044/044b2ee023930ca138deda151f40c18c.jpg"
+                },
+                {
+                    "id": 42473,
+                    "name": "Immersive Sim",
+                    "slug": "immersive-sim-2",
+                    "language": "eng",
+                    "games_count": 3755,
+                    "image_background": "https://media.rawg.io/media/games/65f/65f661f1487395055ba05e0a95fc0330.jpg"
+                },
+                {
+                    "id": 42585,
+                    "name": "Тактика в реальном времени",
+                    "slug": "taktika-v-realnom-vremeni",
+                    "language": "rus",
+                    "games_count": 1963,
+                    "image_background": "https://media.rawg.io/media/screenshots/253/2539258054a5e134aec9a75fc1da7ad7.jpg"
+                },
+                {
+                    "id": 247,
+                    "name": "Real Time Tactics",
+                    "slug": "real-time-tactics",
+                    "language": "eng",
+                    "games_count": 1916,
+                    "image_background": "https://media.rawg.io/media/screenshots/31b/31bac382a13d14c5748b481326f4092b.jpg"
+                },
+                {
+                    "id": 309,
+                    "name": "Dynamic Narration",
+                    "slug": "dynamic-narration",
+                    "language": "eng",
+                    "games_count": 529,
+                    "image_background": "https://media.rawg.io/media/screenshots/a81/a810474052349689022b9bee73a9ad00.jpg"
+                },
+                {
+                    "id": 58125,
+                    "name": "Иммерсивный симулятор",
+                    "slug": "immersivnyi-simuliator",
+                    "language": "rus",
+                    "games_count": 3630,
+                    "image_background": "https://media.rawg.io/media/screenshots/722/722956391926ea2f39e7b23e028f9574.jpg"
+                },
+                {
+                    "id": 256,
+                    "name": "Naval",
+                    "slug": "naval",
+                    "language": "eng",
+                    "games_count": 367,
+                    "image_background": "https://media.rawg.io/media/screenshots/1fe/1fe5974a7744c646365f315a71b3d9f7.jpg"
+                },
+                {
+                    "id": 42649,
+                    "name": "Военные конфликты",
+                    "slug": "voennye-konflikty",
+                    "language": "rus",
+                    "games_count": 1569,
+                    "image_background": "https://media.rawg.io/media/games/c3b/c3be1d5f55cb9324c97ccb7aaaf42ad4.jpg"
+                },
+                {
+                    "id": 104,
+                    "name": "Wargame",
+                    "slug": "wargame",
+                    "language": "eng",
+                    "games_count": 1626,
+                    "image_background": "https://media.rawg.io/media/screenshots/e44/e44ff4680f9490220bfa5c45c153eed5.jpg"
+                },
+                {
+                    "id": 66539,
+                    "name": "Историческая",
+                    "slug": "istoricheskaia",
+                    "language": "rus",
+                    "games_count": 1806,
+                    "image_background": "https://media.rawg.io/media/games/9e2/9e27325d5144e9f6861fc6b6b8356665.jpg"
+                },
+                {
+                    "id": 2197,
+                    "name": "submarine",
+                    "slug": "submarine",
+                    "language": "eng",
+                    "games_count": 598,
+                    "image_background": "https://media.rawg.io/media/screenshots/6a1/6a164a4cfda5280fdb63d1a0fedde511.jpg"
+                },
+                {
+                    "id": 74998,
+                    "name": "Динамическое повествование",
+                    "slug": "dinamicheskoe-povestvovanie",
+                    "language": "rus",
+                    "games_count": 383,
+                    "image_background": "https://media.rawg.io/media/games/9ac/9acdbcf11b7aa2c9d629ee38f8fa8c71.jpg"
+                },
+                {
+                    "id": 73243,
+                    "name": "Флот",
+                    "slug": "flot",
+                    "language": "eng",
+                    "games_count": 180,
+                    "image_background": "https://media.rawg.io/media/screenshots/82d/82dfe2776a454b05894c154713f6cd2d.jpg"
+                },
+                {
+                    "id": 49971,
+                    "name": "Naval Combat",
+                    "slug": "naval-combat-2",
+                    "language": "eng",
+                    "games_count": 206,
+                    "image_background": "https://media.rawg.io/media/screenshots/817/81769adce701e16b93caf03c11738140.jpg"
+                },
+                {
+                    "id": 60140,
+                    "name": "Морской бой",
+                    "slug": "morskoi-boi",
+                    "language": "rus",
+                    "games_count": 192,
+                    "image_background": "https://media.rawg.io/media/games/097/097a3191f8d9bd75068e89f50f1b021c.jpg"
+                },
+                {
+                    "id": 60242,
+                    "name": "Подводная лодка",
+                    "slug": "podvodnaia-lodka",
+                    "language": "rus",
+                    "games_count": 130,
+                    "image_background": "https://media.rawg.io/media/screenshots/0f2/0f25e78c46cd8d7c10b212885e146e97.jpg"
+                }
+            ],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 1,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/7b4/7b4edede0cb1f97c7ff04dbe2dcde817.jpg"
+                },
+                {
+                    "id": 3585886,
+                    "image": "https://media.rawg.io/media/screenshots/2c8/2c86ea705eacceb9acbb9758aeba0186.jpg"
+                },
+                {
+                    "id": 3585887,
+                    "image": "https://media.rawg.io/media/screenshots/f02/f0213e2e80e0d84669194f3bcac676cf.jpg"
+                },
+                {
+                    "id": 3585888,
+                    "image": "https://media.rawg.io/media/screenshots/8be/8be3e8c8521cc2c1caac6b3a8acb6123.jpg"
+                },
+                {
+                    "id": 3585889,
+                    "image": "https://media.rawg.io/media/screenshots/ce4/ce41e1dc77206c1e77c9b7161b209fd9.jpg"
+                },
+                {
+                    "id": 3585890,
+                    "image": "https://media.rawg.io/media/screenshots/bb6/bb6541edcaf6ae38ce497108328ef9aa.jpg"
+                },
+                {
+                    "id": 3585891,
+                    "image": "https://media.rawg.io/media/screenshots/151/1514b9c9c3c225a0b4e64cb706f3ca07.jpg"
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "slug": "destroyer-the-u-boat-hunter-supporter-bundle",
+            "name": "Destroyer: The U-Boat Hunter Supporter Bundle",
+            "playtime": 0,
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "stores": [
+                {
+                    "store": {
+                        "id": 5,
+                        "name": "GOG",
+                        "slug": "gog"
+                    }
+                }
+            ],
+            "released": null,
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "suggestions_count": 0,
+            "updated": "2023-12-08T13:16:13",
+            "id": 973337,
+            "score": null,
+            "clip": null,
+            "tags": [
+                {
+                    "id": 295,
+                    "name": "Soundtrack",
+                    "slug": "soundtrack",
+                    "language": "eng",
+                    "games_count": 2923,
+                    "image_background": "https://media.rawg.io/media/games/839/83924d4b0be37f607d14a5c463dc0e47.jpg"
+                },
+                {
+                    "id": 1626,
+                    "name": "collection",
+                    "slug": "collection",
+                    "language": "eng",
+                    "games_count": 3647,
+                    "image_background": "https://media.rawg.io/media/games/13a/13a97b75b6e6b999901f6dd6fda47848.jpg"
+                },
+                {
+                    "id": 1129,
+                    "name": "art",
+                    "slug": "art",
+                    "language": "eng",
+                    "games_count": 9797,
+                    "image_background": "https://media.rawg.io/media/games/cb5/cb524d6981f187e3558527a7b7a3f7c2.jpg"
+                },
+                {
+                    "id": 5777,
+                    "name": "pack",
+                    "slug": "pack",
+                    "language": "eng",
+                    "games_count": 2644,
+                    "image_background": "https://media.rawg.io/media/screenshots/92c/92c15660f548971664fdcc66bf15e729.jpg"
+                },
+                {
+                    "id": 8409,
+                    "name": "hd",
+                    "slug": "hd",
+                    "language": "eng",
+                    "games_count": 217,
+                    "image_background": "https://media.rawg.io/media/screenshots/814/814e629ef619ef03dd65ca3e06bff46f.jpg"
+                },
+                {
+                    "id": 7813,
+                    "name": "dlc",
+                    "slug": "dlc",
+                    "language": "eng",
+                    "games_count": 91,
+                    "image_background": "https://media.rawg.io/media/screenshots/1f0/1f0009d71aa828275bdf52c3aa176b2a.jpg"
+                },
+                {
+                    "id": 2657,
+                    "name": "boat",
+                    "slug": "boat",
+                    "language": "eng",
+                    "games_count": 1014,
+                    "image_background": "https://media.rawg.io/media/screenshots/e08/e08e952b2433462369dde4072018da22.jpg"
+                },
+                {
+                    "id": 3583,
+                    "name": "book",
+                    "slug": "book",
+                    "language": "eng",
+                    "games_count": 281,
+                    "image_background": "https://media.rawg.io/media/screenshots/42c/42c2bae0084bc96d04db470ca2971977.jpg"
+                },
+                {
+                    "id": 1160,
+                    "name": "gallery",
+                    "slug": "gallery",
+                    "language": "eng",
+                    "games_count": 258,
+                    "image_background": "https://media.rawg.io/media/screenshots/49c/49c4b192c31e9b1feab343e6ce371f7f.jpg"
+                },
+                {
+                    "id": 14888,
+                    "name": "concept",
+                    "slug": "concept",
+                    "language": "eng",
+                    "games_count": 626,
+                    "image_background": "https://media.rawg.io/media/screenshots/138/1382c9371b9852af784e4cbfdf520e09.jpg"
+                },
+                {
+                    "id": 3497,
+                    "name": "hunter",
+                    "slug": "hunter",
+                    "language": "eng",
+                    "games_count": 283,
+                    "image_background": "https://media.rawg.io/media/screenshots/7c5/7c5c565b329bd661c741abc82315983f_W28pJUv.jpg"
+                }
+            ],
+            "esrb_rating": null,
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "short_screenshots": [],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": []
+        }
+    ],
+    "user_platforms": false
+}
