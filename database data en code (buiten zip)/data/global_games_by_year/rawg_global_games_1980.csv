@@ -1,0 +1,36 @@
+id,slug,name,released,metacritic,rating,ratings_count,playtime,added,platforms,genres,year
+24881,pac-man,Pac-Man,1980-05-22,62.0,4.07,304,4,819,"PC, PlayStation 4, Xbox One, Nintendo Switch, iOS, Android, Nintendo 3DS, macOS, Xbox 360, Wii U, Wii, Game Boy Advance, Game Boy Color, Game Boy, NES, Apple II, Commodore / Amiga, Atari 5200, Atari 2600, Atari 8-bit, Game Gear, Neo Geo","Casual, Family, Arcade",1980
+52424,golf-1980,Golf (1980),1980-12-31,,3.05,18,0,52,"Nintendo 3DS, Wii U, Game Boy Advance, Game Boy, NES, Atari 2600",Sports,1980
+52436,missile-command-1980,Missile Command (1980),1980-01-01,,4.16,17,0,52,"PC, Xbox 360, PlayStation, Game Boy Advance, Game Boy Color, Game Boy, Atari 5200, Atari 2600, Atari Flashback, Atari 8-bit, Atari ST","Shooter, Arcade, Action",1980
+55107,rogue,Rogue,1980-01-01,,3.94,14,0,43,"PC, Android, Linux, Classic Macintosh, Commodore / Amiga, Atari 8-bit, Atari ST",,1980
+55174,zork-i,Zork I,1980-12-01,,3.6,14,0,43,"PC, Classic Macintosh, Apple II, Commodore / Amiga, Atari 8-bit, Atari ST",,1980
+59123,battlezone-1980,Battlezone (1980),1980-01-01,,3.18,10,0,42,"Game Boy, Apple II, Commodore / Amiga, Atari 2600, Atari 8-bit, Atari ST, Atari Lynx",,1980
+52476,warlords-1980,Warlords (1980),1980-01-01,,3.44,8,0,32,"PC, Xbox 360, Game Boy Advance, Classic Macintosh, Commodore / Amiga, Atari 2600, Atari Flashback","Arcade, Action",1980
+52398,berzerk,Berzerk,1980-11-12,,3.75,6,0,27,"Atari 5200, Atari 2600","Shooter, Arcade, Action",1980
+41887,alien-invaders-plus,Alien Invaders - Plus!,1980-01-01,,2.5,5,0,26,PC,Arcade,1980
+52518,fishing-derby,Fishing Derby,1980-01-01,,3.0,5,0,24,"PC, Xbox 360, Atari 2600",Sports,1980
+52581,skiing,Skiing,1980-01-01,,3.0,7,0,23,Atari 2600,Sports,1980
+52494,boxing-1980,Boxing (1980),1980-07-01,,3.33,8,0,22,"Game Boy, Atari 2600","Fighting, Sports",1980
+52446,phoenix-1980,Phoenix (1980),1980-01-01,,3.86,5,0,21,Atari 2600,,1980
+52419,dodge-em,Dodge 'Em,1980-01-01,,0.0,2,0,20,"Atari 2600, Atari Flashback","Racing, Action",1980
+58073,wizard-and-the-princess,Wizard and the Princess,1980-01-01,,0.0,4,0,20,"PC, Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1980
+52472,arcade-pinball,Arcade Pinball,1980-01-01,,0.0,4,0,20,Atari 2600,,1980
+52515,dragster,Dragster,1980-01-01,,0.0,3,0,20,Atari 2600,Racing,1980
+330412,zork-the-great-underground-empire,Zork: The Great Underground Empire,1980-11-04,,0.0,4,0,19,"PC, Classic Macintosh, Apple II, Commodore / Amiga, Atari 8-bit, Atari ST",Adventure,1980
+52531,carnival,Carnival,1980-01-01,,0.0,3,0,19,Atari 2600,,1980
+56329,b-1-nuclear-bomber,B-1 Nuclear Bomber,1980-01-01,,0.0,2,0,18,"PC, Apple II, Commodore / Amiga, Atari 8-bit",,1980
+56408,crazy-balloon,Crazy Balloon,1980-01-01,,0.0,3,0,18,Commodore / Amiga,,1980
+58063,space-panic,Space Panic,1980-01-01,,0.0,4,0,18,,Platformer,1980
+52445,peles-soccer,Pelé's Soccer,1980-01-01,,0.0,2,0,17,Atari 2600,Sports,1980
+54591,moon-cresta,Moon Cresta,1980-05-01,,0.0,3,0,17,"PlayStation 4, Android, Wii, Commodore / Amiga, Atari 7800",,1980
+55902,sea-battle-1980,Sea Battle (1980),1980-01-01,,3.0,5,0,17,"Game Boy, Atari 2600",Strategy,1980
+308063,eamon,Eamon,1980-12-30,,0.0,3,0,16,Apple II,"Adventure, RPG",1980
+58056,rescue-at-rigel,Rescue at Rigel,1980-01-01,,0.0,3,0,16,"PC, Apple II, Commodore / Amiga, Atari 8-bit",RPG,1980
+58065,space-zap,Space Zap,1980-01-01,,0.0,3,0,16,,,1980
+56616,lords-of-karma,Lords of Karma,1980-01-01,,0.0,2,0,16,"Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1980
+52575,polaris-1980,Polaris (1980),1980-01-01,,0.0,2,0,15,Atari 2600,,1980
+55462,galactic-empire,Galactic Empire,1980-01-01,,0.0,3,0,15,"PC, Classic Macintosh, Apple II, Commodore / Amiga, Atari 8-bit, Atari ST",Strategy,1980
+56647,mission-asteroid,Mission Asteroid,1980-01-01,,0.0,2,0,15,"Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1980
+56877,voodoo-castle,Voodoo Castle,1980-01-01,,0.0,2,0,14,"Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1980
+541261,mystery-house-1980,Mystery House (1980),1980-05-05,,0.0,2,0,8,Apple II,Adventure,1980
+736302,zork-1980,Zork (1980),1980-12-01,,0.0,2,0,7,"PC, Apple II, Commodore / Amiga",Adventure,1980

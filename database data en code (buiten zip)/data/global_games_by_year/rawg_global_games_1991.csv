@@ -1,0 +1,597 @@
+id,slug,name,released,metacritic,rating,ratings_count,playtime,added,platforms,genres,year
+52175,battletoads,Battletoads,1991-06-01,69.0,3.86,329,3,1856,"PC, Xbox One, Game Boy, NES, Commodore / Amiga, Genesis, Game Gear","Platformer, Adventure, Action",1991
+22854,ultima-worlds-of-adventure-2-martian-dreams,Ultima Worlds of Adventure 2: Martian Dreams,1991-12-30,,2.08,95,1,1790,"PC, macOS","Adventure, RPG",1991
+53551,sonic-the-hedgehog,Sonic the Hedgehog (1991),1991-06-23,,4.13,498,4,1571,"PC, iOS, Android, Nintendo 3DS, Xbox 360, PlayStation 3, Wii, Game Boy Advance, Genesis, Game Gear",Platformer,1991
+261306,jill-of-the-jungle-the-complete-trilogy,Jill of the Jungle: The Complete Trilogy,1991-12-31,,2.14,56,1,1434,"PC, macOS, Linux",,1991
+25096,the-legend-of-zelda-a-link-to-the-past,The Legend of Zelda: A Link to the Past,1991-11-21,95.0,4.37,570,28,1305,"Nintendo Switch, Nintendo 3DS, Wii U, Wii, Game Boy Advance, SNES","Adventure, Action",1991
+55445,eye-of-the-beholder-ii-the-legend-of-darkmoon,Eye of the Beholder II: The Legend of Darkmoon,1991-01-01,,2.83,36,1,1121,"PC, Commodore / Amiga",RPG,1991
+29908,another-world,Another World,1991-01-01,,4.2,192,1,803,"PC, Nintendo Switch, iOS, Android, SNES, Classic Macintosh, Apple II, Commodore / Amiga, Atari ST, Genesis, 3DO, Jaguar","Arcade, Platformer, Adventure, Puzzle",1991
+22388,commander-keen,Commander Keen,1991-08-02,,3.7,53,1,682,PC,Action,1991
+55526,leisure-suit-larry-5-passionate-patti-does-a-lit-2,Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work,1991-09-07,,3.52,23,1,616,"PC, Classic Macintosh, Commodore / Amiga",Adventure,1991
+22379,keen-dreams,Keen Dreams,1991-03-03,,2.47,15,5,468,"PC, Nintendo Switch, Android, macOS, Linux","Platformer, Action",1991
+17143,crystal-caves,Crystal Caves,1991-10-22,,2.25,12,1,369,"PC, macOS, Linux","Platformer, Arcade, Action",1991
+14975,streets-of-rage,Streets of Rage,1991-08-02,,4.28,182,7,367,"PC, iOS, Android, Nintendo 3DS, Linux, Wii, Classic Macintosh, Genesis, SEGA Master System, Game Gear","Arcade, Action",1991
+5498,lemmings,Lemmings,1991-01-01,,4.15,124,1,351,"PC, iOS, PlayStation 3, PlayStation, Game Boy, SNES, NES, Classic Macintosh, Commodore / Amiga, Atari ST, Genesis, SEGA Master System, 3DO, Game Gear","Strategy, Arcade, Action, Puzzle",1991
+17704,monuments-of-mars,Monuments of Mars,1991-05-04,,2.0,8,1,314,"PC, macOS","Platformer, Action",1991
+17512,arctic-adventure,Arctic Adventure,1991-05-04,,1.67,9,1,310,"PC, macOS","Shooter, Platformer, Action",1991
+17621,dark-ages,Dark Ages,1991-02-01,,2.12,8,1,308,"PC, macOS","Platformer, Action",1991
+52937,final-fantasy-iv-1991,Final Fantasy IV (1991),1991-07-19,,4.05,112,0,305,"iOS, PlayStation, Game Boy Advance, SNES",RPG,1991
+54096,teenage-mutant-ninja-turtles-iii-the-manhattan-pro,Teenage Mutant Ninja Turtles III: The Manhattan Project,1991-12-13,,4.39,129,0,277,NES,Action,1991
+24059,super-castlevania-iv,Super Castlevania IV,1991-10-31,,4.16,94,2,251,"PC, PlayStation 4, Xbox One, Nintendo Switch, Nintendo 3DS, Wii U, Wii, SNES","Platformer, Adventure, Action",1991
+32674,monkey-island-2-lechucks-revenge,Monkey Island 2: LeChuck's Revenge,1991-01-01,,4.24,136,0,239,"PC, macOS, Classic Macintosh, Commodore / Amiga",Adventure,1991
+49800,prehistorik-2017,Prehistorik,1991-01-01,,3.75,40,1,237,"PC, iOS, Android, macOS, Commodore / Amiga, Atari ST","Platformer, Arcade",1991
+55132,street-fighter-2,Street Fighter II: The World Warrior (1991),1991-07-14,84.0,4.28,99,0,236,"PC, PlayStation 3, Wii U, Wii, Game Boy, SNES, Commodore / Amiga, Atari ST, Genesis, 3DO","Arcade, Fighting",1991
+31584,eternam,Eternam,1991-12-31,,2.67,6,1,207,"PC, macOS, Linux","Adventure, Action",1991
+57048,golden-axe-ii-1991,Golden Axe II (1991),1991-12-26,,4.01,82,0,196,"PC, iOS, Wii, Genesis","Arcade, Action",1991
+49246,prophecy-i-the-viking-child,Prophecy I - The Viking Child,1991-06-30,,0.0,3,1,187,"PC, macOS, Linux","Arcade, Adventure, Action",1991
+54102,tiny-toon-adventures,Tiny Toon Adventures,1991-12-20,,4.14,79,0,183,NES,Platformer,1991
+29886,pushover,Pushover,1991-12-31,,3.38,8,1,183,"PC, macOS, Linux, SNES, Commodore / Amiga, Atari ST","Arcade, Strategy, Adventure, Puzzle",1991
+57196,sunset-riders,Sunset Riders,1991-09-04,,4.33,96,0,182,"PlayStation 4, Nintendo Switch, SNES, Genesis","Shooter, Platformer, Action",1991
+53941,mega-man-4,Mega Man 4 (1991),1991-12-06,,3.87,71,0,179,"iOS, Android, Nintendo 3DS, PlayStation, NES","Platformer, Action",1991
+30465,the-simpsons-arcade-game,The Simpsons Arcade Game,1991-01-01,,3.79,29,6,175,"PC, PlayStation 3",Arcade,1991
+30463,elf,Elf,1991-01-01,,0.0,4,1,169,PC,"Arcade, Adventure, Action",1991
+32062,sid-meiers-civilization,Sid Meier's Civilization,1991-08-30,,4.26,89,0,164,"PC, macOS, PlayStation, SNES, Classic Macintosh, Commodore / Amiga, Atari ST, SEGA Saturn","Strategy, Simulation",1991
+35880,spark,Spark,1991-12-23,,0.0,4,1,162,"PC, macOS","Adventure, Action, Puzzle, Casual, Strategy, Indie",1991
+13723,f-117a-nighthawk-stealth-fighter-20,F-117A Nighthawk Stealth Fighter 2.0,1991-01-01,,0.0,4,1,153,"PC, Linux",Simulation,1991
+53022,hugo-1991,Hugo (1991),1991-01-01,,3.66,62,0,143,"PC, PlayStation, Game Boy, Commodore / Amiga",Action,1991
+20926,star-trek-25th-anniversary,Star Trek: 25th Anniversary,1991-01-01,,3.73,11,1,136,"PC, macOS, Linux, Game Boy, NES, Classic Macintosh, Commodore / Amiga","Adventure, Action, Simulation",1991
+55424,dragons-lair-2-time-warp,Dragon's Lair II: Time Warp,1991-06-16,,4.29,17,1,135,"PC, iOS, Android, Nintendo DS, macOS, Linux, PlayStation 3, Classic Macintosh, Commodore / Amiga, Atari ST","Arcade, Casual, Adventure, Action",1991
+22830,populous-2-trials-of-the-olympian-gods,Populous 2: Trials of the Olympian Gods,1991-11-30,,3.1,10,1,130,"PC, macOS, SNES, Classic Macintosh, Commodore / Amiga, Atari ST, Genesis",Strategy,1991
+24151,metroid-ii-return-of-samus,Metroid II - Return of Samus,1991-11-01,,3.43,45,6,130,"Nintendo 3DS, Game Boy","Platformer, Adventure, Action",1991
+53736,captain-america-and-the-avengers,Captain America and The Avengers,1991-01-01,,3.64,52,0,128,"Game Boy, SNES, NES, Genesis, Game Gear","Platformer, Action",1991
+53789,the-little-mermaid,The Little Mermaid,1991-07-19,,3.96,53,0,127,"Game Boy, NES","Platformer, Adventure, Action",1991
+53585,super-ghoulsn-ghosts,Super Ghouls 'n Ghosts (1991),1991-10-04,78.0,3.87,45,0,124,"Xbox, PlayStation 3, Game Boy Advance, SNES","Platformer, Adventure, Action",1991
+53798,double-dragon-3-the-rosetta-stone,Double Dragon III: The Sacred Stones (1991),1991-02-22,,3.76,45,0,119,"PC, Xbox One, PlayStation 4, Wii U, Game Boy, NES, Commodore / Amiga, Atari ST, Genesis","Arcade, Fighting",1991
+53975,ninja-gaiden-iii-the-ancient-ship-of-doom,Ninja Gaiden III: The Ancient Ship of Doom (1991),1991-06-21,,4.11,34,0,111,"NES, Atari Lynx, SEGA 32X","Platformer, Action",1991
+54150,wolverine,Wolverine,1991-10-01,,3.25,12,0,109,NES,Action,1991
+53663,adventure-island-ii-1991,Adventure Island II (1991),1991-04-26,,4.05,37,0,102,"Game Boy, NES","Platformer, Adventure, Action",1991
+52803,civilization,Civilization,1991-01-01,,4.33,39,0,102,"PC, PlayStation, SNES, Classic Macintosh, Commodore / Amiga, Atari ST",,1991
+30509,pools-of-darkness,Pools of Darkness,1991-01-01,,1.83,6,7,100,"PC, Classic Macintosh, Commodore / Amiga",RPG,1991
+32510,gateway-to-the-savage-frontier,Gateway to the Savage Frontier,1991-01-01,,0.0,5,1,98,"PC, Commodore / Amiga",RPG,1991
+259786,quackshot,QuackShot,1991-12-19,,4.08,38,0,93,"Genesis, SEGA Saturn","Platformer, Adventure, Action",1991
+32742,supaplex,Supaplex,1991-01-01,,4.21,33,1,89,"PC, iOS, macOS, Commodore / Amiga","Action, Puzzle, Casual, Arcade, Indie",1991
+53422,micro-machines-old,Micro Machines (Old),1991-01-01,,4.05,44,0,86,"PC, Game Boy Advance, Game Boy, SNES, NES, Commodore / Amiga, Genesis, SEGA Master System, Game Gear",Racing,1991
+23671,king-of-the-monsters,KING OF THE MONSTERS,1991-01-01,,3.17,6,2,85,"PC, PlayStation 4, Xbox One, Nintendo Switch, iOS, macOS, Linux, Wii, SNES, Classic Macintosh, Genesis, Neo Geo","Casual, Action, Fighting",1991
+54053,snake-rattle-n-roll,Snake Rattle 'n' Roll,1991-03-27,,3.92,37,0,79,"Game Boy, NES, Genesis",,1991
+53882,joe-mac,Joe & Mac,1991-12-31,,3.78,26,0,77,"PC, Game Boy, SNES, NES, Commodore / Amiga, Genesis","Platformer, Arcade",1991
+54043,the-simpsons-bart-vs-the-space-mutants,The Simpsons: Bart vs. the Space Mutants,1991-01-01,,3.03,31,0,72,"PC, NES, Commodore / Amiga, Atari ST, Genesis, SEGA Master System, Game Gear","Arcade, Puzzle",1991
+52784,captain-commando,Captain Commando,1991-09-01,,3.64,28,0,71,"PlayStation, SNES",,1991
+257184,disneys-talespin-1991,Disney's TaleSpin (TurboGrafx-16),1991-12-01,,3.87,29,0,68,PC,"Platformer, Action",1991
+53710,batman-return-of-the-joker,Batman: Return of the Joker,1991-12-20,,3.88,24,0,67,"Game Boy, NES, Genesis",Action,1991
+30003,home-alone,Home Alone,1991-01-01,,3.44,25,0,66,"PC, Game Boy, SNES, NES, Commodore / Amiga, Genesis","Arcade, Action",1991
+55412,death-knights-of-krynn,Death Knights of Krynn,1991-01-01,,0.0,4,0,64,"PC, Commodore / Amiga",RPG,1991
+44583,battle-chess-ii-chinese-chess,Battle Chess II: Chinese Chess,1991-01-01,,0.0,4,1,63,"PC, macOS, Linux",Strategy,1991
+54951,alien-storm-1991,Alien Storm (1991),1991-06-28,,3.93,27,0,61,"PC, Wii, Commodore / Amiga, Atari ST, Genesis, SEGA Master System",Shooter,1991
+53727,bomberman-ii,Bomberman II,1991-06-28,,3.86,21,0,60,NES,Puzzle,1991
+30036,commander-keen-4-secret-of-the-oracle,Commander Keen 4: Secret of the Oracle,1991-12-15,,4.04,24,0,56,PC,"Platformer, Action",1991
+23151,the-dagger-of-amon-ra,The Dagger of Amon Ra,1991-12-31,,0.0,2,19,55,PC,Adventure,1991
+54305,road-rash-old,Road Rash (1991),1991-09-01,,4.17,29,0,55,"Game Boy Color, Game Boy, Commodore / Amiga, Atari ST, Genesis, SEGA CD, SEGA Master System, Game Gear",Racing,1991
+33878,dangerous-dave-in-the-haunted-mansion,Dangerous Dave in the Haunted Mansion,1991-01-01,,3.85,25,0,53,PC,"Platformer, Action",1991
+401791,duke-nukem,Duke Nukem,1991-07-01,,3.6,20,0,53,PC,Arcade,1991
+55808,final-fantasy-adventure,Final Fantasy Adventure,1991-06-08,,3.36,14,0,53,"Nintendo Switch, Game Boy",RPG,1991
+442851,samurai-pizza-cats,Samurai Pizza Cats,1991-07-19,,4.43,21,0,51,NES,Platformer,1991
+22883,dangerous-dave-pack,Dangerous Dave Pack,1991-01-01,,3.88,8,1,51,PC,"Platformer, Arcade, Action",1991
+368964,tom-jerry-the-ultimate-game-of-cat-and-mouse,Tom & Jerry: The Ultimate Game of Cat and Mouse!,1991-12-01,,3.94,17,0,50,NES,Platformer,1991
+32176,paperboy-2,Paperboy 2,1991-01-01,,4.08,13,0,50,"PC, Game Boy, SNES, NES, Commodore / Amiga, Atari ST, Genesis, Game Gear","Arcade, Action",1991
+55790,castlevania-ii-belmonts-revenge,Castlevania II: Belmont's Revenge,1991-07-12,,3.47,18,0,49,Game Boy,"Platformer, Adventure, Action",1991
+57028,fantasia,Fantasia,1991-11-21,,2.83,18,0,47,Genesis,,1991
+31954,space-quest-iv,Space Quest 4: Roger Wilco and the Time Rippers,1991-01-01,,4.21,14,0,45,"PC, Classic Macintosh, Commodore / Amiga",Adventure,1991
+31589,gods,Gods,1991-01-01,,3.72,17,0,44,"PC, Game Boy Advance, SNES, Commodore / Amiga, Atari ST, Genesis","Platformer, Arcade",1991
+25176,yoshi,Yoshi,1991-12-14,,3.0,15,0,44,"Nintendo Switch, Nintendo 3DS, Wii U, Wii, Game Boy, NES",Puzzle,1991
+54036,shatterhand,Shatterhand,1991-10-26,,4.58,11,0,44,NES,"Platformer, Action",1991
+55672,terminator-2-judgment-day,Terminator 2: Judgment Day,1991-10-31,,2.8,10,0,44,"PC, Game Boy, SNES, NES, Commodore / Amiga, Genesis, SEGA Master System, Game Gear",Shooter,1991
+30037,commander-keen-5-the-armageddon-machine,Commander Keen 5: The Armageddon Machine,1991-12-15,,4.0,12,0,41,PC,"Platformer, Arcade, Action",1991
+22908,catacombs-pack,Catacombs Pack,1991-01-01,,0.0,2,1,41,"PC, macOS",Shooter,1991
+54192,fantastic-dizzy,Fantastic Dizzy,1991-04-01,,3.8,15,0,40,"PC, NES, Commodore / Amiga, Genesis, SEGA Master System, Game Gear",Adventure,1991
+57029,fatal-fury-king-of-fighters,Fatal Fury: King of Fighters,1991-11-25,,3.0,6,0,40,"PC, Xbox One, PlayStation 4, Nintendo Switch, PlayStation 3, PSP, Wii, SNES, Genesis, Neo Geo",Fighting,1991
+54022,rockin-kats,Rockin' Kats,1991-04-05,,4.62,13,0,39,NES,"Platformer, Action",1991
+57172,shining-in-the-darkness-1991,Shining in the Darkness (1991),1991-10-29,,3.77,13,0,38,Genesis,RPG,1991
+57037,flicky-1991,Flicky (1991),1991-05-01,,3.71,14,0,37,"PC, Genesis",Action,1991
+29992,moonstone-a-hard-days-knight,Moonstone: A Hard Days Knight,1991-01-01,,4.0,10,0,37,"PC, Linux, Commodore / Amiga","Arcade, RPG",1991
+284658,robocop-2,Robocop 2,1991-01-01,,3.71,14,0,36,NES,"Shooter, Platformer, Action",1991
+25138,the-legend-of-the-mystical-ninja,The Legend of The Mystical Ninja,1991-07-17,,4.0,7,0,36,"Nintendo 3DS, Wii U, Wii, Game Boy Advance, SNES","Platformer, Action",1991
+54283,might-and-magic-iii-isles-of-terra,Might and Magic III: Isles of Terra,1991-01-01,,2.29,7,0,36,"PC, SNES, Classic Macintosh, Commodore / Amiga, SEGA CD",RPG,1991
+23127,titus-the-fox,Titus The Fox: To Marrakech and Back,1991-12-31,,0.0,2,0,36,"PC, macOS, Linux","Adventure, Action, RPG, Arcade, Platformer",1991
+943532,robo-army,Robo Army,1991-12-14,,0.0,0,0,35,"PC, Xbox One, PlayStation 4, Nintendo Switch, Neo Geo",Action,1991
+32926,duke-nukem-episode-1-shrapnel-city,Duke Nukem Episode 1: Shrapnel City,1991-07-01,,3.13,14,0,35,PC,Arcade,1991
+57402,knights-of-the-round,Knights of the Round,1991-11-27,,3.93,14,0,34,SNES,,1991
+55072,mega-lo-mania,Mega Lo Mania,1991-01-01,,4.17,12,0,33,"PC, SNES, Commodore / Amiga, Atari ST, Genesis",Strategy,1991
+455549,ghost-pilots,Ghost Pilots,1991-01-24,,0.0,1,0,32,"PC, PlayStation 4, Nintendo Switch, Neo Geo",Shooter,1991
+30038,commander-keen-6-aliens-ate-my-baby-sitter,Commander Keen 6: Aliens Ate My Baby Sitter!,1991-12-20,,3.78,9,0,32,PC,Arcade,1991
+53970,nightshade-2,Nightshade,1991-12-31,,0.0,1,30,31,"PC, NES, Commodore / Amiga","Adventure, Action",1991
+24152,mega-man-dr-wilys-revenge,Mega Man: Dr. Wily's Revenge,1991-07-26,,3.18,11,0,31,"Nintendo 3DS, Game Boy",Action,1991
+30626,the-legacy-realm-of-terror,The Legacy: Realm of Terror,1991-12-31,,0.0,3,1,30,"PC, macOS, Linux","Adventure, Action, RPG",1991
+34916,duke-nukem-episode-2-mission-moonbase,Duke Nukem Episode 2: Mission Moonbase,1991-01-01,,3.0,9,0,30,PC,,1991
+34917,duke-nukem-episode-3-trapped-in-the-future,Duke Nukem Episode 3: Trapped in the Future,1991-01-01,,3.11,9,0,29,PC,,1991
+53828,gi-joe-1991,G.I. Joe: A Real American Hero (1991),1991-01-01,,0.0,4,0,29,NES,"Platformer, Action",1991
+455542,alpha-mission-2,Alpha Mission II,1991-03-24,,0.0,1,0,29,"PC, Xbox One, PlayStation 4, Nintendo Switch, PSP, Neo Geo","Shooter, Action",1991
+31247,wing-commander-2-vengeance-of-the-kilrathi,Wing Commander 2: Vengeance of the Kilrathi,1991-01-12,,4.56,8,0,29,PC,"Action, Simulation",1991
+333033,dark-lord,Dark Lord,1991-02-08,,0.0,2,1,29,"PC, macOS, NES","Adventure, RPG, Casual, Strategy, Simulation",1991
+54243,chuck-rock,Chuck Rock,1991-01-01,,3.0,7,0,29,"Game Boy, SNES, Commodore / Amiga, Atari ST, Genesis, SEGA CD, SEGA Master System, Game Gear","Platformer, Action",1991
+55936,teenage-mutant-ninja-turtles-ii-back-from-the-sewe,Teenage Mutant Ninja Turtles II: Back from the Sewers,1991-11-15,,3.3,9,0,29,Game Boy,,1991
+57398,the-king-of-dragons,The King of Dragons,1991-08-05,,4.38,8,0,29,SNES,"Arcade, Action",1991
+31620,scorched-earth-the-mother-of-all-games,Scorched Earth: The Mother of All Games,1991-01-01,,4.4,10,0,29,PC,Strategy,1991
+55631,the-simpsons,The Simpsons,1991-03-04,,3.43,7,0,28,"PC, Xbox 360, PlayStation 3, Commodore / Amiga","Platformer, Arcade, Action",1991
+54306,sengoku-1991,SENGOKU I,1991-02-12,,0.0,1,0,28,"PC, Xbox One, PlayStation 4, Nintendo Switch, SNES, SEGA CD, Neo Geo","Action, Fighting",1991
+30404,eye-of-the-beholder-2-the-legend-of-darkmoon,Eye of the Beholder 2: The Legend of Darkmoon,1991-01-01,,0.0,5,0,27,PC,RPG,1991
+30007,skifree,SkiFree,1991-01-01,,3.67,9,0,27,"PC, iOS","Casual, Racing, Arcade, Sports",1991
+54137,werewolf-the-last-warrior,Werewolf: The Last Warrior,1991-06-28,,3.44,8,0,26,NES,,1991
+30413,the-blues-brothers,The Blues Brothers,1991-01-01,,3.17,6,0,26,"PC, Game Boy, SNES, NES, Commodore / Amiga, Atari ST",Arcade,1991
+31604,simant,SimAnt,1991-01-01,,4.25,8,0,26,"PC, SNES, Classic Macintosh, Commodore / Amiga","Strategy, Educational",1991
+55274,kid-icarus-of-myths-and-monsters-2,Kid Icarus: Of Myths and Monsters,1991-11-05,,3.17,6,0,25,Game Boy,Action,1991
+33649,strip-poker-3,Strip Poker 3,1991-01-01,,0.0,3,0,25,PC,Card,1991
+57232,wonder-boy-in-monster-world-1991,Wonder Boy in Monster World (1991),1991-10-25,,3.0,6,0,25,"PC, Wii, Genesis, SEGA Master System","Platformer, Action",1991
+4375,wonder-boy-in-monster-world,WONDER BOY IN MONSTER WORLD,1991-10-25,,0.0,2,0,25,"PC, PlayStation 3, Wii, Genesis",Action,1991
+54132,vice-project-doom,Vice: Project Doom,1991-11-26,,4.3,8,0,25,NES,"Shooter, Platformer",1991
+29995,f-29-retaliator,F-29 Retaliator,1991-01-01,,4.14,6,0,23,"PC, Atari ST",Simulation,1991
+57527,super-r-type-1991,Super R-Type (1991),1991-07-13,,3.33,6,0,23,"Wii, SNES",,1991
+30477,cruise-for-a-corpse,Cruise for a Corpse,1991-01-01,,3.17,5,0,22,"PC, Commodore / Amiga, Atari ST",Adventure,1991
+27410,mega-man-ii,Mega Man II(3Ds/GB),1991-12-20,,3.5,8,0,22,"Nintendo 3DS, Game Boy",Platformer,1991
+57253,warsong,Warsong,1991-04-26,,4.71,6,0,22,"PC, Wii, Genesis",,1991
+55089,populous-ii-trials-of-the-olympian-gods,Populous II: Trials of the Olympian Gods,1991-01-01,,0.0,4,0,22,"PC, SNES, Classic Macintosh, Commodore / Amiga, Atari ST, Genesis",,1991
+55598,raiden-1991,Raiden (1991),1991-07-06,,0.0,2,0,22,"PlayStation, SNES, Commodore / Amiga, Atari Lynx, Genesis, Jaguar","Shooter, Action",1991
+54044,the-simpsons-bart-vs-the-world,The Simpsons: Bart vs. the World,1991-01-01,,0.0,5,0,22,"NES, Commodore / Amiga, Atari ST, SEGA Master System, Game Gear",Action,1991
+31073,metal-mutant,Metal Mutant,1991-01-01,,0.0,5,0,21,"PC, Commodore / Amiga, Atari ST",Arcade,1991
+57042,gain-ground-1991,Gain Ground (1991),1991-01-02,,3.0,9,0,21,"PC, Wii, Genesis, SEGA Master System","Strategy, Action",1991
+57277,zero-wing,Zero Wing,1991-05-31,,0.0,5,0,21,Genesis,,1991
+32412,oh-no-more-lemmings,"Oh, No! More Lemmings",1991-01-12,,0.0,5,0,21,"PC, Classic Macintosh, Commodore / Amiga, Atari ST",Arcade,1991
+55810,final-fantasy-legend-iii,Final Fantasy Legend III,1991-12-13,,0.0,2,0,20,Game Boy,RPG,1991
+23139,stunt-island,Stunt Island,1991-12-31,,0.0,1,0,20,"PC, macOS, Linux","Action, Simulation",1991
+55137,super-tennis,Super Tennis,1991-08-30,,0.0,5,0,20,"SNES, Atari ST",Sports,1991
+57257,winter-challenge-1991,Winter Challenge (1991),1991-01-01,,4.0,6,0,20,"PC, Commodore / Amiga, Genesis",Sports,1991
+55210,alien-breed-1991,Alien Breed (1991),1991-01-01,,0.0,4,0,18,Commodore / Amiga,Action,1991
+55156,turrican-ii-the-final-fight,Turrican II: The Final Fight,1991-01-07,,0.0,4,0,18,"Game Boy, Commodore / Amiga, Atari ST, Genesis","Shooter, Arcade, Action",1991
+32643,terminator-2-judgement-day,Terminator 2: Judgement Day,1991-01-01,,0.0,5,0,18,PC,Arcade,1991
+400299,epic-inferno-bundle,EPIC + Inferno Bundle,1991-12-31,,0.0,0,0,18,"PC, macOS, Linux",,1991
+33855,sextris,Sextris,1991-01-01,,0.0,3,0,18,PC,Arcade,1991
+55873,operation-c,Operation C,1991-01-08,,4.0,7,0,18,Game Boy,,1991
+55772,bart-simpsons-escape-from-camp-deadly,Bart Simpson's Escape from Camp Deadly,1991-11-01,,0.0,2,0,18,Game Boy,"Platformer, Action",1991
+33662,games-winter-challenge,Games: Winter Challenge,1991-01-01,,4.0,6,0,18,PC,Sports,1991
+53821,flying-warriors-1991,Flying Warriors (1991),1991-02-01,,0.0,3,0,17,"Wii U, NES",Action,1991
+31371,castle-of-dr-brain,Castle of Dr. Brain,1991-01-01,,0.0,4,0,17,"PC, Classic Macintosh, Commodore / Amiga","Educational, Adventure, Puzzle",1991
+56640,mercs,Mercs,1991-09-27,,0.0,5,0,17,"Wii, Commodore / Amiga, Atari ST, Genesis, SEGA Master System",Action,1991
+33615,american-gladiators,American Gladiators,1991-01-01,,3.0,7,0,17,"PC, SNES, NES, Commodore / Amiga, Genesis","Arcade, Sports",1991
+55870,ninja-gaiden-shadow,Ninja Gaiden Shadow,1991-12-13,,0.0,2,6,17,Game Boy,Action,1991
+33213,slordax-the-unknown-enemy,Slordax: The Unknown Enemy,1991-01-01,,0.0,0,1,17,PC,"Shooter, Arcade, Action",1991
+57161,rolling-thunder-2-1991,Rolling Thunder 2 (1991),1991-11-18,,0.0,3,0,16,"Wii, Genesis",,1991
+57054,growl,Growl,1991-01-01,,4.17,6,0,16,Genesis,,1991
+54190,dizzy-prince-of-the-yolkfolk-3,Dizzy Prince of the Yolkfolk,1991-12-09,,0.0,3,0,16,"PC, NES, Commodore / Amiga, Atari ST",Adventure,1991
+54921,wacky-races-1991,Wacky Races (1991),1991-12-25,,4.0,5,0,16,"Game Boy Color, NES, Commodore / Amiga, Atari ST",Platformer,1991
+32266,the-lord-of-the-rings-volume-two-the-two-towers,The Lord of the Rings Volume Two: The Two Towers,1991-01-01,,0.0,4,0,15,PC,RPG,1991
+54120,ufouria-the-saga-1991,Hebereke. U-four-ia: The Saga,1991-09-20,,0.0,4,0,15,NES,"Platformer, Action",1991
+57536,valis-iv,Valis IV,1991-08-23,,0.0,1,0,15,"Nintendo Switch, SNES","Platformer, Adventure, Action",1991
+29917,night-hawk-f-117a-stealth-fighter-20,Night Hawk F-117A Stealth Fighter 2.0,1991-01-01,,0.0,2,0,15,PC,Simulation,1991
+54972,back-to-the-future-part-iii,Back to the Future Part III,1991-01-01,,0.0,2,0,15,"PC, Commodore / Amiga, Atari ST, Genesis, SEGA Master System",Action,1991
+31898,predator-2,Predator 2,1991-01-01,,0.0,5,0,15,PC,Arcade,1991
+54091,tecmo-super-bowl,Tecmo Super Bowl,1991-12-13,,0.0,4,0,15,"PlayStation, SNES, NES, Genesis",Sports,1991
+33281,roger-rabbit-2-hare-raising-havoc,Roger Rabbit 2: Hare Raising Havoc,1991-01-01,,0.0,1,0,15,PC,Adventure,1991
+54117,doki-doki-yuenchi-crazy-land-daisakusen,Doki! Doki! Yuuenchi: Crazy Land Daisakusen,1991-08-08,,3.5,6,0,15,NES,"Platformer, Action",1991
+34133,battlefield,Battlefield,1991-01-01,,0.0,3,0,15,PC,"Casual, Strategy, Action, RPG",1991
+57344,earth-defense-force,Earth Defense Force,1991-10-25,,0.0,0,0,15,"iOS, Wii U, Wii, SNES",,1991
+55693,un-squadron,U.N. Squadron,1991-07-01,,0.0,3,0,15,"SNES, Commodore / Amiga, Atari ST",,1991
+53355,puyo-puyo,Puyo Puyo,1991-01-01,,0.0,3,0,15,"PlayStation, Game Boy Advance, Game Boy, NES, Genesis",Puzzle,1991
+55375,budokan-the-martial-spirit-1991,Budokan: The Martial Spirit (1991),1991-01-01,,0.0,3,0,15,"PC, Commodore / Amiga, Genesis",Fighting,1991
+56958,cadash,Cadash,1991-01-18,,0.0,5,0,15,"Wii, Genesis",,1991
+32104,the-godfather-the-action-game,The Godfather: The Action Game,1991-01-01,,0.0,0,0,15,PC,Arcade,1991
+29469,ecoquest-the-search-for-cetus,EcoQuest: The Search for Cetus,1991-01-01,,0.0,2,0,15,PC,"Educational, Adventure",1991
+33159,game-61,Дурак,1991-01-01,,0.0,2,0,15,PC,Card,1991
+55261,bonks-revenge,Bonk's Revenge (1991),1991-01-01,,0.0,5,0,15,"PC, Game Boy","Platformer, Action",1991
+54125,ultimate-basketball,Ultimate Basketball,1991-04-26,,0.0,3,0,14,NES,Sports,1991
+31172,planets-edge,Planet's Edge,1991-01-01,,0.0,0,0,14,"PC, macOS","Strategy, RPG, Simulation",1991
+53875,isolated-warrior,Isolated Warrior,1991-02-15,,0.0,2,0,14,NES,Action,1991
+57071,jewel-master,Jewel Master,1991-08-29,,0.0,4,0,14,Genesis,"Platformer, Action",1991
+55451,fascination-1991,Fascination (1991),1991-01-01,,0.0,1,0,14,"PC, Commodore / Amiga, Atari ST",Adventure,1991
+38816,gemfire,Gemfire,1991-08-29,,0.0,4,0,14,"PC, SNES, NES, Genesis",Strategy,1991
+32459,the-castle,The Castle,1991-01-01,,0.0,2,0,14,"PC, Linux","Casual, Indie, Strategy, Adventure",1991
+31374,conan-the-cimmerian,Conan the Cimmerian,1991-01-01,,0.0,3,0,14,PC,RPG,1991
+55915,spankys-quest,Spanky's Quest,1991-04-26,,0.0,0,0,14,"Game Boy, SNES",Action,1991
+641827,amazon-guardians-of-eden,Amazon: Guardians of Eden,1991-12-31,,0.0,0,0,14,"PC, macOS, Linux",,1991
+31263,magic-pockets,Magic Pockets,1991-01-01,,0.0,1,0,14,"PC, Commodore / Amiga, Atari ST",Arcade,1991
+55454,first-samurai,First Samurai,1991-01-01,,0.0,1,0,14,"PC, iOS, SNES, Commodore / Amiga, Atari ST","Platformer, Action",1991
+972956,prophecy-of-the-shadow,Prophecy of the Shadow,1991-12-31,,0.0,0,0,14,PC,RPG,1991
+54056,solar-jetman,Solar Jetman,1991-09-26,,0.0,1,0,13,NES,,1991
+55041,heroquest,HeroQuest,1991-01-01,,0.0,3,0,13,"PC, Commodore / Amiga, Atari ST",RPG,1991
+31058,hugo-2-whodunit,Hugo 2: Whodunit?,1991-01-01,,0.0,2,0,13,PC,Adventure,1991
+57034,fighting-masters,Fighting Masters,1991-12-06,,0.0,4,0,13,Genesis,Fighting,1991
+30568,mad-tv,Mad TV,1991-01-01,,0.0,4,0,13,"PC, Commodore / Amiga",Strategy,1991
+29392,xf5700-mantis-experimental-fighter,XF5700 Mantis Experimental Fighter,1991-12-31,,0.0,0,0,13,PC,"Adventure, Action, Simulation",1991
+57234,crude-buster,Crude Buster,1991-05-11,,0.0,3,0,13,"PC, PlayStation 4, Nintendo Switch, Genesis",Action,1991
+54173,action-52,Action 52,1991-01-01,,0.0,3,0,13,"NES, Genesis",,1991
+54143,whomp-em,Whomp 'Em,1991-03-07,,0.0,0,0,13,NES,"Platformer, Action",1991
+30359,secret-weapons-of-the-luftwaffe,Secret Weapons of the Luftwaffe,1991-01-01,,0.0,0,0,13,PC,Simulation,1991
+613511,shadoworlds,Shadoworlds,1991-12-31,,0.0,0,0,13,PC,"Strategy, Adventure, RPG",1991
+30801,teenage-mutant-ninja-turtles-the-manhattan-mission,Teenage Mutant Ninja Turtles: The Manhattan Missions,1991-01-01,,0.0,2,0,13,PC,Arcade,1991
+625807,retro-classix-wizard-fire,Retro Classix: Wizard Fire,1991-12-31,,0.0,0,1,13,PC,"Adventure, Action, RPG",1991
+33606,utopia-the-creation-of-a-nation,Utopia: The Creation of a Nation,1991-01-01,,0.0,0,0,13,"PC, SNES, Commodore / Amiga, Atari ST",Strategy,1991
+57056,gynoug,Gynoug,1991-01-25,,0.0,2,0,13,"PC, Wii, Genesis",,1991
+29600,1000-miglia,1000 Miglia,1991-01-01,,0.0,2,0,13,PC,Racing,1991
+54941,4d-sports-boxing-2,4D Sports Boxing,1991-06-15,,0.0,2,0,13,"PC, Classic Macintosh, Commodore / Amiga, Atari ST","Fighting, Sports",1991
+33742,game-78,Соборъ,1991-01-01,,0.0,3,0,13,PC,"Arcade, Fighting",1991
+29953,jones-in-the-fast-lane,Jones in the Fast Lane,1991-01-01,,0.0,4,0,13,PC,Strategy,1991
+672391,zombie-dinos-from-planet-zeltoid,Zombie Dinos from Planet Zeltoid,1991-12-31,,0.0,0,1,13,PC,"Casual, Adventure",1991
+34186,wing-commander-the-secret-missions-2-crusade,Wing Commander: The Secret Missions 2 - Crusade,1991-03-01,,0.0,0,0,12,PC,Simulation,1991
+55142,swiv,SWIV,1991-01-01,,0.0,4,0,12,"Commodore / Amiga, Atari ST",,1991
+57331,darius-twin-1991,Darius Twin (1991),1991-03-29,,0.0,1,0,12,"Wii U, Wii, SNES",,1991
+22834,alien-breed-tower-assault,Alien Breed + Tower Assault,1991-01-01,,0.0,1,0,12,PC,"Arcade, Action",1991
+39725,catacomb-3-d,Catacomb 3-D,1991-11-01,,0.0,4,0,12,PC,"Shooter, Action",1991
+55352,battle-isle,Battle Isle,1991-01-01,,0.0,3,0,12,"PC, Commodore / Amiga",,1991
+55049,jimmy-whites-whirlwind-snooker,Jimmy White's 'Whirlwind' Snooker,1991-01-01,,0.0,1,0,12,"PC, Commodore / Amiga, Atari ST, Genesis",Sports,1991
+33733,super-space-invaders,Super Space Invaders,1991-01-01,,0.0,2,0,12,PC,Arcade,1991
+29906,4d-sports-boxing,4D Sports: Boxing,1991-01-01,,0.0,1,0,12,PC,Sports,1991
+323061,golden-axe-warrior,Golden Axe Warrior,1991-01-01,,0.0,1,0,12,Genesis,RPG,1991
+55770,avenging-spirit-1991,Avenging Spirit (1991),1991-01-01,,0.0,2,0,12,"iOS, Nintendo 3DS, Game Boy",,1991
+258327,ultima-runes-of-virtue,Ultima: Runes of Virtue,1991-12-14,,0.0,0,0,12,Game Boy,"Adventure, Action, RPG",1991
+54309,sherlock-holmes-consulting-detective,Sherlock Holmes: Consulting Detective,1991-01-01,,0.0,0,0,12,"PC, Classic Macintosh, SEGA CD",Adventure,1991
+30232,chuck-yeagers-air-combat,Chuck Yeager's Air Combat,1991-01-01,,0.0,0,0,12,"PC, NES, Classic Macintosh",Simulation,1991
+29722,dragonlance-vol-2-death-knights-of-krynn,DragonLance Vol. 2: Death Knights of Krynn,1991-01-01,,0.0,2,0,12,PC,RPG,1991
+55483,hare-raising-havoc,Hare Raising Havoc,1991-01-01,,0.0,2,0,12,"PC, Commodore / Amiga",Adventure,1991
+30904,dragons-lair-escape-from-singes-castle,Dragon's Lair: Escape from Singe's Castle,1991-01-01,,0.0,1,0,12,PC,Arcade,1991
+32606,obitus,Obitus,1991-01-01,,0.0,2,0,12,"PC, SNES, Commodore / Amiga, Atari ST",RPG,1991
+33425,sherlock,Sherlock,1991-01-01,,0.0,3,0,12,PC,,1991
+33508,the-chessmaster-3000,The Chessmaster 3000,1991-01-01,,0.0,1,0,12,PC,,1991
+54181,big-nose-the-caveman,Big Nose the Caveman,1991-01-01,,0.0,2,0,12,"NES, Commodore / Amiga, Atari ST",,1991
+29807,heroes-of-the-lance,Heroes of the Lance,1991-01-01,,0.0,2,0,12,"Commodore / Amiga, Atari ST, SEGA Master System","Arcade, RPG",1991
+56984,dahna-megami-tanjo,Dahna: Megami Tanjō,1991-12-20,,0.0,1,0,12,Genesis,Action,1991
+30631,conquests-of-the-longbow,Conquests of the Longbow,1991-01-01,,0.0,1,0,12,PC,Adventure,1991
+32100,baby-jo-in-going-home,Baby Jo in 'Going Home',1991-01-01,,0.0,1,0,12,PC,Arcade,1991
+53715,beetlejuice,Beetlejuice,1991-05-01,,0.0,1,0,12,"Game Boy, NES","Platformer, Adventure, Action",1991
+57015,el-viento,El Viento,1991-09-20,,0.0,1,0,12,"PC, Genesis",,1991
+57560,ultraman-towards-the-future,Ultraman: Towards the Future,1991-04-06,,0.0,3,0,12,"SNES, Genesis",Fighting,1991
+53949,metal-storm,Metal Storm,1991-02-24,,0.0,3,0,12,NES,"Platformer, Action",1991
+29442,life-death-2-the-brain,Life & Death 2: The Brain,1991-01-01,,0.0,0,0,12,PC,Simulation,1991
+57311,brandish,Brandish,1991-10-25,78.0,0.0,2,0,12,SNES,"Action, RPG",1991
+54178,bible-adventures,Bible Adventures,1991-01-01,,0.0,0,0,11,"PC, NES, Genesis",,1991
+33865,7-colors,7 Colors,1991-01-01,,0.0,1,0,11,"PC, Commodore / Amiga",Puzzle,1991
+55637,slightly-magic,Slightly Magic,1991-01-01,,0.0,1,0,11,"PC, iOS, Android, Linux, Classic Macintosh, Commodore / Amiga, Atari ST",,1991
+33820,orbits-voyage-through-the-solar-system,Orbits: Voyage Through the Solar System,1991-01-01,,0.0,0,0,11,PC,Educational,1991
+29889,parole,Parole,1991-01-01,,0.0,1,0,11,PC,Educational,1991
+33201,ancients-1-the-deathwatch,Ancients 1: The Deathwatch,1991-01-01,,0.0,1,0,11,PC,RPG,1991
+55386,cjs-elephant-antics,CJ's Elephant Antics,1991-01-01,,0.0,0,0,11,"PC, Commodore / Amiga, Atari ST",,1991
+55436,elvira-the-arcade-game,Elvira: The Arcade Game,1991-01-01,,0.0,1,0,11,"PC, Commodore / Amiga, Atari ST",,1991
+54170,blockout-1991,Blockout (1991),1991-11-01,,0.0,3,0,11,"PC, NES, Classic Macintosh, Apple II, Commodore / Amiga, Atari ST, Genesis",Puzzle,1991
+29990,heimdall,Heimdall,1991-01-01,,0.0,2,0,11,"PC, Commodore / Amiga, Atari ST, SEGA CD",RPG,1991
+32390,space-ace-2-borfs-revenge,Space Ace 2: Borf's Revenge,1991-01-01,,0.0,1,0,11,PC,Arcade,1991
+53700,base-wars,Base Wars,1991-06-01,,0.0,2,0,11,NES,Sports,1991
+31112,spellcasting-201-the-sorcerers-appliance,Spellcasting 201: The Sorcerer's Appliance,1991-01-01,,0.0,0,0,11,PC,Adventure,1991
+31669,elite-plus,Elite Plus,1991-01-01,,0.0,1,0,11,PC,Simulation,1991
+57197,super-baseball-2020,Super Baseball 2020,1991-10-25,,0.0,1,0,11,"Xbox One, PlayStation 4, Nintendo Switch, Wii, SNES, Genesis, Neo Geo",Sports,1991
+58973,bones-the-game-of-the-haunted-mansion,Bones: The Game of the Haunted Mansion,1991-01-01,,0.0,2,0,11,PC,RPG,1991
+53294,super-soccer,Super Soccer,1991-12-13,,0.0,3,0,11,"Game Boy Advance, SNES",Sports,1991
+54963,armour-geddon,Armour-Geddon,1991-01-01,,0.0,1,0,11,"PC, Commodore / Amiga, Atari ST",Strategy,1991
+31270,links-386-pro,Links 386 Pro,1991-12-31,,0.0,0,1,11,PC,Sports,1991
+37774,neverwinter-nights-1991,Neverwinter Nights (1991),1991-01-01,,0.0,3,0,11,PC,RPG,1991
+33651,game-76,Поле чудес,1991-01-01,,0.0,1,0,11,PC,,1991
+25721,forgotten-worlds,FORGOTTEN WORLDS,1991-01-01,,0.0,0,0,11,"PC, Wii",Arcade,1991
+452610,super-spy-hunter,Super Spy Hunter,1991-09-27,,0.0,4,0,11,NES,Arcade,1991
+54082,swords-and-serpents,Swords and Serpents,1991-11-28,,0.0,2,0,10,NES,RPG,1991
+55122,spellbound-dizzy,Spellbound Dizzy,1991-11-11,,0.0,1,0,10,"Commodore / Amiga, Atari ST",Adventure,1991
+55871,ninja-taro,Ninja Taro,1991-04-08,,0.0,0,0,10,"PlayStation 4, Wii, Game Boy, NES",,1991
+55039,highway-patrol-2,Highway Patrol 2,1991-01-01,,0.0,2,0,10,"PC, Commodore / Amiga, Atari ST","Racing, Action",1991
+55059,leander,Leander,1991-01-01,,0.0,0,0,10,"Commodore / Amiga, Atari ST, Genesis","Platformer, Action",1991
+53866,hudson-hawk,Hudson Hawk,1991-01-01,,0.0,1,0,10,"Game Boy, NES, Commodore / Amiga, Atari ST",,1991
+55878,parasol-stars,Parasol Stars,1991-01-01,,0.0,2,0,10,"Game Boy, NES, Commodore / Amiga, Atari ST",,1991
+57165,saint-sword,Saint Sword,1991-06-27,,0.0,0,0,10,Genesis,"Platformer, Action",1991
+55851,mickeys-dangerous-chase,Mickey's Dangerous Chase,1991-01-01,,0.0,2,0,10,Game Boy,Platformer,1991
+34541,millennium-return-to-earth,Millennium: Return to Earth,1991-01-01,,0.0,0,0,10,PC,Strategy,1991
+30857,sabre-team,Sabre Team,1991-12-31,,0.0,0,0,10,PC,"Strategy, RPG",1991
+32822,megatraveller-2-quest-for-the-ancients,MegaTraveller 2: Quest for the Ancients,1991-01-01,,0.0,2,0,10,"PC, Commodore / Amiga",RPG,1991
+55735,checkered-flag,Checkered Flag,1991-01-01,,0.0,0,0,10,Atari Lynx,Racing,1991
+369125,asterix-1991,Asterix (1991),1991-01-01,,0.0,3,0,10,SEGA Master System,Action,1991
+31986,epic,Epic,1991-01-01,,0.0,0,0,10,"PC, Commodore / Amiga, Atari ST",Simulation,1991
+33218,carriers-at-war-1991,Carriers at War (1991),1991-01-01,,0.0,0,0,10,PC,Strategy,1991
+32531,boston-bomb-club,Boston Bomb Club,1991-01-01,,0.0,0,0,10,PC,Arcade,1991
+32369,twilight-2000,Twilight: 2000,1991-01-01,,0.0,0,0,10,PC,Strategy,1991
+57522,super-ninja-boy,Super Ninja Boy,1991-12-28,,0.0,0,0,10,"Wii U, SNES","Action, RPG",1991
+32281,timequest-1991,Timequest (1991),1991-05-17,,0.0,0,0,10,PC,Adventure,1991
+22723,castles-12,Castles 1+2,1991-01-01,,0.0,1,0,10,"PC, macOS, Linux",Strategy,1991
+53689,attack-of-the-killer-tomatoes,Attack of the Killer Tomatoes,1991-01-01,,0.0,0,0,10,"Game Boy, NES",,1991
+33513,volfied,Volfied,1991-01-01,,0.0,4,0,10,PC,Arcade,1991
+22758,tex-murphy-mean-streets-martian-memorandum,Tex Murphy: Mean Streets + Martian Memorandum,1991-12-30,,0.0,1,0,10,"PC, macOS, Linux",Adventure,1991
+34246,floor-13,Floor 13,1991-01-01,,0.0,1,0,10,PC,Adventure,1991
+57503,super-baseball-simulator-1000,Super Baseball Simulator 1.000,1991-07-12,,0.0,0,0,10,SNES,"Simulation, Sports",1991
+56995,devilish-1991,Devilish,1991-03-29,,0.0,2,0,10,"Genesis, Game Gear",Action,1991
+413883,brandish-2-the-planet-buster,Brandish 2: The Planet Buster,1991-10-25,,0.0,2,0,10,SNES,"Adventure, Action, RPG",1991
+54141,wheres-waldo,Where's Waldo?,1991-09-17,,0.0,1,0,10,NES,Puzzle,1991
+33151,lempereur,L'Empereur,1991-01-01,,0.0,0,0,10,"PC, NES",Strategy,1991
+31504,elvira-2-the-jaws-of-cerberus,Elvira 2: The Jaws of Cerberus,1991-01-01,,0.0,1,0,10,PC,RPG,1991
+55455,flames-of-freedom,Flames of Freedom,1991-01-01,,0.0,0,0,10,"PC, Commodore / Amiga, Atari ST",Simulation,1991
+31551,les-manley-lost-in-la,Les Manley: Lost in L.A.,1991-01-01,,0.0,0,0,10,PC,Adventure,1991
+57156,rent-a-hero-2,Rent a Hero,1991-09-20,,0.0,0,0,10,"Wii, Genesis",RPG,1991
+55321,the-adventures-of-robin-hood,The Adventures of Robin Hood,1991-01-01,,0.0,2,0,10,"PC, Commodore / Amiga, Atari ST","Adventure, RPG",1991
+34203,cactus-quest,Cactus Quest,1991-01-01,,0.0,1,0,10,PC,Adventure,1991
+55650,spirit-of-adventure,Spirit of Adventure,1991-02-11,,0.0,1,0,9,"PC, Commodore / Amiga, Atari ST",RPG,1991
+34568,deathbringer-the-sword-of-abaddon,Deathbringer: The Sword of Abaddon,1991-01-01,,0.0,0,0,9,PC,Arcade,1991
+53718,bill-teds-excellent-video-game-adventure,Bill & Ted's Excellent Video Game Adventure,1991-08-01,,0.0,0,0,9,NES,,1991
+53699,barker-bills-trick-shooting,Barker Bill's Trick Shooting,1991-06-27,,0.0,1,0,9,NES,Shooter,1991
+53825,frankenstein-the-monster-returns,Frankenstein: The Monster Returns,1991-07-01,,0.0,1,0,9,NES,Action,1991
+54233,after-burner-iii,After Burner III,1991-09-11,,0.0,1,0,9,SEGA CD,"Strategy, Action, Simulation",1991
+57122,nhl-hockey-1991,NHL Hockey (1991),1991-01-01,,0.0,4,0,9,Genesis,Sports,1991
+261224,bill-elliotts-nascar-fast-tracks,Bill Elliott's NASCAR Fast Tracks,1991-12-01,,0.0,1,0,9,Game Boy,Racing,1991
+30775,international-ninja-rabbit,International Ninja Rabbit,1991-01-01,,0.0,0,0,9,PC,Arcade,1991
+53920,the-lone-ranger,The Lone Ranger,1991-07-01,,0.0,2,0,9,NES,,1991
+34153,kalakh,Kalakh,1991-01-01,,0.0,1,0,9,PC,,1991
+57306,bill-laimbeers-combat-basketball,Bill Laimbeer's Combat Basketball,1991-11-01,,0.0,1,0,9,SNES,Sports,1991
+55702,viking-child,Viking Child,1991-01-01,,0.0,0,0,9,"PC, Game Boy, Commodore / Amiga, Atari ST, Atari Lynx",Action,1991
+53874,ironsword-wizards-warriors-ii,Wizards & Warriors II: Ironsword,1991-03-27,,0.0,1,0,9,NES,"Platformer, Adventure, Action",1991
+57489,spectre-1991,Spectre (1991),1991-01-01,,0.0,0,0,9,"PC, SNES, Classic Macintosh",,1991
+34053,guldkorn-expressen,Guldkorn Expressen,1991-01-01,,0.0,0,0,9,PC,Arcade,1991
+53772,darkman,Darkman,1991-01-01,,0.0,1,0,9,"Game Boy, NES, Commodore / Amiga, Atari ST",Action,1991
+34362,super-solvers-spellbound,Super Solvers: Spellbound!,1991-01-01,,0.0,1,0,9,PC,Educational,1991
+552925,the-lucky-dime-caper-starring-donald-duck,The Lucky Dime Caper starring Donald Duck,1991-10-01,,0.0,2,0,9,"SEGA Master System, Game Gear",Platformer,1991
+55739,dracula-the-undead,Dracula the Undead,1991-01-01,,0.0,1,0,9,Atari Lynx,"Adventure, Action",1991
+34181,continent,Continent,1991-01-01,,0.0,0,0,9,PC,Strategy,1991
+55236,last-ninja-3,Last Ninja 3,1991-01-01,,0.0,1,0,9,"Wii, Commodore / Amiga, Atari ST",,1991
+309157,joe-montana-ii-sports-talk-football,Joe Montana II: Sports Talk Football,1991-11-22,,0.0,0,0,9,Genesis,Sports,1991
+56997,dino-land,Dino Land,1991-01-25,,0.0,1,0,9,Genesis,Simulation,1991
+30937,cover-girl-strip-poker,Cover Girl Strip Poker,1991-01-01,,0.0,0,0,9,PC,Card,1991
+32817,penthouse-electric-jigsaw,Penthouse: Electric Jigsaw,1991-01-01,,0.0,0,0,9,PC,Puzzle,1991
+33037,grandmaster-chess,Grandmaster Chess,1991-12-31,,0.0,0,0,9,PC,Strategy,1991
+34088,animal-quest,Animal Quest,1991-12-01,,0.0,1,0,9,PC,Arcade,1991
+33115,tv-sports-boxing,TV Sports: Boxing,1991-01-01,,0.0,1,0,9,PC,Sports,1991
+373506,family-feud-nes,Family Feud (NES),1991-05-01,,0.0,0,0,9,NES,Family,1991
+53960,monster-truck-rally,Monster Truck Rally,1991-09-01,,0.0,1,0,9,NES,Racing,1991
+57378,hyperzone,HyperZone,1991-08-31,,0.0,0,0,9,SNES,,1991
+55961,wordtris,Wordtris,1991-01-01,,0.0,0,0,9,"PC, Game Boy, SNES, Classic Macintosh",Puzzle,1991
+57310,the-brainies,The Brainies,1991-01-01,,0.0,0,0,9,"PC, SNES, Classic Macintosh, Apple II, Commodore / Amiga, Atari ST",Puzzle,1991
+34507,robomaze-2-the-lobby,Robomaze 2: The Lobby,1991-01-01,,0.0,0,0,9,PC,Arcade,1991
+34404,patton-strikes-back-the-battle-of-the-bulge,Patton Strikes Back: The Battle of the Bulge,1991-01-01,,0.0,1,0,9,PC,Strategy,1991
+56939,beast-wrestler,Beast Wrestler,1991-10-14,,0.0,2,0,9,Genesis,Fighting,1991
+55017,fate-gates-of-dawn,Fate: Gates of Dawn,1991-05-01,,0.0,2,0,9,"Commodore / Amiga, Atari ST",RPG,1991
+55469,gemx,Gem'X,1991-01-01,,0.0,0,0,9,"Commodore / Amiga, Atari ST",Puzzle,1991
+30722,falcon-30,Falcon 3.0,1991-01-01,,0.0,0,0,9,PC,Simulation,1991
+34154,cubulus,Cubulus,1991-01-01,,0.0,0,0,9,PC,,1991
+55589,popeye-2,Popeye 2,1991-11-22,,0.0,1,0,9,Game Boy,Action,1991
+55572,out-run-europa,Out Run Europa,1991-01-01,,0.0,0,0,9,"Commodore / Amiga, Atari ST, SEGA Master System, Game Gear",Racing,1991
+33280,the-lost-admiral,The Lost Admiral,1991-01-01,,0.0,0,0,9,PC,Strategy,1991
+55140,super-cars-ii,Super Cars II,1991-01-01,,0.0,2,0,9,"Commodore / Amiga, Atari ST","Racing, Sports",1991
+55112,shadow-sorcerer,Shadow Sorcerer,1991-01-01,,0.0,1,0,9,"PC, Commodore / Amiga, Atari ST",RPG,1991
+324991,mario-yoshi,Mario & Yoshi,1991-12-14,,0.0,1,0,9,"Nintendo 3DS, Game Boy, NES",Puzzle,1991
+33624,realms,Realms,1991-01-01,,0.0,1,0,9,"PC, iOS, Commodore / Amiga, Atari ST","Adventure, Action, RPG, Strategy, Arcade, Indie",1991
+384492,64th-street-a-detective-story,64th Street: A Detective Story,1991-01-01,,0.0,4,0,9,,"Arcade, Action, Fighting",1991
+33113,fireteam-2200,FireTeam 2200,1991-01-01,,0.0,0,0,9,PC,Strategy,1991
+55751,warbirds-1991,Warbirds (1991),1991-01-01,,0.0,0,0,9,Atari Lynx,,1991
+544026,super-soccer-1992,Super Soccer (1992),1991-12-13,,0.0,3,0,9,SNES,Sports,1991
+739541,zzt-1991,ZZT (1991),1991-01-15,,0.0,1,0,9,PC,Adventure,1991
+56851,tony-la-russa-baseball,Tony La Russa Baseball,1991-01-01,,0.0,1,0,8,Commodore / Amiga,Sports,1991
+55914,solomons-club,Solomon's Club,1991-04-05,,0.0,0,0,8,Game Boy,"Action, Puzzle",1991
+31455,star-breaker,Star Breaker,1991-01-01,,0.0,0,0,8,PC,Arcade,1991
+55606,the-return-of-medusa,The Return of Medusa,1991-01-01,,0.0,1,0,8,"PC, Commodore / Amiga, Atari ST","Strategy, RPG",1991
+53982,over-horizon,Over Horizon,1991-04-26,,0.0,1,0,8,NES,,1991
+54836,hals-hole-in-one-golf,Hal's Hole in One Golf,1991-02-23,,0.0,1,0,8,"Game Boy Color, SNES","Simulation, Sports",1991
+32978,v-for-victory-battleset-1-d-day-utah-beach-1944,V for Victory Battleset 1: D-Day Utah Beach 1944,1991-01-01,,0.0,0,0,8,PC,Strategy,1991
+54024,roger-clemens-mvp-baseball,Roger Clemens' MVP Baseball,1991-01-01,,0.0,0,0,8,"Game Boy, SNES, NES, Genesis","Simulation, Sports",1991
+44524,the-humans-bundle,The Humans Bundle,1991-12-31,,0.0,0,0,8,"PC, macOS, Linux",,1991
+33257,sexxcapades,SeXXcapades,1991-01-01,,0.0,0,0,8,PC,Board Games,1991
+57112,mystical-fighter,Mystical Fighter,1991-10-25,,0.0,1,0,8,Genesis,"Action, Fighting",1991
+55123,spy-snatcher,Spy Snatcher,1991-01-01,,0.0,0,0,8,"PC, Atari ST",,1991
+54270,joe-montana-football,Joe Montana Football,1991-01-01,,0.0,1,0,8,"Genesis, SEGA CD, SEGA Master System, Game Gear",Sports,1991
+55869,ninja-boy-ii,Super Chinese World 2,1991-11-29,,0.0,0,0,8,"Game Boy, SNES","Action, RPG",1991
+57159,rings-of-power,Rings of Power,1991-01-01,,0.0,0,0,8,Genesis,RPG,1991
+55779,bill-teds-excellent-game-boy-adventure-a-bogus-jou,Bill & Ted's Excellent Game Boy Adventure: A Bogus Journey!,1991-08-01,,0.0,0,0,8,Game Boy,"Action, Puzzle",1991
+55372,brat,Brat,1991-01-01,,0.0,1,0,8,"Commodore / Amiga, Atari ST","Action, Puzzle",1991
+54253,earnest-evans,Earnest Evans,1991-12-20,,0.0,0,0,8,"Genesis, SEGA CD",,1991
+56998,divine-sealing,Divine Sealing,1991-01-01,,0.0,0,0,8,Genesis,,1991
+54965,atomino,Atomino,1991-01-01,,0.0,0,0,8,"PC, Classic Macintosh, Commodore / Amiga, Atari ST",Puzzle,1991
+56928,bahamut-senki,Bahamut Senki,1991-03-09,,0.0,0,0,8,"Wii, Genesis",,1991
+33907,arcanoid,Arcanoid,1991-01-01,,0.0,0,0,8,PC,Arcade,1991
+33621,megafortress,Megafortress,1991-01-01,,0.0,0,0,8,"PC, Commodore / Amiga","Strategy, Simulation",1991
+29929,free-dc,Free D.C.!,1991-11-01,,0.0,1,0,8,PC,Adventure,1991
+33577,corewar-plus,CoreWar Plus,1991-01-01,,0.0,1,0,8,PC,,1991
+53831,galaxy-5000,Galaxy 5000,1991-02-01,,0.0,1,0,8,NES,Racing,1991
+55792,choplifter-ii,Choplifter II,1991-06-21,,0.0,0,0,8,Game Boy,Strategy,1991
+55511,the-keys-to-maramon,The Keys to Maramon,1991-01-01,,0.0,1,0,8,"PC, Commodore / Amiga",RPG,1991
+54021,the-rocketeer,The Rocketeer,1991-05-01,,0.0,2,0,8,NES,"Platformer, Action",1991
+56876,viz-the-game,Viz: The Game,1991-01-01,,0.0,1,0,8,"PC, Commodore / Amiga, Atari ST",Racing,1991
+33751,mickeys-jigsaw-puzzles,Mickey's Jigsaw Puzzles,1991-01-01,,0.0,1,0,8,PC,Puzzle,1991
+57032,fastest-1,Fastest 1,1991-06-28,,0.0,0,0,8,Genesis,Racing,1991
+56947,blue-almanac,Blue Almanac,1991-06-22,,0.0,0,0,8,Genesis,RPG,1991
+57334,d-force-1991,D-Force (1991),1991-12-20,,0.0,0,0,8,SNES,,1991
+33563,armor-alley,Armor Alley,1991-01-01,,0.0,1,0,8,PC,Arcade,1991
+31736,the-taking-of-beverly-hills,The Taking of Beverly Hills,1991-01-01,,0.0,1,0,8,PC,Arcade,1991
+692531,rescue-rover,Rescue Rover,1991-01-01,,0.0,0,0,8,"PC, Classic Macintosh",Puzzle,1991
+55761,altered-space,Altered Space,1991-11-29,,0.0,0,0,8,Game Boy,"Adventure, Puzzle",1991
+55746,steel-talons,Steel Talons,1991-01-01,,0.0,0,0,8,"SNES, Atari ST, Atari Lynx, Genesis",,1991
+55764,amazing-tater,Amazing Tater,1991-08-02,,0.0,0,0,8,Game Boy,Puzzle,1991
+40080,armada-2525,Armada 2525,1991-01-01,,0.0,0,0,8,PC,Strategy,1991
+55447,f-117a-nighthawk-stealth-fighter-20-2014,F-117A Nighthawk Stealth Fighter 2.0 (2014),1991-10-30,,0.0,0,0,8,"PC, Linux, Classic Macintosh, Commodore / Amiga",,1991
+55565,nova-9-the-return-of-gir-draxon,Nova 9: The Return of Gir Draxon,1991-01-01,,0.0,0,0,8,"PC, Commodore / Amiga",Shooter,1991
+55593,quadrel,Quadrel,1991-01-01,,0.0,0,0,8,"PC, Commodore / Amiga, Atari ST",Puzzle,1991
+35459,t-zero,T-Zero,1991-01-01,,0.0,1,0,8,PC,Adventure,1991
+31114,vengeance-of-excalibur,Vengeance of Excalibur,1991-01-01,,0.0,2,0,8,"PC, Commodore / Amiga, Atari ST","Strategy, Adventure, RPG",1991
+33024,flextris,Flextris,1991-01-01,,0.0,0,0,8,PC,Arcade,1991
+53717,bigfoot,Bigfoot,1991-01-24,,0.0,0,0,8,NES,Racing,1991
+295013,1991-du-ma-racing,1991 Du Ma Racing,1991-01-01,,0.0,2,0,8,NES,"Racing, Sports",1991
+57107,sports-talk-baseball,Sports Talk Baseball,1991-08-30,,0.0,0,0,8,Genesis,"Simulation, Sports",1991
+29505,tetcolor,Tetcolor,1991-01-01,,0.0,3,0,8,"PC, iOS","Arcade, Puzzle",1991
+54323,the-space-adventure,The Space Adventure,1991-01-01,,0.0,1,0,8,"PlayStation, SEGA CD",Adventure,1991
+34101,the-neverending-story-2,The Neverending Story 2,1991-01-01,,0.0,0,0,8,PC,Arcade,1991
+33727,moraffs-escapade,Moraff's Escapade,1991-01-01,,0.0,1,0,8,PC,Arcade,1991
+56934,battle-golfer-yui,Battle Golfer Yui,1991-02-15,,0.0,0,0,8,Genesis,Sports,1991
+55272,game-boy-wars,Game Boy Wars,1991-05-21,,0.0,0,0,8,Game Boy,,1991
+33734,hoyle-book-of-games-volume-3,Hoyle Book of Games Volume 3,1991-01-01,,0.0,0,0,8,PC,Board Games,1991
+34152,isle-wars,Isle Wars,1991-04-01,,0.0,0,0,8,PC,"Strategy, Board Games",1991
+55338,arachnophobia-1991,Arachnophobia (1991),1991-01-01,,0.0,0,0,8,"PC, Commodore / Amiga",,1991
+31228,david-leadbetters-greens,David Leadbetter's Greens,1991-01-01,,0.0,0,0,8,PC,Sports,1991
+57152,quad-challenge,Quad Challenge,1991-08-06,,0.0,0,0,8,Genesis,Racing,1991
+57502,super-bases-loaded,Super Bases Loaded,1991-05-17,,0.0,1,0,8,SNES,"Simulation, Sports",1991
+34141,the-magic-candle-2-the-four-and-forty,The Magic Candle II: The Four and Forty,1991-01-01,,0.0,1,0,8,PC,RPG,1991
+33020,word-teacher,Word Teacher,1991-01-01,,0.0,0,0,8,PC,Educational,1991
+33051,igo,Igo,1991-01-01,,0.0,0,0,8,PC,Board Games,1991
+457744,spartan-x-2,Spartan X 2,1991-09-27,,0.0,4,0,8,NES,"Arcade, Action",1991
+54153,wurm-journey-to-the-center-of-the-earth,Wurm: Journey to the Center of the Earth,1991-11-15,,0.0,0,0,8,NES,Action,1991
+55657,storm-master,Storm Master,1991-01-01,,0.0,0,0,8,"PC, Commodore / Amiga, Atari ST",,1991
+32780,nova-9,Nova 9,1991-01-01,,0.0,0,0,8,PC,Simulation,1991
+53928,magic-darts,Magic Darts,1991-04-26,,0.0,0,0,8,NES,Sports,1991
+54191,exodus-1991,Exodus (1991),1991-01-01,,0.0,0,0,8,"PC, Game Boy, NES, Genesis",Puzzle,1991
+54938,3d-construction-kit,3D Construction Kit,1991-06-01,,0.0,0,0,8,"PC, Commodore / Amiga, Atari ST",,1991
+33607,games-master-for-windows,Games Master for Windows,1991-01-01,,0.0,0,0,8,PC,"Card, Puzzle",1991
+33512,a320-airbus,A320 Airbus,1991-01-01,,0.0,0,0,8,PC,Simulation,1991
+54991,champion-of-the-raj,Champion of the Raj,1991-01-01,,0.0,0,0,8,"PC, Commodore / Amiga, Atari ST",,1991
+34127,mario-andrettis-racing-challenge,Mario Andretti's Racing Challenge,1991-01-01,,0.0,1,0,8,PC,"Racing, Sports",1991
+57072,john-madden-football-92,John Madden Football '92,1991-01-01,,0.0,0,0,8,"SNES, Genesis",Sports,1991
+53770,danny-sullivans-indy-heat,Danny Sullivan's Indy Heat,1991-01-01,,0.0,0,0,8,"NES, Commodore / Amiga, Atari ST",Racing,1991
+55813,fortified-zone-1991,Fortified Zone (1991),1991-02-26,,0.0,2,0,8,Game Boy,Action,1991
+57242,verytex,Verytex,1991-04-05,,0.0,0,0,8,Genesis,,1991
+34529,team-suzuki,Team Suzuki,1991-01-01,,0.0,0,0,8,PC,Racing,1991
+33267,game-64,Коммерсантъ,1991-01-01,,0.0,2,0,8,PC,Strategy,1991
+54114,treasure-master,Treasure Master,1991-12-13,,0.0,0,0,7,NES,Platformer,1991
+34456,top-gun-danger-zone,Top Gun: Danger Zone,1991-01-01,,0.0,0,0,7,PC,Simulation,1991
+34055,super-tetris,Super Tetris,1991-12-01,,0.0,0,0,7,PC,Arcade,1991
+33965,deluxe-solitaire,Deluxe Solitaire,1991-01-01,,0.0,1,0,7,PC,Card,1991
+53226,davis-cup-tennis,Davis Cup Tennis,1991-01-01,,0.0,0,0,7,"PC, Game Boy Advance, Commodore / Amiga, Atari ST",Sports,1991
+53708,bases-loaded-4,Bases Loaded 4,1991-11-22,,0.0,0,0,7,NES,Sports,1991
+53827,fun-house,Fun House,1991-01-01,,0.0,0,0,7,NES,"Shooter, Action",1991
+53844,golf-grand-slam,Golf Grand Slam,1991-01-31,,0.0,0,0,7,NES,Sports,1991
+33357,zarkov,Zarkov,1991-01-01,,0.0,0,0,7,PC,,1991
+55464,gauntlet-iii-the-final-quest,Gauntlet III: The Final Quest,1991-01-01,,0.0,0,0,7,"Commodore / Amiga, Atari ST",,1991
+33292,go-simulator,Go Simulator,1991-01-01,,0.0,0,0,7,PC,,1991
+630691,zyconix,Zyconix,1991-12-31,,0.0,0,0,7,PC,Casual,1991
+33906,bodyworks,Bodyworks,1991-01-01,,0.0,0,0,7,PC,Educational,1991
+55758,aerostar,Aerostar,1991-06-28,,0.0,0,0,7,Game Boy,,1991
+779749,chojin-sentai-jetman,Choujin Sentai Jetman,1991-12-21,,0.0,2,0,7,NES,Action,1991
+55922,spuds-adventure,Spud's Adventure,1991-01-25,,0.0,0,0,7,Game Boy,"Adventure, Action",1991
+33372,the-berenstain-bears-learn-about-letters-an-advent,The Berenstain Bears: Learn About Letters - An Adventure in Bearsville,1991-01-01,,0.0,0,0,7,PC,Educational,1991
+55738,fidelity-ultimate-chess-challenge,Fidelity Ultimate Chess Challenge,1991-01-01,,0.0,0,0,7,Atari Lynx,Strategy,1991
+55666,switchblade-ii,Switchblade II,1991-01-01,,0.0,0,0,7,"Commodore / Amiga, Atari ST, Atari Lynx","Platformer, Action",1991
+55817,ganbare-goemon-sarawareta-ebisumaru,Ganbare Goemon: Sarawareta Ebisumaru!,1991-12-25,,0.0,1,0,7,"Nintendo 3DS, Game Boy",Platformer,1991
+55647,special-forces,Special Forces,1991-01-01,,0.0,0,0,7,"PC, Commodore / Amiga, Atari ST",Action,1991
+33560,tiny-tetris,Tiny Tetris,1991-01-01,,0.0,0,0,7,PC,Arcade,1991
+33348,rings-of-medusa-2-the-return-of-medusa,Rings of Medusa 2: The Return of Medusa,1991-01-01,,0.0,1,0,7,PC,RPG,1991
+33676,centaur,Centaur,1991-01-01,,0.0,0,0,7,PC,,1991
+54290,nostalgia-1907,Nostalgia 1907,1991-04-02,,0.0,0,0,7,SEGA CD,Adventure,1991
+57440,nolan-ryans-baseball,Nolan Ryan's Baseball,1991-07-02,,0.0,0,0,7,SNES,"Simulation, Sports",1991
+57022,f1-grand-prix-nakajima-satoru,F1 Grand Prix: Nakajima Satoru,1991-12-20,,0.0,0,0,7,Genesis,Racing,1991
+34553,winwheel,WinWheel,1991-01-01,,0.0,1,0,7,PC,,1991
+55610,robosport,RoboSport,1991-01-01,,0.0,0,0,7,"Classic Macintosh, Commodore / Amiga",,1991
+761349,james-bond-jr,James Bond jr.,1991-09-01,,0.0,2,0,7,"SNES, NES","Platformer, Adventure, Action",1991
+54267,heavy-nova,Heavy Nova,1991-12-12,,0.0,0,0,7,"Genesis, SEGA CD",Fighting,1991
+294126,advantage-tennis,Advantage Tennis,1991-03-01,,0.0,1,0,7,Commodore / Amiga,Sports,1991
+445431,arcus-odyssey,Arcus Odyssey,1991-06-14,,0.0,1,0,7,"SNES, Genesis","Action, RPG",1991
+33640,troika,Troika,1991-01-01,,0.0,0,0,7,PC,Arcade,1991
+33503,getaway,Getaway,1991-01-01,,0.0,0,0,7,PC,Card,1991
+33180,supremacy-you-will-be-done,Supremacy: You Will Be Done,1991-01-01,,0.0,0,0,7,PC,Strategy,1991
+41731,the-perfect-general,The Perfect General,1991-01-01,,0.0,0,0,7,"PC, Commodore / Amiga",Strategy,1991
+55754,road-riot-4wd,Road Riot 4WD,1991-01-01,,0.0,1,0,7,"SNES, Atari ST, Atari Lynx",Racing,1991
+33444,destetroyer,Destetroyer,1991-01-01,,0.0,0,0,7,PC,Arcade,1991
+55781,blaster-master-jr,Blaster Master Jr.,1991-08-23,,0.0,0,0,7,Game Boy,Action,1991
+34145,advanced-galactic-empire,Advanced Galactic Empire,1991-01-01,,0.0,0,0,7,PC,"Shooter, Adventure, Action",1991
+57478,smart-ball,Smart Ball,1991-09-13,,0.0,0,0,7,SNES,,1991
+884680,sonic-the-hedgehog-ggsms,Sonic The Hedgehog (GG/SMS),1991-10-25,,0.0,2,0,7,"SEGA Master System, Game Gear","Platformer, Arcade, Action",1991
+55416,deuteros,Deuteros,1991-01-01,,0.0,0,0,7,"Commodore / Amiga, Atari ST",Strategy,1991
+53858,harlem-globetrotters,Harlem Globetrotters,1991-03-01,,0.0,0,0,7,"PC, NES",Sports,1991
+31316,mike-ditkas-ultimate-football,Mike Ditka's Ultimate Football,1991-01-01,,0.0,0,0,7,PC,Sports,1991
+32106,bat,B.A.T.,1991-01-01,,0.0,2,0,7,PC,"Adventure, RPG",1991
+34540,spacewrecked-14-billion-light-years-from-earth,Spacewrecked: 14 Billion Light Years from Earth,1991-01-01,,0.0,1,0,7,PC,"Adventure, RPG",1991
+54060,space-shuttle-project,Space Shuttle Project,1991-11-01,,0.0,0,0,7,NES,Action,1991
+378570,cocoron,Cocoron,1991-05-03,,0.0,1,0,7,NES,"Platformer, Action",1991
+34446,put-up,Put Up,1991-08-01,,0.0,1,0,7,PC,Arcade,1991
+57920,final-match-tennis,Final Match Tennis,1991-03-01,,0.0,0,0,7,PlayStation,Sports,1991
+33988,dream-team-challenge-3-on-3,Dream Team Challenge 3 on 3,1991-01-01,,0.0,1,0,7,PC,Sports,1991
+55838,kingdom-crusade,Kingdom Crusade,1991-01-29,,0.0,0,0,7,Game Boy,Strategy,1991
+54184,magic-bubble,Magic Bubble,1991-01-01,,0.0,0,0,7,NES,Puzzle,1991
+33315,flag-puzzle,Flag Puzzle,1991-01-01,,0.0,0,0,7,PC,Puzzle,1991
+57700,putter-golf-1991,Putter Golf (1991),1991-01-01,,0.0,0,0,7,PlayStation,Simulation,1991
+736191,metal-max,Metal Max,1991-05-24,,0.0,0,0,7,NES,"Action, RPG",1991
+55590,p-p-hammer-and-his-pneumatic-weapon,P. P. Hammer and his Pneumatic Weapon,1991-01-01,,0.0,0,0,7,Commodore / Amiga,Puzzle,1991
+53979,peter-pan-and-the-pirates,Peter Pan and the Pirates,1991-01-01,,0.0,0,0,7,NES,,1991
+54196,hot-slots,Hot Slots,1991-01-01,,0.0,0,0,7,NES,Simulation,1991
+53904,laser-invasion,Laser Invasion,1991-03-15,,0.0,0,0,7,NES,Shooter,1991
+57347,extra-innings,Extra Innings,1991-08-09,,0.0,0,0,7,SNES,"Simulation, Sports",1991
+56427,dizzy-down-the-rapids,Dizzy Down the Rapids,1991-04-01,,0.0,1,0,7,Commodore / Amiga,Action,1991
+55042,hunter,Hunter,1991-01-01,,0.0,1,0,7,"Commodore / Amiga, Atari ST",,1991
+57146,powerball-1991,Powerball (1991),1991-02-08,,0.0,0,0,7,"Wii, Genesis",Sports,1991
+422858,lagaf-les-aventures-de-moktar-vol-1-la-zoubida,Lagaf': Les Aventures de Moktar — Vol 1: La Zoubida,1991-01-01,,0.0,0,0,7,PC,Platformer,1991
+257190,rpm-racing,Radical Psycho Machine Racing,1991-11-01,,0.0,0,0,7,SNES,"Racing, Action",1991
+57207,task-force-harrier-ex,Task Force Harrier EX,1991-12-20,,0.0,0,0,7,Genesis,,1991
+57251,warrior-of-rome,Warrior of Rome,1991-05-21,,0.0,0,0,7,Genesis,,1991
+332335,battles-of-destiny,Battles of Destiny,1991-12-31,,0.0,0,0,7,PC,Strategy,1991
+33048,sargon-5-world-class-chess,Sargon 5: World Class Chess,1991-01-01,,0.0,0,0,7,PC,,1991
+33593,ground-war,Ground War,1991-01-01,,0.0,1,0,7,PC,"Strategy, Arcade, Simulation",1991
+33592,potfun,Potfun,1991-01-01,,0.0,1,0,7,PC,,1991
+33912,shooting-gallery,Shooting Gallery,1991-12-16,,0.0,1,0,7,PC,Arcade,1991
+55571,ork,Ork,1991-01-01,,0.0,0,0,7,"Commodore / Amiga, Atari ST",Platformer,1991
+55679,top-banana,Top Banana,1991-01-01,,0.0,0,0,7,"Commodore / Amiga, Atari ST",,1991
+55765,asmik-kun-world-2,Asmik-kun World 2,1991-05-24,,0.0,0,0,6,Game Boy,Action,1991
+743396,revelation-1991,Revelation (1991),1991-01-01,,0.0,1,0,6,PC,Puzzle,1991
+528655,die-kathedrale,Die Kathedrale,1991-08-01,,0.0,1,0,6,"PC, Commodore / Amiga",Adventure,1991
+806949,dick-tracy-sega,Dick Tracy (Sega),1991-02-01,,0.0,2,0,6,"Genesis, SEGA Master System","Adventure, Action",1991
+712539,the-gg-shinobi,The G.G. Shinobi,1991-04-26,,0.0,1,0,6,"Nintendo 3DS, Game Gear",Action,1991
+55787,the-bugs-bunny-crazy-castle-2,The Bugs Bunny Crazy Castle 2,1991-04-26,,0.0,0,0,6,Game Boy,Action,1991
+53724,the-blue-marlin,The Blue Marlin,1991-12-27,,0.0,0,0,6,NES,Sports,1991
+341594,super-high-impact,Super High Impact,1991-09-30,,0.0,0,0,6,"SNES, Genesis",Sports,1991
+446868,crisis-force,Crisis Force,1991-08-27,,0.0,1,0,6,NES,Action,1991
+54121,videomation,Videomation,1991-06-01,,0.0,0,0,6,NES,,1991
+55633,super-skweek,Super Skweek,1991-01-01,,0.0,0,0,6,"Commodore / Amiga, Atari ST",Puzzle,1991
+54194,firehawk-1991,FireHawk (1991),1991-09-01,,0.0,0,0,6,NES,Action,1991
+53221,daisenryaku,Daisenryaku,1991-06-17,,0.0,0,0,6,"Game Boy Advance, Game Boy, Genesis",Strategy,1991
+334709,manager,The Manager,1991-01-01,,0.0,1,0,6,"PC, Commodore / Amiga","Simulation, Sports",1991
+25205,neutopia-ii,Neutopia II,1991-09-27,,0.0,2,0,6,PC,Platformer,1991
+53759,conan-the-mysteries-of-time,Conan: The Mysteries of Time,1991-01-01,,0.0,1,0,6,"NES, Commodore / Amiga",Action,1991
+31378,frantis,Frantis,1991-01-01,,0.0,0,0,6,PC,Arcade,1991
+54206,joyvan-kid,Joyvan Kid,1991-10-30,,0.0,0,0,6,NES,Action,1991
+54202,king-of-kings-the-early-years,King of Kings: The Early Years,1991-01-01,,0.0,0,0,6,NES,Platformer,1991
+54162,dracs-night-out,Drac's Night Out,1991-01-01,,0.0,0,0,6,NES,Action,1991
+55823,nemesis-ii,Nemesis II,1991-08-09,,0.0,1,0,6,Game Boy,,1991
+690711,catacomb-ii,Catacomb II,1991-01-01,,0.0,0,0,6,PC,"Shooter, Action",1991
+55528,llamatron,Llamatron,1991-01-01,,0.0,0,0,6,"Commodore / Amiga, Atari ST",,1991
+57094,marvel-land,Marvel Land,1991-06-28,,0.0,0,0,6,"Wii, Genesis",Platformer,1991
+55573,outzone,Outzone,1991-01-01,,0.0,0,0,6,"Commodore / Amiga, Atari ST","Strategy, Action",1991
+55727,zarathrusta,Zarathrusta,1991-01-01,,0.0,0,0,6,Commodore / Amiga,,1991
+55952,ultra-golf,Ultra Golf,1991-11-01,,0.0,0,0,6,Game Boy,Sports,1991
+55756,the-adventures-of-star-saver,The Adventures of Star Saver,1991-05-17,,0.0,0,0,6,Game Boy,Platformer,1991
+55807,satoru-nakajima-f-1-hero-gb-world-championship-91,Satoru Nakajima F-1 Hero GB World Championship '91,1991-12-27,,0.0,0,0,6,Game Boy,Racing,1991
+56660,multi-player-soccer-manager,Multi-Player Soccer Manager,1991-01-01,,0.0,0,0,6,"Commodore / Amiga, Atari ST","Simulation, Sports",1991
+340787,demoniak,Demoniak,1991-01-01,,0.0,0,0,6,"PC, Commodore / Amiga, Atari 7800",Adventure,1991
+602243,commander-keen-in-keen-dreams-1991,Commander Keen in Keen Dreams (1991),1991-01-01,,0.0,1,0,6,PC,Platformer,1991
+55063,lethal-xcess,Lethal Xcess,1991-01-01,,0.0,0,0,6,"Commodore / Amiga, Atari ST",,1991
+55575,paragliding-simulation,Paragliding Simulation,1991-01-01,,0.0,0,0,6,Commodore / Amiga,,1991
+55924,sumo-fighter-tokaido-basho,Sumo Fighter,1991-04-26,,0.0,0,0,6,Game Boy,"Platformer, Action",1991
+55332,amnios,Amnios,1991-01-01,,0.0,0,0,5,Commodore / Amiga,,1991
+692532,rescue-rover-2,Rescue Rover 2,1991-01-01,,0.0,1,0,5,PC,"Strategy, Puzzle",1991
+809184,griffin,Griffin,1991-07-26,,0.0,1,0,5,Game Gear,"Shooter, Action",1991
+27269,crystal-warriors,Crystal Warriors,1991-12-13,,0.0,0,0,5,"Nintendo 3DS, Game Gear","Strategy, Action, RPG",1991
+943531,eight-man,Eight Man,1991-06-07,,0.0,1,0,5,Neo Geo,Action,1991
+437043,vapor-trail-hyper-offence-formation,Vapor Trail: Hyper Offence Formation,1991-01-01,,0.0,2,0,5,Genesis,Arcade,1991
+368963,the-trolls-in-crazyland,The Trolls in Crazyland,1991-09-08,,0.0,0,0,5,NES,"Platformer, Action",1991
+802431,kaiketsu-yancha-maru-2-karakuri-land,Kaiketsu Yancha Maru 2: Karakuri Land,1991-08-30,,0.0,1,0,5,NES,"Platformer, Action",1991
+55567,the-oath,The Oath,1991-01-01,,0.0,0,0,5,Commodore / Amiga,,1991
+55891,racing-damashii,Racing Damashii,1991-02-28,,0.0,0,0,5,Game Boy,Racing,1991
+692533,xenopods,Xenopods,1991-05-01,,0.0,0,0,5,PC,Action,1991
+55795,2nd-super-robot-wars,2nd Super Robot Wars,1991-12-12,,0.0,0,0,5,Game Boy,,1991
+55945,track-meet,Track Meet,1991-02-13,,0.0,0,0,4,Game Boy,"Action, Sports",1991
+461772,d-d-crew,D. D. Crew,1991-01-01,,0.0,0,0,4,,"Action, Fighting",1991
+750306,heart-of-saphilamun,Heart of Saphilamun,1991-01-01,,0.0,0,0,4,PC,Casual,1991
+55957,wordzap-1991,WordZap (1991),1991-01-01,,0.0,0,0,4,Game Boy,Puzzle,1991
+460416,bubblegum-crash,Bubblegum Crash,1991-12-06,,0.0,1,0,4,PC,Adventure,1991
+846176,vendetta-1991,Vendetta (1991),1991-07-01,,0.0,0,0,4,,Action,1991
+750285,magical-chase,Magical Chase,1991-11-15,,0.0,0,0,4,"PC, Game Boy Color","Shooter, Action",1991
+717017,ninja-boy-2,Ninja Boy 2,1991-11-29,,0.0,0,0,4,Game Boy,"Action, RPG",1991
+739528,xerd-no-densetsu,Xerd no Densetsu,1991-10-18,,0.0,0,0,4,Game Boy,RPG,1991
+690965,hovertank-one,Hovertank One,1991-01-01,,0.0,1,0,4,PC,"Shooter, Action",1991
+455529,magical-hat-taruruuto-kun,Magical * Taruruuto-kun,1991-07-05,,0.0,0,0,4,Game Gear,"Shooter, Action",1991
+901449,venice-beach-volleyball,Venice Beach Volleyball,1991-01-01,,0.0,0,0,3,NES,"Action, Sports",1991
+966215,cave-noire,Cave Noire,1991-04-19,,0.0,0,0,3,Game Boy,"Adventure, Action",1991
+532309,sega-ages-thunder-force-ac,Thunder Spirits,1991-12-27,80.0,0.0,0,0,3,"Nintendo Switch, SNES","Shooter, Action",1991
+990071,talespin-2,TaleSpin,1991-12-11,,0.0,3,0,3,"Game Boy, SNES, Genesis","Shooter, Platformer",1991
+570077,operation-desert-storm,Operation: Desert Storm,1991-10-01,,0.0,0,0,3,macOS,Strategy,1991
+446867,lagrange-point-1991,Lagrange Point (1991),1991-04-26,,0.0,0,0,3,NES,RPG,1991
+977467,16t,16t,1991-02-01,,0.0,0,0,3,Genesis,Arcade,1991
+437044,super-airwolf,Super Airwolf,1991-01-01,,0.0,1,0,3,Genesis,Arcade,1991
+859833,illusion-city-genei-toshi,Illusion City: Genei Toshi,1991-01-01,,0.0,1,0,3,SEGA CD,RPG,1991
+832685,wai-wai-world-2-sos-paseri-jou,Wai Wai World 2: SOS!! Paseri Jou,1991-01-05,,0.0,1,0,3,NES,"Platformer, Action",1991
+698991,pulirula,Pu·Li·Ru·La,1991-01-01,,0.0,0,0,3,,Casual,1991
+454543,future-combat-pt-2,Future Combat pt 2,1991-07-16,,0.0,0,0,3,Commodore / Amiga,Shooter,1991
+857632,pop-breaker,Pop Breaker,1991-02-23,,0.0,0,0,3,Game Gear,"Shooter, Action",1991
+972520,hook-1991,Hook (1991),1991-04-01,,0.0,1,0,3,"Game Boy, NES, Commodore / Amiga","Platformer, Action",1991
+976626,bubble-bath-babes,Bubble Bath Babes,1991-02-01,,0.0,0,0,2,NES,Puzzle,1991
+974787,silent-debuggers,Silent Debuggers,1991-03-29,,0.0,0,0,2,PC,Shooter,1991
+974491,mutant-fighter,Mutant Fighter,1991-07-01,,0.0,0,0,2,SNES,Fighting,1991
+974688,symantec-hangman,Symantec Hangman,1991-01-01,,0.0,1,0,2,PC,Board Games,1991
+968097,paladin-2,Paladin 2,1991-12-31,,0.0,0,0,2,PC,,1991
+976505,vattle-giuce,Vattle Giuce,1991-07-12,,0.0,0,0,1,,Shooter,1991
+989773,klotski-1991,Klotski (1991),1991-07-01,,0.0,0,0,1,PC,Puzzle,1991
+159068,nadia,Nadia: of the Mysterious Seas,1991-03-15,,0.0,0,0,1,"NES, Genesis",Strategy,1991
+989341,rodents-revenge-1991,Rodent's Revenge (1991),1991-07-01,,0.0,0,0,1,PC,Puzzle,1991
+988977,zentris-1991,Zentris (1991),1991-01-01,,0.0,0,0,1,PC,Puzzle,1991
+999513,metal-slader-glory,Metal Slader Glory,1991-08-30,,0.0,1,0,0,"SNES, NES",Adventure,1991
+333884,greco-kara-no-chousenjou-keisan-no-yakata-to-oba-3,Sugoro Quest: Dice no Senshi Tachi,1991-06-28,,0.0,1,0,0,NES,Educational,1991

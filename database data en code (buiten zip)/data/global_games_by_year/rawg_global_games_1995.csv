@@ -1,0 +1,885 @@
+id,slug,name,released,metacritic,rating,ratings_count,playtime,added,platforms,genres,year
+15851,star-wars-dark-forces-2,Star Wars: Dark Forces,1995-02-28,,3.65,261,1,3092,"PC, PlayStation, Classic Macintosh","Shooter, Action",1995
+28300,nights-into-dreams,NiGHTS into dreams...,1995-02-11,,3.06,109,1,2750,"PC, Xbox 360, PlayStation 3, SEGA Saturn","Platformer, Adventure",1995
+22412,ultimate-doom,Ultimate Doom,1995-12-31,,4.43,289,1,2523,"PC, Xbox One, PlayStation 4, Nintendo Switch, iOS, macOS, Xbox 360, Classic Macintosh","Shooter, Action",1995
+9989,i-have-no-mouth-and-i-must-scream-2,"I Have No Mouth, and I Must Scream",1995-10-31,,3.33,130,3,2282,"PC, iOS, Android, macOS, Linux","Adventure, Puzzle",1995
+5383,worms,Worms,1995-01-01,,3.78,254,1,2116,"PC, iOS, Xbox 360, PlayStation, Game Boy, SNES, Classic Macintosh, Commodore / Amiga, Genesis, SEGA Saturn, Jaguar","Strategy, Arcade, Action",1995
+20568,x-com-terror-from-the-deep,X-COM: Terror From the Deep,1995-03-31,,3.44,127,1,1950,"PC, PlayStation",Strategy,1995
+21759,master-levels-for-doom-ii,Master Levels for Doom II,1995-08-03,,3.86,114,1,1947,"PC, Linux, Classic Macintosh","Shooter, Action",1995
+22934,flight-of-the-amazon-queen,Flight of the Amazon Queen,1995-01-01,,2.36,78,1,1623,"PC, iOS, Android, macOS, Classic Macintosh, Commodore / Amiga","Adventure, Puzzle",1995
+52800,chrono-trigger-1995,Chrono Trigger,1995-03-11,82.0,4.32,476,6,1180,"PC, iOS, Android, Nintendo DS, Wii, SNES",RPG,1995
+21285,hexen-for-windows-95,HeXen: Beyond Heretic,1995-10-30,,3.79,109,1,1105,"PC, PlayStation, Nintendo 64, Classic Macintosh, SEGA Saturn","Shooter, Action",1995
+21098,slipstream-5000,Slipstream 5000,1995-12-30,,2.03,29,4,893,"PC, macOS, Linux","Racing, Arcade, Action, Sports",1995
+13051,the-dig,The Dig,1995-11-30,,3.89,63,2,850,"PC, macOS, Linux",Adventure,1995
+53207,comix-zone-1995,Comix Zone,1995-01-01,,4.34,268,0,797,"PC, iOS, Android, Xbox 360, PlayStation 3, Wii, Game Boy Advance, Genesis, SEGA Master System",Action,1995
+53432,ultimate-mortal-kombat-3,Ultimate Mortal Kombat 3,1995-11-06,62.0,4.43,457,0,709,"iOS, Xbox 360, SNES, Genesis, SEGA Saturn, 3DO",Fighting,1995
+18629,phantasmagoria,Phantasmagoria,1995-07-30,,3.6,50,1,701,PC,Adventure,1995
+21400,earthworm-jim-2,Earthworm Jim 2,1995-09-18,45.0,4.27,161,1,600,"PC, macOS, Linux, PlayStation, Wii, Game Boy Advance, SNES, Genesis, SEGA Saturn","Adventure, Action",1995
+57967,warcraft-ii-tides-of-darkness,Warcraft II: Tides of Darkness,1995-12-09,,4.36,300,0,568,"PC, PlayStation, Classic Macintosh",Strategy,1995
+23033,warhammer-shadow-of-the-horned-rat,Warhammer: Shadow of the Horned Rat,1995-11-11,,2.64,14,1,553,"PC, PlayStation",Strategy,1995
+57519,yoshis-island,Super Mario World 2: Yoshi's Island,1995-08-05,91.0,4.33,237,0,547,SNES,Platformer,1995
+29427,mortal-kombat-3,Mortal Kombat 3,1995-01-01,,4.27,263,0,511,"PC, PlayStation, Game Boy, SNES, Genesis, SEGA Master System, Game Gear","Arcade, Fighting",1995
+19173,the-11th-hour,The 11th Hour,1995-12-12,,3.45,11,1,501,"PC, macOS",Adventure,1995
+53251,donkey-kong-country-2-diddys-kong-quest,Donkey Kong Country 2: Diddy's Kong Quest,1995-11-20,,4.36,221,10,486,"Nintendo 3DS, Wii U, Wii, Game Boy Advance, SNES",Platformer,1995
+7087,terminal-velocity,Terminal Velocity,1995-04-06,,3.54,24,1,389,"PC, iOS, Android, macOS, Linux, Classic Macintosh","Racing, Shooter, Action, Casual, Simulation",1995
+17797,realms-of-chaos,Realms of Chaos,1995-11-10,,2.58,11,1,380,"PC, macOS, Linux","Adventure, Action",1995
+31397,full-throttle,Full Throttle,1995-04-30,86.0,4.38,196,0,364,"PC, Classic Macintosh",Adventure,1995
+22678,heroes-of-might-and-magic,Heroes of Might and Magic: A Strategic Quest,1995-08-31,,3.98,117,1,354,"PC, Game Boy Color, Classic Macintosh",Strategy,1995
+5463,rayman,Rayman,1995-09-01,84.0,3.84,108,3,332,"PC, iOS, Android, Nintendo DS, PlayStation, Game Boy Color, SEGA Saturn, SEGA 32X, Jaguar","Arcade, Adventure, Action",1995
+50313,descent-1996,Descent (1996),1995-03-17,,4.13,55,1,275,"PC, PlayStation 4, macOS, PlayStation","Shooter, Indie, Action",1995
+52815,command-conquer-old,Command & Conquer,1995-08-31,94.0,4.32,134,0,273,"PC, PlayStation, Classic Macintosh, SEGA Saturn",Strategy,1995
+57841,tekken-2,Tekken 2 (1995),1995-09-29,89.0,3.99,112,0,254,PlayStation,Fighting,1995
+15435,killing-time,Killing Time,1995-12-31,,3.17,18,4,244,"PC, 3DO","Shooter, Indie, Action, RPG",1995
+22811,crusader-no-remorse,Crusader: No Remorse,1995-08-31,,3.61,32,1,233,"PC, macOS, PlayStation, Classic Macintosh, SEGA Saturn","Adventure, Action",1995
+22776,gabriel-knight-2-the-beast-within,Gabriel Knight 2: The Beast Within,1995-06-29,,3.53,17,1,214,PC,Adventure,1995
+13162,putt-putt-saves-the-zoo,Putt-Putt Saves the Zoo,1995-03-30,,4.16,17,4,200,"PC, iOS, Android, macOS, Linux","Casual, Educational, Adventure",1995
+5170,gex,Gex,1995-01-05,,4.17,47,1,191,"PC, PlayStation, SEGA Saturn, 3DO","Platformer, Action",1995
+30319,chaos-control,Chaos Control,1995-01-01,,0.0,4,1,188,PC,"Arcade, Adventure, Action",1995
+31439,3d-pinball-space-cadet,3D Pinball: Space Cadet,1995-01-01,,4.06,84,0,179,PC,"Arcade, Action",1995
+22709,wing-commander-4-the-price-of-freedom,Wing Commander 4: The Price of Freedom,1995-12-30,,3.88,15,1,166,"PC, PlayStation, Classic Macintosh","Shooter, Action",1995
+32519,wwf-wrestlemania-the-arcade-game,WWF WrestleMania: The Arcade Game,1995-01-01,,4.26,76,0,156,"PC, PlayStation, SNES, Genesis, SEGA Saturn, SEGA 32X","Arcade, Fighting",1995
+57935,twisted-metal-1995,Twisted Metal (1995),1995-11-05,,3.84,58,0,147,"PC, PlayStation",Simulation,1995
+34443,fields-of-battle,Fields of Battle,1995-01-01,,0.0,2,1,134,"PC, iOS","Strategy, Action, Sports",1995
+57815,suikoden-2008,Suikoden,1995-12-15,,4.15,39,19,132,"PC, PlayStation, SEGA Saturn",RPG,1995
+11116,stonekeep,Stonekeep,1995-11-07,,3.69,13,1,130,"PC, macOS","Adventure, Action, RPG",1995
+32500,batman-forever,Batman Forever,1995-01-01,,3.44,54,0,120,"PC, Game Boy, SNES, Genesis, Game Gear","Arcade, Action, Fighting",1995
+57424,mega-man-x3-1995,Mega Man X3 (1995),1995-12-01,,3.97,31,0,113,"PC, PlayStation, Wii U, SNES, SEGA Saturn",Action,1995
+31284,judge-dredd,Judge Dredd,1995-01-01,,3.42,24,1,112,"PC, Linux, Game Boy, SNES, Commodore / Amiga, Genesis, Game Gear","Arcade, Action",1995
+52806,clock-tower,Clock Tower (1995),1995-09-14,,4.13,30,0,111,"PC, PlayStation, SNES","Adventure, Action",1995
+57420,mega-man-7,Mega Man 7 (1995),1995-03-24,,4.16,37,0,109,"Nintendo 3DS, Wii U, SNES","Platformer, Action",1995
+4791,tactics-ogre-let-us-cling-together,Tactics Ogre: Let Us Cling Together,1995-10-06,87.0,4.35,31,42,108,"PC, PlayStation 5, PlayStation 4, Nintendo Switch, PlayStation, PSP, SNES, SEGA Saturn",Strategy,1995
+55277,kirbys-dream-land-2-1995,Kirby's Dream Land 2 (1995),1995-03-21,,3.94,29,0,106,Game Boy,"Platformer, Adventure",1995
+5489,destruction-derby,Destruction Derby,1995-01-01,,3.95,41,0,103,"PC, Android, PlayStation, Nintendo 64, SEGA Saturn","Racing, Action",1995
+327230,romancing-saga-3,Romancing SaGa 3,1995-11-11,,3.86,7,4,101,"PC, Xbox One, PlayStation 4, Nintendo Switch, iOS, Android, SNES",RPG,1995
+25886,pitfall-the-mayan-adventure,Pitfall: The Mayan Adventure,1995-01-01,,4.06,32,0,100,"PC, Wii, Game Boy Advance, SNES, Genesis, SEGA CD, SEGA 32X, Jaguar","Platformer, Arcade",1995
+53600,tales-of-phantasia,Tales of Phantasia,1995-12-15,56.0,3.97,31,0,98,"PlayStation, Game Boy Advance, SNES",RPG,1995
+14865,ristar,Ristar,1995-02-16,,4.15,34,1,98,"PC, iOS, Android, Genesis, Game Gear","Platformer, Action",1995
+23010,afterlife,Afterlife,1995-12-31,,3.0,8,1,97,"PC, PlayStation 4, macOS, Linux, Classic Macintosh, Commodore / Amiga","Adventure, Action, Strategy, Simulation, Indie",1995
+22738,screamer,Screamer,1995-10-30,,2.22,9,1,96,"PC, macOS","Racing, Action, Simulation, Sports",1995
+22907,magic-carpet-2-the-netherworlds,Magic Carpet 2: The Netherworlds,1995-09-07,,3.89,9,3,95,"PC, macOS","Shooter, Action",1995
+282820,road-rash-3,Road Rash 3,1995-05-15,,4.4,61,0,94,Genesis,Racing,1995
+57239,vectorman-1995,Vectorman (1995),1995-10-24,,3.98,45,0,93,"PC, Wii, Genesis","Platformer, Arcade, Action",1995
+32998,witchaven,Witchaven,1995-09-29,,3.14,7,1,92,PC,"Shooter, Action, RPG",1995
+22878,bioforge,Bioforge,1995-03-28,,3.27,15,1,89,PC,"Adventure, Action",1995
+22919,anvil-of-dawn,Anvil of Dawn,1995-10-31,,4.11,9,1,88,PC,RPG,1995
+30645,primal-rage,Primal Rage,1995-01-01,,3.55,41,0,87,"PC, PlayStation, Game Boy, SNES, Commodore / Amiga, Genesis, SEGA Saturn, SEGA 32X, 3DO, Jaguar, Game Gear","Arcade, Fighting",1995
+57986,wipeout,Wipeout (1995),1995-01-01,,3.64,28,0,84,"PC, PlayStation, SEGA Saturn","Racing, Arcade",1995
+22732,simon-the-sorcerer-2,Simon the Sorcerer 2,1995-01-01,,3.92,12,1,79,"PC, Android, macOS, Commodore / Amiga",Adventure,1995
+22848,torins-passage,Torin's Passage,1995-10-30,,4.07,14,1,76,PC,Adventure,1995
+438606,trials-of-mana-2,Trials of Mana,1995-09-30,,4.23,22,0,75,"Nintendo Switch, SNES","Action, RPG",1995
+19116,across-the-rhine,Across the Rhine,1995-06-30,,0.0,1,1,75,"PC, macOS, Linux",Strategy,1995
+31231,transport-tycoon-deluxe,Transport Tycoon Deluxe,1995-01-01,,4.36,43,0,72,PC,Strategy,1995
+22722,kingdom-the-far-reaches,Kingdom: The Far Reaches,1995-01-01,,0.0,4,1,71,"PC, macOS, 3DO","Adventure, Action, RPG",1995
+24062,final-fight-3,Final Fight 3,1995-12-21,,4.19,27,0,69,"Nintendo 3DS, Wii U, Wii, SNES",,1995
+402999,castlevania-dracula-x,Castlevania: Dracula X,1995-07-21,,3.81,21,0,68,SNES,"Platformer, Adventure, Action",1995
+402502,toy-story-1995,Toy Story (1995),1995-12-20,,4.0,27,0,67,"PC, Game Boy, SNES, Genesis","Platformer, Adventure, Action",1995
+259780,doom-troopers-mutant-chronicles,Doom Troopers: Mutant Chronicles,1995-05-01,,3.97,33,0,66,"SNES, Genesis",Action,1995
+57270,x-men-2-clone-wars,X-Men 2: Clone Wars,1995-01-01,,4.13,31,0,65,Genesis,Action,1995
+58346,secret-of-evermore,Secret of Evermore,1995-10-01,,4.39,18,0,59,SNES,RPG,1995
+57410,lufia-ii-rise-of-the-sinistrals,Lufia II: Rise of the Sinistrals,1995-02-24,,4.07,14,0,58,SNES,RPG,1995
+57577,x-men-mutant-apocalypse,X-Men: Mutant Apocalypse,1995-01-03,,3.71,17,0,58,SNES,Action,1995
+34909,asterix-obelix,Asterix & Obelix,1995-01-01,,3.76,20,0,56,"PC, Game Boy, SNES",,1995
+31188,discworld,Discworld,1995-01-01,,3.93,14,3,56,"PC, PlayStation, Classic Macintosh, SEGA Saturn",Adventure,1995
+53520,sega-rally-championship-1995,Sega Rally Championship (1995),1995-12-19,,4.17,23,0,56,"PC, Game Boy Advance, SEGA Saturn",Racing,1995
+24412,the-king-of-fighters-95,The King of Fighters '95,1995-07-25,,3.65,22,1,56,"PlayStation 4, Xbox One, Nintendo Switch, PlayStation, Game Boy, SEGA Saturn, Neo Geo",Fighting,1995
+53032,international-superstar-soccer-deluxe,International Superstar Soccer Deluxe,1995-09-22,,4.38,32,0,55,"PlayStation, SNES, Genesis",Sports,1995
+57244,virtua-fighter-2-1995,Virtua Fighter 2 (1995),1995-10-30,,3.67,24,0,55,"PC, iOS, PlayStation 3, Genesis, SEGA Saturn",Fighting,1995
+57241,venomspider-man-separation-anxiety,Venom/Spider-Man: Separation Anxiety,1995-11-01,,3.62,24,0,51,"PC, SNES, Genesis",,1995
+22787,the-journeyman-project-2-buried-in-time,The Journeyman Project 2: Buried in Time,1995-01-01,,0.0,3,9,49,PC,"Adventure, Puzzle",1995
+14994,alien-soldier,Alien Soldier,1995-02-24,,4.0,13,0,48,"PC, macOS, Linux, Wii, Genesis",Action,1995
+57725,ridge-racer-1993,Ridge Racer (1995),1995-09-09,,3.77,22,0,48,PlayStation,Racing,1995
+57509,super-bomberman-3,Super Bomberman 3,1995-04-28,,4.41,17,0,47,SNES,Action,1995
+57592,marvel-super-heroes,Marvel Super Heroes,1995-10-24,,3.89,18,0,47,"PlayStation, SEGA Saturn",Fighting,1995
+52967,front-mission,Front Mission: The First (1995),1995-02-24,,3.74,19,0,47,"Nintendo DS, PlayStation, SNES","Strategy, RPG",1995
+33628,flip-flop,Flip-Flop,1995-01-01,,3.83,11,0,46,PC,Puzzle,1995
+57999,x-men-children-of-the-atom-1995,X-Men: Children of the Atom (1995),1995-11-22,,3.71,16,0,45,"PC, PlayStation, SEGA Saturn","Arcade, Fighting",1995
+32554,doom-for-windows,Doom for Windows,1995-01-01,,4.39,17,0,45,PC,"Shooter, Action",1995
+32929,super-street-fighter-2-turbo,Super Street Fighter 2 Turbo,1995-03-01,,4.12,17,0,44,"PC, 3DO","Arcade, Fighting",1995
+32236,toy-story,Toy Story,1995-01-01,,3.47,17,5,44,"PC, Game Boy, SNES, NES, Genesis",Puzzle,1995
+22930,thunderscape,Thunderscape,1995-08-30,,0.0,2,0,41,"PC, macOS",RPG,1995
+55268,donkey-kong-land,Donkey Kong Land,1995-06-26,,4.0,11,0,40,"Nintendo 3DS, Game Boy",,1995
+309156,spider-man-1995,Spider-Man (1995),1995-05-31,,3.67,18,0,40,"SNES, Genesis",Action,1995
+55258,tetris-attack,Tetris Attack,1995-10-27,,4.06,16,0,39,"Nintendo 3DS, Game Boy, SNES",Puzzle,1995
+53062,jumping-flash,Jumping Flash! (1995),1995-04-28,,3.71,7,0,38,"PlayStation 5, PlayStation 4, PlayStation","Platformer, Action",1995
+57043,gargoyles,Gargoyles,1995-05-15,,4.05,19,0,37,Genesis,Platformer,1995
+257243,shin-megami-tensei-devil-summoner,Shin Megami Tensei: Devil Summoner,1995-12-25,,0.0,5,0,37,"PSP, SEGA Saturn",RPG,1995
+32401,battle-arena-toshinden,Battle Arena Toshinden,1995-01-01,69.0,3.17,12,0,36,"PC, PlayStation, Game Boy, SEGA Saturn","Arcade, Fighting",1995
+29713,beavis-and-butt-head-in-virtual-stupidity,Beavis and Butt-Head in Virtual Stupidity,1995-01-01,,3.86,14,0,36,"PC, PlayStation","Arcade, Adventure",1995
+56993,desert-demolition,Desert Demolition,1995-02-01,,4.06,17,0,36,Genesis,Action,1995
+58348,mission-critical,Mission Critical,1995-10-31,,0.0,0,0,35,"PC, macOS, Linux","Strategy, Adventure",1995
+29870,fade-to-black,Fade to Black,1995-01-01,,3.08,12,0,35,"PC, PlayStation","Shooter, Action",1995
+31226,garfield-caught-in-the-act,Garfield: Caught in the Act,1995-10-31,,3.5,11,0,35,"PC, Genesis, Game Gear","Platformer, Arcade",1995
+22945,entomorph-plague-of-the-darkfall,Entomorph: Plague of the Darkfall,1995-09-09,,0.0,2,1,35,PC,"Adventure, Action",1995
+31339,the-incredible-machine-version-30,The Incredible Machine Version 3.0,1995-01-01,,4.5,10,0,34,PC,Puzzle,1995
+294133,dragon-ball-z-ultimate-battle-22,Dragon Ball Z: Ultimate Battle 22,1995-07-28,25.0,2.78,18,0,34,PlayStation,"Action, Fighting",1995
+52925,fifa-soccer-96,FIFA Soccer 96,1995-01-01,,4.0,16,0,32,"PC, PlayStation, SNES, Genesis, SEGA Saturn, SEGA 32X",Sports,1995
+57168,scooby-doo-mystery,Scooby-Doo Mystery,1995-01-01,,3.64,14,0,32,"SNES, Genesis",Adventure,1995
+55848,donald-in-maui-mallard,Donald in Maui Mallard,1995-12-08,,4.0,11,0,29,"PC, Game Boy, SNES, Genesis",Platformer,1995
+57417,the-mask,The Mask,1995-10-26,,3.5,10,0,28,SNES,"Platformer, Action",1995
+31545,simcity-2000-for-windows,SimCity 2000 for Windows,1995-01-01,,4.0,9,0,28,PC,Strategy,1995
+359801,xian-jian-qi-xia-chuan,仙剑奇侠传,1995-07-07,,4.0,13,0,28,"PC, iOS, SEGA Saturn",RPG,1995
+57427,metal-warriors,Metal Warriors,1995-02-01,,4.0,11,0,28,SNES,"Platformer, Action",1995
+57088,light-crusader-1995,Light Crusader (1995),1995-05-25,,3.57,7,0,28,"PC, Wii, Genesis",,1995
+30657,the-ultimate-doom-thy-flesh-consumed,The Ultimate Doom: Thy Flesh Consumed,1995-01-01,,4.1,10,0,27,PC,"Shooter, Action",1995
+55854,mighty-morphin-power-rangers-the-movie,Mighty Morphin Power Rangers: The Movie (BG),1995-06-30,,3.8,15,0,27,Game Boy,"Action, Fighting",1995
+55179,knuckles-chaotix,Knuckles' Chaotix,1995-04-20,,3.15,12,0,27,SEGA 32X,Action,1995
+55257,marios-picross,Mario's Picross,1995-03-14,,3.0,8,9,26,"Nintendo 3DS, Game Boy",Puzzle,1995
+32569,mechwarrior-2-31st-century-combat,MechWarrior 2: 31st Century Combat,1995-01-01,,4.12,8,0,26,"PC, PlayStation, Classic Macintosh, SEGA Saturn",Simulation,1995
+30210,hi-octane,Hi-Octane,1995-01-01,,3.7,10,0,26,"PC, PlayStation, SEGA Saturn","Racing, Arcade",1995
+53078,kings-field-ii,King's Field II,1995-07-21,,3.33,9,0,26,PlayStation,RPG,1995
+56922,asterix-and-the-power-of-the-gods,Asterix and the Power of the Gods,1995-01-01,,4.14,7,0,25,Genesis,Platformer,1995
+31555,sea-legends,Sea Legends,1995-01-01,,0.0,5,0,25,PC,"Strategy, Adventure, Action, RPG",1995
+30144,grand-prix-2,Grand Prix 2,1995-01-01,,2.5,8,0,25,PC,"Racing, Simulation, Sports",1995
+32762,woodruff-and-the-schnibble-of-azimuth,Woodruff and the Schnibble of Azimuth,1995-01-01,,4.0,7,0,25,PC,Adventure,1995
+57806,star-wars-rebel-assault-2-the-hidden-empire,Star Wars: Rebel Assault II: The Hidden Empire,1995-11-01,,3.67,6,0,25,"PC, PlayStation, Classic Macintosh","Arcade, Action",1995
+57726,ridge-racer-revolution,Ridge Racer Revolution,1995-12-03,,3.5,10,0,25,PlayStation,Racing,1995
+29396,d,D,1995-01-01,,0.0,4,0,25,"PlayStation, SEGA Saturn, 3DO","Adventure, Puzzle",1995
+31053,tyrian,Tyrian,1995-01-01,,4.0,8,0,24,PC,Arcade,1995
+30159,tintin-in-tibet,Tintin in Tibet,1995-01-01,,0.0,4,0,24,"PC, Game Boy Color, Game Boy, SNES, Genesis, Game Gear","Platformer, Adventure, Action",1995
+414490,kyuuyaku-megami-tensei,Kyuuyaku Megami Tensei,1995-03-31,,4.11,8,0,24,"Wii, SNES",RPG,1995
+56908,aaahh-real-monsters,Aaahh!!! Real Monsters,1995-08-15,,2.8,10,0,24,"SNES, Genesis","Adventure, Action",1995
+57014,ecco-jr-1995,Ecco Jr. (1995),1995-08-15,,3.38,8,0,24,"PC, Wii, Genesis",Adventure,1995
+330639,dragon-quest-6-realms-of-revelation-2011,Dragon Quest 6: Realms of Revelation,1995-12-09,,0.0,3,0,24,"Nintendo DS, SNES",RPG,1995
+52850,dark-seed,Dark Seed,1995-07-07,,3.86,7,0,23,"PC, PlayStation, Classic Macintosh, Commodore / Amiga, SEGA Saturn",,1995
+58556,addams-family-values,Addams Family Values,1995-01-01,,0.0,4,0,23,"SNES, Genesis","Adventure, Action",1995
+57109,doom-trooper,Doom Trooper,1995-01-01,,3.54,13,0,23,"SNES, Genesis",,1995
+22840,apache-longbow,Apache Longbow,1995-01-01,,0.0,3,0,23,PC,Simulation,1995
+53100,lemmings-3d,3D Lemmings,1995-01-01,,3.5,6,0,22,"PC, PlayStation, SEGA Saturn",Puzzle,1995
+52672,arc-the-lad-2010,Arc the Lad,1995-06-30,,3.33,8,0,22,PlayStation,"Strategy, RPG",1995
+31956,space-quest-6-roger-wilco-in-the-spinal-frontier,Space Quest 6: Roger Wilco in the Spinal Frontier,1995-01-01,,0.0,4,0,22,PC,Adventure,1995
+402506,stargate-1995,Stargate (1995),1995-04-17,,3.67,9,0,22,"Game Boy, SNES, Genesis, Game Gear","Platformer, Action",1995
+29418,star-wars-tie-fighter-collectors-cd-rom,Star Wars: TIE Fighter Collector's CD-ROM,1995-01-01,,4.12,7,0,22,PC,Simulation,1995
+6474,neo-turf-masters,NEO TURF MASTERS,1995-12-31,,0.0,2,0,22,"PC, iOS, Android, macOS, Linux, Wii, Neo Geo","Casual, Arcade, Sports",1995
+55291,nhl-96,NHL 96,1995-10-26,,3.38,8,0,22,"PC, Game Boy, SNES, Genesis",Sports,1995
+31334,game-36,Подземелья Кремля,1995-01-01,,2.86,7,0,22,PC,"Shooter, Action",1995
+31034,battle-arena-toshinden-2,Battle Arena Toshinden 2,1995-01-01,,3.12,8,0,21,"PC, PlayStation","Arcade, Fighting",1995
+342532,disneys-magical-quest-3-starring-mickey-donald,Disney's Magical Quest 3 Starring Mickey & Donald,1995-12-08,,3.89,9,0,21,"Game Boy Advance, SNES",Platformer,1995
+55630,simon-the-sorcerer-ii-the-lion-the-wizard-and-the-,"Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe",1995-01-01,,3.86,7,0,21,"PC, iOS, Android, Classic Macintosh, Commodore / Amiga",Adventure,1995
+324985,pulstar-1995,Pulstar (1995),1995-01-01,,0.0,1,0,21,"PC, Neo Geo","Shooter, Arcade, Action",1995
+53030,in-the-hunt-1995,In the Hunt,1995-11-10,,4.12,8,0,21,"PlayStation, SEGA Saturn","Shooter, Action",1995
+52656,air-combat-1995,Air Combat (1995),1995-06-29,,3.55,11,0,21,PlayStation,"Action, Simulation",1995
+34940,timon-pumbaas-jungle-games,Timon & Pumbaa's Jungle Games,1995-12-15,,3.88,8,0,21,"PC, SNES",Action,1995
+29765,deathkeep,DeathKeep,1995-01-01,,0.0,1,0,20,PC,"Adventure, Action, RPG",1995
+57430,mighty-morphin-power-rangers-the-fighting-edition,Mighty Morphin Power Rangers: The Fighting Edition,1995-09-01,,4.11,9,0,20,SNES,Fighting,1995
+32640,lighthouse-the-dark-being,Lighthouse: The Dark Being,1995-12-31,,0.0,0,0,20,PC,"Adventure, Puzzle",1995
+24088,tails-adventure,Tails Adventure,1995-09-22,,0.0,4,0,19,"Nintendo 3DS, Game Gear",Adventure,1995
+57254,weaponlord,Weaponlord,1995-01-01,,3.29,7,0,19,"SNES, Genesis",Fighting,1995
+397106,marios-super-picross,Mario's Super Picross,1995-09-14,,3.73,11,0,19,SNES,Puzzle,1995
+31098,panzer-dragoon,Panzer Dragoon (1995),1995-05-11,,0.0,3,0,19,"PC, PlayStation 2, SEGA Saturn",Arcade,1995
+52708,batman-robin,Batman & Robin,1995-07-31,,2.12,8,0,18,"PC, PlayStation, Classic Macintosh, SEGA CD","Racing, Adventure, Action",1995
+57813,strikers-1945,Strikers 1945,1995-01-01,,0.0,1,0,18,"Nintendo Switch, PlayStation, SEGA Saturn",,1995
+31021,simtown,SimTown,1995-01-01,,3.83,6,0,18,PC,Strategy,1995
+32851,ascendancy,Ascendancy,1995-01-02,,4.5,8,0,18,"PC, iOS",Strategy,1995
+57076,justice-league-task-force,Justice League Task Force,1995-09-01,,3.14,6,0,18,"SNES, Genesis",Fighting,1995
+52976,galaxy-fight-universal-warriors,Galaxy Fight: Universal Warriors,1995-01-24,,0.0,2,0,18,"Xbox One, PlayStation 4, Nintendo Switch, PlayStation, SEGA Saturn, Neo Geo",Fighting,1995
+30352,ravenloft-stone-prophet,Ravenloft: Stone Prophet,1995-03-01,,0.0,3,0,18,PC,RPG,1995
+31430,nba-jam-tournament-edition,NBA Jam Tournament Edition,1995-01-01,,3.67,9,0,17,"PC, SNES",Sports,1995
+30260,actua-soccer,Actua Soccer,1995-01-01,,0.0,4,0,17,PC,Sports,1995
+33667,espn-extreme-games,ESPN Extreme Games,1995-09-09,,3.75,8,0,17,"PC, PlayStation","Racing, Sports",1995
+53440,namco-museum-1995,Namco Museum (1995),1995-11-22,,0.0,4,0,17,"PlayStation, GameCube, Nintendo 64, Game Boy Advance, Dreamcast",,1995
+27266,sonic-labyrinth,Sonic Labyrinth,1995-10-01,,2.5,6,0,17,"Nintendo 3DS, Game Gear","Action, Puzzle",1995
+31367,the-dark-eye,The Dark Eye,1995-10-31,,0.0,3,0,17,PC,Adventure,1995
+52721,beyond-the-beyond,Beyond the Beyond,1995-11-03,,0.0,4,0,16,PlayStation,RPG,1995
+23162,pray-for-death,Pray for Death,1995-12-31,,0.0,1,0,16,"PC, macOS, Linux","Action, Fighting",1995
+30040,prisoner-of-ice,Prisoner of Ice,1995-01-01,,0.0,4,0,16,"PlayStation, SEGA Saturn",Adventure,1995
+57713,rapid-reload,Rapid Reload,1995-04-28,,0.0,3,0,16,PlayStation,"Shooter, Action",1995
+57553,top-gear-3000,Top Gear 3000,1995-04-28,,4.29,7,0,16,SNES,Racing,1995
+22967,pinball-world,Pinball World,1995-01-01,,0.0,1,1,16,"PC, macOS, Linux","Action, Simulation",1995
+57615,gunbird,Gunbird,1995-12-15,,0.0,2,0,16,"PC, PlayStation, SEGA Saturn","Shooter, Action",1995
+57408,looney-tunes-b-ball,Looney Tunes B-Ball,1995-02-01,,0.0,3,0,15,SNES,Sports,1995
+57363,ghoul-patrol-1995,Ghoul Patrol (1995),1995-05-26,,0.0,2,0,15,SNES,"Shooter, Adventure, Action",1995
+31649,bermuda-syndrome,Bermuda Syndrome,1995-01-01,,0.0,2,0,15,PC,Arcade,1995
+31870,fx-fighter,FX Fighter,1995-01-01,,0.0,5,0,15,PC,"Arcade, Fighting",1995
+55288,nba-live-96,NBA Live 96,1995-12-31,,0.0,3,0,15,"PC, PlayStation, Game Boy, SNES, Genesis",Sports,1995
+30948,return-fire,Return Fire,1995-01-01,,4.3,10,0,15,"PC, PlayStation, 3DO",Arcade,1995
+456848,samurai-shodown-iii-blades-of-blood,Samurai Shodown III: Blades of Blood,1995-11-15,,0.0,4,0,15,"PlayStation, SEGA Saturn, Neo Geo",Fighting,1995
+32570,might-and-magic-swords-of-xeen,Might and Magic: Swords of Xeen,1995-01-01,,0.0,2,0,15,PC,RPG,1995
+57400,kirbys-avalanche-1995,Kirby's Avalanche (1995),1995-02-01,,0.0,4,0,15,"Wii, SNES",Puzzle,1995
+22775,space-quest-456,Space Quest 4+5+6,1995-11-26,,0.0,1,0,14,PC,Adventure,1995
+414643,panel-de-pon,Panel de Pon,1995-10-27,,4.33,6,0,14,SNES,Puzzle,1995
+52840,cyberbots-full-metal-madness,Cyberbots: Full Metal Madness,1995-04-20,,0.0,5,0,14,"PlayStation, SEGA Saturn","Action, Fighting",1995
+29483,space-hulk-venegance-of-the-blood-angels,Space Hulk: Venegance of the Blood Angels,1995-01-01,,3.0,6,0,14,"PC, PlayStation, SEGA Saturn, 3DO","Shooter, Strategy, Action",1995
+57457,porky-pigs-haunted-holiday,Porky Pig's Haunted Holiday,1995-10-01,,3.5,6,0,14,SNES,"Platformer, Action",1995
+29838,battle-beast,Battle Beast,1995-01-01,,2.29,7,0,14,PC,"Arcade, Fighting",1995
+502146,space-empires-i,Space Empires I,1995-01-01,,0.0,0,0,14,PC,Strategy,1995
+55815,mystery-dungeon-shiren-the-wanderer-1995,Mystery Dungeon: Shiren the Wanderer (1995),1995-12-01,,0.0,2,0,13,"Game Boy, SNES",RPG,1995
+29512,alien-odyssey,Alien Odyssey,1995-01-01,,0.0,2,0,13,PC,"Adventure, Action",1995
+32079,brain-dead-13,Brain Dead 13,1995-01-01,,0.0,3,0,13,"PC, iOS, PlayStation, Classic Macintosh, SEGA Saturn, 3DO, Jaguar",Arcade,1995
+52851,dark-seed-ii,Dark Seed II,1995-11-30,,0.0,0,0,13,"PlayStation, Classic Macintosh, SEGA Saturn",Adventure,1995
+31317,the-big-red-adventure,The Big Red Adventure,1995-01-01,,0.0,0,0,13,PC,Adventure,1995
+53428,monopoly-1995,Monopoly (1995),1995-09-30,,0.0,4,0,13,"PC, Game Boy Advance, Game Boy, Classic Macintosh, Genesis","Strategy, Board Games",1995
+57011,exosquad,Exosquad,1995-05-19,,2.67,6,0,13,Genesis,Action,1995
+29812,sid-meiers-civnet,Sid Meier's CivNet,1995-01-01,,0.0,1,0,13,PC,Strategy,1995
+32355,su-27-flanker,Su-27 Flanker,1995-01-01,,3.5,8,0,12,PC,Simulation,1995
+53101,loaded,Loaded,1995-12-12,,3.29,7,0,12,"PlayStation, SEGA Saturn","Shooter, Action",1995
+31175,superkarts,SuperKarts,1995-01-01,,0.0,5,0,12,PC,"Racing, Arcade",1995
+31588,cybermage-darklight-awakening,CyberMage: Darklight Awakening,1995-01-01,,0.0,2,0,12,PC,"Shooter, Action",1995
+57581,iron-commando,Iron Commando,1995-02-09,,0.0,0,0,12,"PC, SNES",,1995
+29421,earthworm-jim-for-windows-95,Earthworm Jim for Windows 95,1995-01-01,,0.0,2,0,12,PC,Platformer,1995
+29804,mechwarrior-2-ghost-bears-legacy,MechWarrior 2: Ghost Bear's Legacy,1995-11-01,,0.0,5,0,12,PC,Simulation,1995
+32803,wings-of-glory,Wings of Glory,1995-01-01,,0.0,0,1,12,"PC, iOS, macOS","Strategy, Indie, Board Games, Simulation",1995
+24715,super-turrican-2,Super Turrican 2,1995-09-29,,0.0,1,0,12,"Wii, SNES",Action,1995
+31071,renegade-battle-for-jacobs-star,Renegade: Battle for Jacob's Star,1995-01-01,,0.0,0,0,12,PC,"Action, Simulation",1995
+30247,psychic-detective,Psychic Detective,1995-01-01,,0.0,0,0,12,"PC, PlayStation, 3DO",Adventure,1995
+53483,prehistorik-man-1995,Prehistorik Man (1995),1995-06-23,,0.0,2,0,12,"iOS, Android, Nintendo DSi, Game Boy Advance, SNES",,1995
+31536,the-orion-conspiracy-trust-no-one,The Orion Conspiracy: Trust No One,1995-01-01,,0.0,1,0,12,PC,Adventure,1995
+31032,chronicles-of-the-sword,Chronicles of the Sword,1995-01-01,,0.0,1,0,11,"PC, PlayStation",Adventure,1995
+32945,frankenstein-through-the-eyes-of-the-monster,Frankenstein: Through the Eyes of the Monster,1995-01-01,,0.0,2,0,11,PC,Adventure,1995
+57500,super-adventure-island-ii-1995,Super Adventure Island II (1995),1995-01-03,,0.0,1,0,11,SNES,"Platformer, Adventure",1995
+5091,extreme-pinball,Extreme Pinball,1995-01-01,,0.0,0,0,11,"PC, PlayStation",Arcade,1995
+57143,phantom-2040,Phantom 2040,1995-05-04,,0.0,4,0,11,"SNES, Genesis, Game Gear",Adventure,1995
+57057,power-instinct,Power Instinct,1995-01-01,,0.0,2,0,11,SNES,"Action, Fighting",1995
+32427,turrican-2-the-final-fight,Turrican 2: The Final Fight,1995-12-01,,0.0,2,0,11,PC,Arcade,1995
+379447,bs-the-legend-of-zelda,BS The Legend of Zelda,1995-04-06,,0.0,1,0,11,"SNES, NES","Adventure, Action, RPG",1995
+842200,toy-story-snes,Toy Story (SNES),1995-11-22,,0.0,3,0,11,"PC, Game Boy, SNES, NES, Genesis",Platformer,1995
+33185,strip-blackjack-part-three-fashion-girls-collectio,Strip Blackjack Part Three: Fashion Girls Collection,1995-01-01,,0.0,1,0,11,PC,Card,1995
+33788,the-adventures-of-batman-robin,The Adventures of Batman & Robin (SegaDC),1995-07-01,,0.0,4,0,11,SEGA CD,"Educational, Platformer, Action",1995
+32339,dungeon-master-2-the-legend-of-skullkeep,Dungeon Master 2: The Legend of Skullkeep,1995-01-01,,0.0,2,0,11,PC,RPG,1995
+34403,marios-game-gallery,Mario's Game Gallery,1995-01-01,,0.0,3,0,11,PC,Card,1995
+34557,the-civil-war,The Civil War,1995-01-01,,0.0,0,0,11,PC,Strategy,1995
+29728,lemmings-for-windows-95,Lemmings for Windows 95,1995-01-01,,0.0,1,0,11,PC,Arcade,1995
+23029,pajama-sam-vol-1,Pajama Sam Vol. 1,1995-12-31,,0.0,2,0,11,"PC, macOS, Linux","Educational, Adventure, Puzzle",1995
+57810,street-fighter-the-movie,Street Fighter: The Movie,1995-06-10,,0.0,4,0,11,"PlayStation, SEGA Saturn",Fighting,1995
+31841,chronomaster,Chronomaster,1995-01-01,,0.0,1,0,11,"PC, macOS, Linux",Adventure,1995
+27272,sonic-drift-2,Sonic Drift 2,1995-03-17,,0.0,1,0,11,"Nintendo 3DS, Game Gear",Racing,1995
+29656,johnny-bazookatone,Johnny Bazookatone,1995-01-01,,0.0,3,0,11,"PC, PlayStation, SEGA Saturn, 3DO",Arcade,1995
+32724,championship-manager-2,Championship Manager 2,1995-01-01,,0.0,0,0,11,PC,"Strategy, Sports",1995
+30087,roadwarrior,RoadWarrior,1995-01-01,,0.0,3,0,11,PC,"Racing, Action",1995
+54854,magical-drop,Magical Drop,1995-10-20,,0.0,2,0,10,"PlayStation, Game Boy Color, SNES, SEGA Saturn",Puzzle,1995
+330480,nocturnal-illusion,Nocturnal Illusion,1995-04-22,,0.0,3,0,10,PC,Adventure,1995
+33669,chess-kids,Chess Kids,1995-01-01,,0.0,4,0,10,PC,,1995
+32955,fatal-racing,Fatal Racing,1995-01-01,,3.67,6,0,10,PC,Arcade,1995
+32879,igor-objective-uikokahonia,Igor: Objective Uikokahonia,1995-01-01,,0.0,3,0,10,PC,Adventure,1995
+57684,poed,PO'ed,1995-11-06,,0.0,2,0,10,"PlayStation, 3DO",,1995
+33852,celtic-tales-balor-of-the-evil-eye,Celtic Tales: Balor of the Evil Eye,1995-01-01,,0.0,3,0,10,PC,"Strategy, RPG",1995
+456864,hong-kong-97,Hong Kong 97,1995-04-02,,0.0,2,0,10,SNES,"Shooter, Action",1995
+34164,lost-paradise,Lost Paradise,1995-01-01,,0.0,3,0,10,PC,"Adventure, RPG",1995
+26895,world-heroes-perfect,WORLD HEROES PERFECT,1995-06-30,,0.0,1,0,10,"Xbox One, PlayStation 4, Nintendo Switch, iOS, SEGA Saturn, Neo Geo","Action, Fighting",1995
+32181,simon-the-sorcerer-2-the-lion-the-wizard-and-the-w,"Simon the Sorcerer 2: The Lion, the Wizard and the Wardrobe",1995-01-01,,0.0,4,0,10,PC,Adventure,1995
+57249,warlock,Warlock,1995-08-15,,0.0,3,0,10,"SNES, Genesis",Action,1995
+428286,double-dragon-neo-geo,Double Dragon (Neo-Geo),1995-01-01,,0.0,2,0,10,"PlayStation 3, PlayStation, PS Vita, PSP, Neo Geo",Fighting,1995
+32445,shannara,Shannara,1995-01-01,,0.0,1,0,10,PC,Adventure,1995
+457756,tails-skypatrol,Tail's Skypatrol,1995-04-28,,0.0,0,0,10,"PlayStation 2, GameCube, Game Gear","Platformer, Shooter, Strategy",1995
+34483,u95,U95,1995-01-01,,0.0,4,0,10,PC,Arcade,1995
+31318,jazz-jackrabbit-holiday-hare-95,Jazz Jackrabbit Holiday Hare '95,1995-01-01,,0.0,1,0,10,PC,Arcade,1995
+30482,big-red-racing,Big Red Racing,1995-01-01,,0.0,2,0,10,PC,"Racing, Arcade",1995
+34209,gizmos-gadgets,Gizmos & Gadgets!,1995-01-01,,0.0,2,0,10,PC,Educational,1995
+33386,wayne-gretzky-and-the-nhlpa-all-stars,Wayne Gretzky and the NHLPA All-Stars,1995-11-01,,0.0,3,0,10,"PC, SNES, Genesis",Sports,1995
+32682,total-distortion,Total Distortion,1995-11-01,,0.0,2,0,10,PC,Adventure,1995
+30946,spider-man-separation-anxiety,Spider-Man: Separation Anxiety,1995-01-01,,0.0,3,0,10,PC,"Arcade, Fighting",1995
+258333,disneys-animated-storybook-pocahontas,Disney's Animated Storybook: Pocahontas,1995-12-01,,0.0,0,0,9,"PC, Classic Macintosh","Educational, Family",1995
+33604,once-upon-a-forest,Once Upon a Forest,1995-01-01,,0.0,1,0,9,PC,Adventure,1995
+29981,nhl-hockey-96,NHL Hockey '96,1995-10-01,,0.0,3,0,9,PC,Sports,1995
+55797,cutthroat-island,Cutthroat Island,1995-01-01,,0.0,5,0,9,"Game Boy, SNES, Genesis, Game Gear",,1995
+32873,touche-the-adventures-of-the-fifth-musketeer,Touche: The Adventures of the Fifth Musketeer,1995-01-01,,0.0,0,0,9,PC,Adventure,1995
+678529,worldscom,Worlds.com,1995-08-01,,0.0,2,0,9,PC,"Casual, Simulation",1995
+32754,william-shatners-tekwar,William Shatner's TekWar,1995-01-01,,0.0,3,0,9,PC,"Shooter, Action",1995
+460461,mega-man-the-power-battle,Mega Man: The Power Battle,1995-10-01,,0.0,5,0,9,,"Action, Fighting",1995
+33671,3-d-ultra-pinball,3-D Ultra Pinball,1995-01-01,,0.0,0,0,9,PC,Arcade,1995
+33804,happy-birthday,Happy Birthday,1995-01-01,,0.0,3,0,9,PC,"Educational, Adventure",1995
+30184,tube,Tube,1995-01-01,,0.0,5,0,9,PC,"Racing, Arcade",1995
+29398,michael-ninns-latex-the-game,Michael Ninn's Latex: The Game,1995-01-01,,0.0,3,0,9,PC,Adventure,1995
+459206,skeleton-krew,Skeleton Krew,1995-05-12,,0.0,4,0,9,"Commodore / Amiga, Genesis",Shooter,1995
+32375,alien-virus,Alien Virus,1995-01-01,,0.0,0,0,9,PC,Adventure,1995
+52700,baldies,Baldies,1995-01-01,,0.0,1,0,9,"PC, PlayStation, SEGA Saturn, Jaguar",,1995
+57325,clayfighter-2-judgment-clay,ClayFighter 2: Judgment Clay,1995-05-23,,0.0,4,0,9,SNES,"Action, Fighting",1995
+31388,total-control,Total Control,1995-01-01,,0.0,2,0,9,"PC, Linux","Strategy, RPG",1995
+57387,the-jetsons-invasion-of-the-planet-pirates,The Jetsons: Invasion of the Planet Pirates,1995-06-09,,0.0,3,0,9,SNES,"Platformer, Action",1995
+31766,capitalism,Capitalism,1995-01-01,,0.0,2,0,8,PC,Strategy,1995
+32690,virtual-pool,Virtual Pool,1995-01-01,,0.0,0,0,8,PC,"Casual, Sports",1995
+368079,emerald-dragon,Emerald Dragon,1995-07-28,,0.0,2,0,8,SNES,RPG,1995
+33917,skunny,Skunny,1995-01-01,,0.0,1,0,8,PC,Arcade,1995
+281860,off-world-interceptor,Off-World Interceptor,1995-11-22,,0.0,3,0,8,"PlayStation, SEGA Saturn, 3DO","Racing, Action",1995
+34303,dime-city,Dime City,1995-01-01,,0.0,2,0,8,PC,Adventure,1995
+29973,front-lines,Front Lines,1995-01-01,,0.0,0,0,8,"PC, macOS","Adventure, Action, Casual, Strategy, Simulation, Indie",1995
+756540,last-bible-special,Megami Tensei Gaiden: Last Bible Special,1995-03-24,,0.0,1,0,8,Game Gear,RPG,1995
+32174,little-fighter,Little Fighter,1995-01-01,,0.0,1,0,8,PC,"Arcade, Fighting",1995
+33903,player-manager-2,Player Manager 2,1995-01-01,,0.0,2,0,8,"PC, Commodore / Amiga","Strategy, Sports",1995
+34000,guilty,Guilty,1995-01-01,,0.0,1,0,8,PC,"Indie, Adventure",1995
+32786,bad-toys,Bad Toys,1995-01-01,,0.0,0,0,8,PC,"Shooter, Action",1995
+30875,radix-beyond-the-void,Radix: Beyond the Void,1995-01-01,,0.0,2,0,8,PC,"Shooter, Action",1995
+34313,zeek-the-geek,Zeek the Geek,1995-01-01,,0.0,2,0,8,PC,Puzzle,1995
+33932,survival,Survival,1995-01-01,,0.0,0,0,8,"PC, PlayStation 4, Android","Adventure, Action, Strategy, Arcade, Massively Multiplayer",1995
+31801,arctic-moves,Arctic Moves,1995-01-01,,0.0,0,0,8,PC,Arcade,1995
+52554,mr-do,Mr. Do!,1995-06-23,,0.0,2,0,8,"Game Boy, SNES, Commodore / Amiga, Atari 2600, Atari 8-bit",,1995
+33250,game-4-2,Марьяж 4,1995-12-01,,0.0,0,0,8,PC,Card,1995
+33480,floppy-killer,Floppy Killer,1995-01-01,,0.0,2,0,8,PC,Arcade,1995
+29814,3d-cyber-puck,3D Cyber Puck,1995-01-01,,0.0,2,0,8,PC,Arcade,1995
+34057,corel-wild-board-games,Corel Wild Board Games,1995-01-01,,0.0,0,0,8,PC,"Board Games, Puzzle",1995
+55918,spirou,Spirou,1995-01-01,,0.0,1,0,8,"PC, Game Boy, SNES, Genesis","Platformer, Action",1995
+460516,the-ooze-1995,The Ooze (1995),1995-09-22,,0.0,2,0,8,Genesis,Action,1995
+33398,roketz,Roketz,1995-01-01,,0.0,1,0,8,"PC, Commodore / Amiga",Arcade,1995
+736183,linda3,Linda³,1995-10-09,,0.0,2,0,8,"PlayStation, SEGA Saturn",RPG,1995
+489289,midnight-run-road-fighter-2,Midnight Run: Road Fighter 2,1995-12-01,,0.0,1,0,8,PlayStation,Racing,1995
+57104,minnesota-fats-pool-legend,Minnesota Fats: Pool Legend,1995-03-31,,0.0,4,0,8,"Genesis, SEGA Saturn",,1995
+445435,ys-v-lost-kefin-kingdom-of-sand,"Ys V: Lost Kefin, Kingdom of Sand",1995-12-29,,0.0,0,0,8,"PlayStation 2, SNES","Action, RPG",1995
+374513,soltys,Sołtys,1995-05-23,,0.0,2,0,8,PC,Adventure,1995
+57510,super-bonk-1994,Super Bonk,1995-11-01,,0.0,2,0,8,SNES,"Platformer, Adventure, Action",1995
+32938,exile-escape-from-the-pit,Exile: Escape from the Pit,1995-01-01,,0.0,1,0,8,PC,RPG,1995
+30258,darkseed-2,Darkseed 2,1995-11-01,,0.0,1,0,8,PC,Adventure,1995
+30893,vinyl-goddess-from-mars,Vinyl Goddess from Mars,1995-01-01,,0.0,2,0,8,PC,Arcade,1995
+31606,druid-daemons-of-the-mind,Druid: Daemons of the Mind,1995-01-01,,0.0,2,0,8,PC,"Adventure, RPG",1995
+31793,battle-isle-3-shadow-of-the-emperor,Battle Isle 3: Shadow of the Emperor,1995-01-01,,0.0,0,0,8,PC,Strategy,1995
+55334,apache,Apache,1995-01-01,,0.0,0,0,8,"PC, Classic Macintosh, Commodore / Amiga",Shooter,1995
+29969,frank-thomas-big-hurt-baseball,Frank Thomas Big Hurt Baseball,1995-12-01,,0.0,0,0,8,"PC, PlayStation, Game Boy, SNES, Genesis, SEGA Saturn","Simulation, Sports",1995
+52775,captain-tsubasa-j-get-in-the-tomorrow,Captain Tsubasa J: Get In The Tomorrow,1995-05-03,,0.0,3,0,8,PlayStation,Sports,1995
+32678,pinball-illusions,Pinball Illusions,1995-01-01,,0.0,2,0,8,"PC, Linux, Classic Macintosh, Commodore / Amiga",Arcade,1995
+31593,zorro,Zorro,1995-01-01,,0.0,1,0,8,PC,Arcade,1995
+33422,corel-wild-cards,Corel Wild Cards,1995-01-01,,0.0,2,0,8,PC,Card,1995
+398422,street-fighter-alpha-warriors-dreams,Street Fighter Alpha: Warriors' Dreams,1995-06-27,,0.0,5,0,8,"PC, PlayStation, Game Boy Color, SEGA Saturn",Fighting,1995
+31678,1830-railroads-robber-barons,1830: Railroads & Robber Barons,1995-01-01,,0.0,0,0,8,PC,Strategy,1995
+33582,3-d-table-sports,3-D Table Sports,1995-01-01,,0.0,2,0,8,PC,Arcade,1995
+34460,commander-blood,Commander Blood,1995-01-01,,0.0,3,0,8,PC,Adventure,1995
+756538,last-bible-iii,Last Bible III,1995-03-04,,0.0,0,0,7,SNES,RPG,1995
+30061,simisle-missions-in-the-rainforest,SimIsle: Missions in the Rainforest,1995-11-01,,0.0,1,0,7,PC,"Strategy, Educational",1995
+31601,tank-commander,Tank Commander,1995-01-01,,0.0,1,0,7,PC,"Indie, Action, Simulation",1995
+34116,laffaire-morlov,L'Affaire Morlov,1995-01-01,,0.0,0,0,7,PC,Adventure,1995
+33266,slicks-n-slide,Slicks 'n' Slide,1995-01-01,,0.0,1,0,7,PC,"Racing, Arcade",1995
+4886,cho-aniki,Cho Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko,1995-09-08,,0.0,1,0,7,"PlayStation, SEGA Saturn","Shooter, Action",1995
+55955,waterworld-1995,Waterworld (1995),1995-11-21,,0.0,0,0,7,"Game Boy, SNES","Platformer, Action",1995
+34168,zyclunt-blade-warrior,Zyclunt: Blade Warrior,1995-10-01,,0.0,2,0,7,PC,Arcade,1995
+29385,rollin,Rollin',1995-01-01,,0.0,2,0,7,PC,Arcade,1995
+33260,crazy-hospital-2,Crazy Hospital 2,1995-01-01,,0.0,2,0,7,PC,Strategy,1995
+32078,sfpd-homicide,SFPD Homicide,1995-01-01,,0.0,1,0,7,PC,Adventure,1995
+33613,indycar-racing-2,IndyCar Racing 2,1995-01-01,,0.0,2,0,7,"PC, macOS","Racing, Sports",1995
+31810,aliens-a-comic-book-adventure,Aliens: A Comic Book Adventure,1995-01-01,,0.0,0,0,7,PC,Adventure,1995
+31716,wrath-of-earth,Wrath of Earth,1995-01-01,,0.0,0,0,7,PC,"Shooter, Action",1995
+34256,action-soccer,Action Soccer,1995-03-01,,0.0,1,0,7,PC,Sports,1995
+37844,ultimate-soccer-manager,Ultimate Soccer Manager,1995-01-01,,0.0,1,0,7,PC,"Strategy, Sports",1995
+727331,ganbare-goemon-kirakira-dochu-boku-ga-dancer-ni-na,Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake,1995-12-22,,0.0,1,0,7,SNES,"Platformer, Adventure, Action",1995
+32085,microsoft-flight-simulator-50,Microsoft Flight Simulator 5.0,1995-01-01,,0.0,0,0,7,PC,Simulation,1995
+56965,cheese-cat-astrophe-starring-speedy-gonzales,Cheese Cat-Astrophe Starring Speedy Gonzales,1995-02-01,,0.0,0,0,7,"Genesis, SEGA Master System, Game Gear",Action,1995
+32722,daryl-f-gates-police-quest-swat,Daryl F. Gates' Police Quest: SWAT,1995-01-01,,0.0,1,0,7,PC,"Arcade, Adventure",1995
+33731,solitaire-deluxe,Solitaire Deluxe,1995-01-01,,0.0,1,0,7,PC,Card,1995
+55208,alien-breed-3d,Alien Breed 3D,1995-01-01,,0.0,1,0,7,Commodore / Amiga,,1995
+57184,squirrel-king,Squirrel King,1995-01-01,,0.0,1,0,7,Genesis,Action,1995
+31302,atari-2600-action-pack,Atari 2600 Action Pack,1995-01-01,,0.0,1,0,7,PC,Arcade,1995
+52862,densha-de-go,Densha de Go!,1995-01-01,,0.0,0,0,7,"PC, PlayStation, Game Boy Color",,1995
+31121,bureau-13,Bureau 13,1995-01-01,,0.0,1,0,7,PC,Adventure,1995
+32182,dinotopia,Dinotopia,1995-01-01,,0.0,1,0,7,PC,Adventure,1995
+34516,amys-shapes,Amy's Shapes,1995-01-01,,0.0,1,0,7,PC,,1995
+58013,zero-divide-1995,Zero Divide (1995),1995-08-25,,0.0,1,0,7,"PC, PlayStation",Fighting,1995
+38872,hoyle-classic-games,Hoyle Classic Games,1995-01-01,,0.0,0,0,7,PC,"Card, Board Games",1995
+34213,fuzzys-world-of-miniature-space-golf,Fuzzy's World of Miniature Space Golf,1995-01-01,,0.0,1,0,7,PC,,1995
+33803,xixit,Xixit,1995-01-01,,0.0,2,0,7,PC,Arcade,1995
+374512,skaut-kwatermaster,Skaut Kwatermaster,1995-07-31,,0.0,1,0,7,"PC, Commodore / Amiga",Adventure,1995
+29921,congo-descent-into-zinj,Congo: Descent into Zinj,1995-01-01,,0.0,0,0,7,PC,Adventure,1995
+33502,terror-in-christmas-town,Terror in Christmas Town,1995-01-01,,0.0,0,0,7,PC,"Shooter, Action",1995
+34323,baryon,Baryon,1995-01-01,,0.0,0,0,7,PC,Arcade,1995
+58008,you-dont-know-jack-1995,You Don't Know Jack (1995),1995-09-30,,0.0,0,0,7,"PC, Classic Macintosh","Family, Board Games",1995
+732491,ninja-gaiden-trilogy,Ninja Gaiden Trilogy,1995-08-10,,0.0,2,0,7,SNES,"Platformer, Arcade, Action, Fighting",1995
+33354,the-residents-bad-day-on-the-midway,The Residents' Bad Day on the Midway,1995-01-01,,0.0,0,0,7,PC,Adventure,1995
+29430,ef2000,EF2000,1995-01-01,,0.0,2,0,7,PC,Simulation,1995
+33219,fx-fighter-turbo,FX Fighter Turbo,1995-01-01,,0.0,3,0,7,PC,"Arcade, Fighting",1995
+31462,brett-hull-hockey-95,Brett Hull Hockey '95,1995-01-01,,0.0,0,0,7,"PC, SNES, Genesis","Simulation, Sports",1995
+393506,magical-popn,Magical pop'n,1995-03-10,,0.0,3,0,7,SNES,"Platformer, Adventure, Action",1995
+456874,yuu-yuu-hakusho-final,Yuu Yuu Hakusho Final,1995-03-24,,0.0,4,0,7,SNES,Fighting,1995
+341586,shinobi-legions,Shinobi Legions,1995-06-30,,0.0,1,0,7,SEGA Saturn,"Platformer, Arcade",1995
+34104,us-navy-fighters,U.S. Navy Fighters,1995-01-01,,0.0,0,0,7,PC,Simulation,1995
+31599,allied-general,Allied General,1995-01-01,,0.0,0,0,7,"PC, PlayStation, Classic Macintosh",Strategy,1995
+455530,markos-magic-football,Marko's Magic Football,1995-02-01,,0.0,3,0,7,"SNES, Genesis, SEGA CD, Game Gear","Platformer, Adventure, Action",1995
+52883,donpachi,DonPachi,1995-11-25,,0.0,1,0,7,"PlayStation, SEGA Saturn","Shooter, Action",1995
+5357,bowling,Panda Bowling,1995-01-01,,0.0,1,0,7,PC,"Arcade, Sports",1995
+34418,gore-galore-the-breakout,Gore Galore: The Breakout,1995-01-01,,0.0,0,0,7,PC,"Shooter, Action",1995
+32453,mirage-1995,Mirage (1995),1995-01-01,,0.0,1,0,7,PC,"Adventure, Puzzle",1995
+33791,blind-justice,Blind Justice,1995-01-01,,0.0,2,2,7,PC,"Strategy, Indie, RPG, Simulation",1995
+33305,microsoft-hover,Microsoft Hover!,1995-06-01,,0.0,1,0,7,PC,Arcade,1995
+38894,game-290,Старое золото,1995-04-01,,0.0,1,0,7,PC,"Shooter, Action",1995
+34298,clydes-revenge,Clyde's Revenge,1995-01-02,,0.0,2,0,7,PC,"Platformer, Action, Puzzle",1995
+57839,tecmo-stackers,Tecmo Stackers,1995-12-29,,0.0,1,0,7,"PlayStation, SEGA Saturn",Puzzle,1995
+34254,cyberspeed,CyberSpeed,1995-09-15,,0.0,0,0,6,"PC, PlayStation",Racing,1995
+30592,pinball-mania,Pinball Mania,1995-02-01,,0.0,1,0,6,PC,Arcade,1995
+32509,thunderscape-world-of-aden,Thunderscape: World of Aden,1995-01-01,,0.0,2,0,6,PC,RPG,1995
+31319,pinball-2000,Pinball 2000,1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+30862,silverload,Silverload,1995-01-01,,0.0,0,0,6,"PC, PlayStation",Adventure,1995
+32489,stars-2,Stars!,1995-01-01,,0.0,0,0,6,PC,Strategy,1995
+33188,mortal-coil-adrenalin-intelligence,Mortal Coil: Adrenalin Intelligence,1995-10-01,,0.0,0,0,6,PC,"Shooter, Action",1995
+34096,mvp-bridge-for-windows,MVP Bridge for Windows,1995-01-01,,0.0,0,0,6,PC,Card,1995
+34370,widget-workshop,Widget Workshop,1995-01-01,,0.0,0,0,6,PC,Puzzle,1995
+33793,game-81,Вира!!!,1995-01-01,,0.0,0,0,6,PC,Puzzle,1995
+33492,bicycle-casino,"Bicycle Casino: Blackjack, Poker, Baccarat, Roulette",1995-01-01,,0.0,0,0,6,PC,Card,1995
+31558,absolute-zero,Absolute Zero,1995-01-01,,0.0,0,0,6,PC,Simulation,1995
+33497,defcon-5,Defcon 5,1995-01-01,,0.0,0,0,6,"PC, PlayStation, SEGA Saturn, 3DO","Shooter, Adventure, Action",1995
+55251,super-skidmarks,Super Skidmarks,1995-01-01,,0.0,1,0,6,"Commodore / Amiga, Genesis",Racing,1995
+413874,oregon-trail-ii,Oregon Trail II,1995-02-13,,0.0,3,0,6,"PC, macOS","Educational, Adventure",1995
+29708,the-atlas,The Atlas,1995-01-01,,0.0,1,0,6,PC,Strategy,1995
+33693,sammys-science-house,Sammy's Science House,1995-01-01,,0.0,1,0,6,PC,Educational,1995
+32327,endorfun,Endorfun,1995-01-01,,0.0,1,0,6,"PC, PlayStation, Classic Macintosh","Strategy, Puzzle",1995
+33018,multimedia-iq-test,Multimedia IQ Test,1995-01-01,,0.0,1,0,6,PC,Educational,1995
+31590,zoop,Zoop,1995-01-01,,0.0,2,0,6,"PC, Genesis",Arcade,1995
+30082,manic-karts,Manic Karts,1995-01-01,,0.0,2,0,6,PC,"Racing, Arcade",1995
+30583,ocean-trader,Ocean Trader,1995-01-01,,0.0,1,0,6,PC,Strategy,1995
+30402,casino-tournament-of-champions,Casino Tournament of Champions,1995-01-01,,0.0,1,0,6,PC,Card,1995
+34927,monopoly-cd-rom,Monopoly CD-ROM,1995-01-01,,0.0,0,0,6,PC,Board Games,1995
+286476,space-pirates-american-laser-games,Space Pirates (American Laser Games),1995-01-01,,0.0,3,0,6,3DO,Arcade,1995
+53009,heberekes-popoitto,Hebereke's Popoitto,1995-03-03,,0.0,0,0,6,"PlayStation, SNES, SEGA Saturn",Puzzle,1995
+456871,the-amazing-spider-man-lethal-foes,The Amazing Spider Man: Lethal Foes,1995-03-17,,0.0,3,0,6,SNES,Action,1995
+30173,operation-carnage,Operation: Carnage,1995-01-01,,0.0,2,0,6,PC,Arcade,1995
+29720,qin-tomb-of-the-middle-kingdom,Qin: Tomb of the Middle Kingdom,1995-01-01,,0.0,1,0,6,PC,"Adventure, Puzzle",1995
+34395,brickbuster,BrickBuster,1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+31262,lode-runner-on-line-the-mad-monks-revenge,Lode Runner On-Line: The Mad Monks' Revenge,1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+34278,nerves-of-steel,Nerves of Steel,1995-01-01,,0.0,1,0,6,PC,"Shooter, Action",1995
+31902,offensive-western-front-1944-45,Offensive: Western Front 1944-45,1995-01-01,,0.0,0,0,6,PC,Strategy,1995
+34389,ceo-aiv-network,C.E.O. (AIV Network$),1995-01-01,,0.0,0,0,6,PC,Strategy,1995
+33228,jack-the-ripper-1995,Jack the Ripper (1995),1995-01-01,,0.0,0,0,6,PC,Adventure,1995
+34106,empire-2-the-art-of-war,Empire 2: The Art of War,1995-08-01,,0.0,0,0,6,PC,Strategy,1995
+57212,tecmo-super-bowl-iii-final-edition,Tecmo Super Bowl III: Final Edition,1995-08-04,,0.0,0,0,6,"SNES, Genesis","Simulation, Sports",1995
+371821,luciennes-quest,Lucienne's Quest,1995-09-15,,0.0,1,0,6,"SEGA Saturn, 3DO",RPG,1995
+57396,king-arthur-the-knights-of-justice,King Arthur & the Knights of Justice,1995-05-01,,0.0,0,0,6,SNES,,1995
+32320,pinball-fantasies-deluxe,Pinball Fantasies Deluxe,1995-01-01,,0.0,0,0,6,PC,Arcade,1995
+54259,eternal-champions-challenge-from-the-dark-side,Eternal Champions: Challenge from the Dark Side,1995-02-01,,0.0,1,0,6,SEGA CD,Fighting,1995
+32585,cyber-bikes,Cyber Bikes,1995-01-01,,0.0,2,0,6,PC,"Racing, Action",1995
+31038,breakfree,BreakFree,1995-01-01,,0.0,2,0,6,PC,Arcade,1995
+30859,zone-raiders,Zone Raiders,1995-01-01,,0.0,1,0,6,PC,"Racing, Action",1995
+33234,travel-gunner,Travel Gunner,1995-01-01,,0.0,1,0,6,PC,Adventure,1995
+33370,game-67,Побег,1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+33956,amys-fun-2-3-adventure,Amy's Fun-2-3-Adventure,1995-01-01,,0.0,1,0,6,PC,Educational,1995
+33807,black-zone,Black Zone,1995-01-01,,0.0,2,0,6,PC,Arcade,1995
+30285,shadows-of-cairn,Shadows of Cairn,1995-01-01,,0.0,1,0,6,PC,"Arcade, Adventure",1995
+30168,pyrotechnica,Pyrotechnica,1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+31559,high-seas-trader,High Seas Trader,1995-01-01,,0.0,0,0,6,"PC, Commodore / Amiga",Strategy,1995
+34485,darker,Darker,1995-01-01,,0.0,1,0,6,PC,Simulation,1995
+34304,millies-math-house,Millie's Math House,1995-01-01,,0.0,0,0,6,PC,Educational,1995
+34274,honey-lines,Honey Lines,1995-01-01,,0.0,1,0,6,PC,,1995
+56927,barkley-shut-up-and-jam-2,Barkley Shut Up and Jam! 2,1995-06-01,,0.0,1,0,6,Genesis,Sports,1995
+57445,pto-ii,P.T.O. II,1995-02-17,,0.0,1,0,6,"PC, PlayStation, SNES, SEGA Saturn",,1995
+55844,madden-nfl-96,Madden NFL '96,1995-11-10,,0.0,1,0,6,"Game Boy, SNES, Genesis",Sports,1995
+258330,disneys-animated-storybook-winnie-the-pooh-and-the,Disney's Animated Storybook: Winnie The Pooh and the Honey Tree,1995-08-28,,0.0,1,0,6,"PC, Classic Macintosh","Educational, Family",1995
+54334,wirehead,Wirehead,1995-01-01,,0.0,0,0,6,SEGA CD,Adventure,1995
+30116,krazy-ivan,Krazy Ivan,1995-01-01,,0.0,0,0,6,"PC, PlayStation, SEGA Saturn","Shooter, Action",1995
+939751,majin-tensei-ii-spiral-nemesis,Majin Tensei II: Spiral Nemesis,1995-02-19,,0.0,0,0,6,"Wii U, Wii, SNES",RPG,1995
+484508,jumpstart-1st-grade,JumpStart 1st Grade,1995-08-28,,0.0,1,0,6,PC,Educational,1995
+29947,the-11th-hour-the-sequel-to-the-7th-guest,The 11th Hour: The Sequel to The 7th Guest,1995-12-01,,0.0,0,0,6,PC,"Adventure, Puzzle",1995
+602223,zeldas-adventure-1995,Zelda's Adventure (1995),1995-06-05,,0.0,1,0,6,PC,"Adventure, Action",1995
+739618,the-museum-anything-goes,The Museum Anything Goes,1995-01-01,,0.0,1,0,6,PC,Adventure,1995
+34941,twisted-mini-golf,Twisted Mini Golf,1995-01-01,,0.0,1,0,6,PC,Action,1995
+34295,threat,Threat,1995-01-10,,0.0,1,0,6,PC,Arcade,1995
+536897,my-fearless-friend,My Fearless Friend,1995-01-01,,0.0,3,0,6,PC,"Educational, Adventure, Puzzle",1995
+33625,everest-the-ultimate-challenge,Everest: The Ultimate Challenge,1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+33730,expect-no-mercy,Expect No Mercy,1995-01-01,,0.0,2,0,6,PC,"Arcade, Fighting",1995
+33923,g-netix,G-Netix,1995-01-01,,0.0,1,0,6,PC,"Strategy, Educational, Simulation",1995
+34400,game-93,Виселица,1995-08-12,,0.0,2,0,6,PC,,1995
+31944,impact,Impact,1995-01-01,,0.0,1,0,6,PC,"Adventure, Action, Casual, Strategy, Arcade, Indie",1995
+33135,world-hockey-95,World Hockey '95,1995-01-01,,0.0,1,0,6,PC,Sports,1995
+34216,championship-pool-for-windows,Championship Pool for Windows,1995-01-01,,0.0,1,0,6,PC,Sports,1995
+31958,mephisto-chess-genius-2,Mephisto Chess Genius 2,1995-01-01,,0.0,0,0,6,PC,,1995
+57125,nightmare-circus,Nightmare Circus,1995-01-01,,0.0,1,0,6,Genesis,,1995
+57266,world-series-baseball-95,World Series Baseball '95,1995-12-01,,0.0,1,0,6,"Genesis, SEGA 32X, Game Gear","Simulation, Sports",1995
+30526,hardwood-solitaire,Hardwood Solitaire,1995-01-01,,0.0,1,0,6,PC,Card,1995
+37824,in-the-dead-of-night,In the Dead of Night,1995-01-01,,0.0,0,0,6,PC,Adventure,1995
+29388,powerhouse,PowerHouse,1995-01-01,,0.0,0,0,6,PC,Strategy,1995
+33653,stars-2-2,Stars! 2,1995-01-01,,0.0,0,0,6,PC,Strategy,1995
+33936,biprolex,Biprolex,1995-01-01,,0.0,0,0,6,PC,Arcade,1995
+33644,bridge-deluxe-2-with-omar-sharif-enhanced-cd-rom,Bridge Deluxe 2 with Omar Sharif Enhanced CD-ROM,1995-01-01,,0.0,0,0,6,PC,Card,1995
+31842,jeopardy-1995,Jeopardy! (1995),1995-07-01,,0.0,1,0,6,PC,,1995
+33655,2-fast-4-you,2 Fast 4 You,1995-01-01,,0.0,0,0,6,PC,"Racing, Arcade",1995
+756539,another-bible,Another Bible,1995-03-03,,0.0,0,0,6,Game Boy Color,RPG,1995
+438608,pretty-soldier-sailor-moon-s,Pretty Soldier Sailor Moon S,1995-03-17,,0.0,0,0,6,3DO,Fighting,1995
+34943,warlords-2-deluxe-cd,Warlords 2 Deluxe CD,1995-01-01,,0.0,0,0,6,PC,Strategy,1995
+369033,magic-knight-rayearth,Magic Knight Rayearth,1995-11-30,,0.0,2,0,6,SEGA Saturn,"Action, RPG",1995
+55276,kirbys-block-ball-1995,Kirby's Block Ball (1995),1995-12-14,,0.0,0,0,6,"Nintendo 3DS, Game Boy",Action,1995
+33596,777-triple-7,777: Triple 7,1995-01-01,,0.0,0,0,6,PC,Card,1995
+34094,clockwerx,ClockWerx,1995-01-01,,0.0,0,0,6,"PC, PlayStation, Classic Macintosh","Arcade, Puzzle",1995
+33377,great-naval-battles-vol-4-burning-steel-1939-1942,"Great Naval Battles, Vol. 4: Burning Steel, 1939-1942",1995-01-01,,0.0,0,0,6,PC,"Strategy, Simulation",1995
+33183,prototype-1995,Prototype (1995),1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+33022,k-1-tank,K-1 Tank,1995-01-01,,0.0,1,0,6,PC,Simulation,1995
+33029,perfect-partner-bridge,Perfect Partner Bridge,1995-01-01,,0.0,0,0,6,PC,Card,1995
+33898,im-meen,I.M. Meen,1995-01-01,,0.0,0,0,6,PC,"Shooter, Action, Educational",1995
+32705,frontier-first-encounters,Frontier: First Encounters,1995-01-01,,0.0,2,0,6,PC,Simulation,1995
+34521,command-aces-of-the-deep,Command: Aces of the Deep,1995-01-01,,0.0,0,0,6,PC,Simulation,1995
+33756,fun-n-games,Fun 'N Games,1995-01-01,,0.0,0,0,6,PC,Arcade,1995
+29353,blood-bowl-touchdown,Blood Bowl: Touchdown,1995-01-01,,0.0,0,0,6,PC,"Strategy, Sports",1995
+34131,al-unser-jr-arcade-racing,"Al Unser, Jr. Arcade Racing",1995-01-01,,0.0,0,0,6,PC,"Racing, Arcade",1995
+34575,advanced-civilization,Advanced Civilization,1995-01-01,,0.0,0,0,6,PC,Strategy,1995
+32135,ice-fire,Ice & Fire,1995-01-01,,0.0,1,0,6,PC,"Shooter, Arcade, Action",1995
+30693,total-carnage,Total Carnage,1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+32409,paparazzi-tales-of-tinseltown,Paparazzi!: Tales of Tinseltown,1995-01-01,,0.0,2,0,6,PC,,1995
+34515,the-real-deal,The Real Deal,1995-01-01,,0.0,1,0,6,PC,Card,1995
+33419,casino-de-luxe,Casino De Luxe,1995-01-01,,0.0,1,0,6,PC,,1995
+33529,jungledyret,Jungledyret,1995-01-01,,0.0,1,0,6,PC,Arcade,1995
+32468,bap,Bap,1995-02-18,,0.0,1,0,6,PC,Arcade,1995
+34499,pc-rally,PC Rally,1995-01-01,,0.0,1,0,6,PC,"Racing, Arcade",1995
+52786,carnage-heart,Carnage Heart,1995-12-08,,0.0,0,0,5,PlayStation,Strategy,1995
+55814,game-watch,Game & Watch,1995-01-01,,0.0,0,0,5,Game Boy,,1995
+57415,mark-davis-the-fishing-master,Mark Davis' The Fishing Master,1995-06-30,,0.0,0,0,5,SNES,Sports,1995
+57314,bronkie-the-bronchiasaurus,Bronkie the Bronchiasaurus,1995-09-01,,0.0,0,0,5,SNES,"Educational, Platformer",1995
+33013,speed-haste,Speed Haste,1995-01-01,,0.0,1,0,5,PC,"Racing, Simulation",1995
+34147,home-run-derby,Home Run Derby,1995-01-01,,0.0,0,0,5,PC,Sports,1995
+31691,the-daedalus-encounter,The Daedalus Encounter,1995-01-01,,0.0,0,0,5,PC,Adventure,1995
+33042,muppet-brighter-child,Muppet Brighter Child,1995-01-01,,0.0,0,0,5,PC,Educational,1995
+33246,superspeed-deluxe-edition,SuperSpeed Deluxe Edition,1995-01-01,,0.0,0,0,5,PC,"Racing, Arcade",1995
+33291,lion,Lion,1995-01-01,,0.0,0,0,5,PC,"Strategy, Adventure, Educational",1995
+32935,fury3,Fury3,1995-08-01,,0.0,0,0,5,PC,"Shooter, Action",1995
+32769,future-dimension,Future Dimension,1995-01-01,,0.0,0,0,5,PC,Arcade,1995
+31025,daggers-rage,Dagger's Rage,1995-01-01,,0.0,0,0,5,PC,Arcade,1995
+783730,royal-stone-hirakareshi-toki-no-tobira,Royal Stone: Hirakareshi Toki no Tobira,1995-02-24,,0.0,0,0,5,Game Gear,"Strategy, Adventure, Action, RPG",1995
+34503,cargo-bay,Cargo Bay,1995-01-01,,0.0,1,0,5,PC,Puzzle,1995
+34398,micro-deluxe,Micro! Deluxe,1995-01-01,,0.0,1,0,5,PC,,1995
+33762,welcome-to-the-future,Welcome to the Future,1995-01-01,,0.0,1,0,5,PC,Adventure,1995
+33767,dice-a-woman-2,Dice a Woman 2,1995-01-01,,0.0,1,0,5,PC,,1995
+33721,girlfriend,Girlfriend,1995-01-01,,0.0,1,0,5,PC,Adventure,1995
+33849,triad-campainwargame-system,Triad Campain/Wargame System,1995-01-01,,0.0,1,0,5,PC,Strategy,1995
+31700,storm-2,S.T.O.R.M.,1995-12-31,,0.0,1,0,5,PC,Arcade,1995
+33075,space-waste,Space Waste,1995-01-01,,0.0,1,0,5,"PC, iOS","Casual, Shooter, Arcade, Action",1995
+33427,game-70,Цирк,1995-01-01,,0.0,2,0,5,PC,,1995
+55703,virocop,Virocop,1995-01-01,,0.0,0,0,5,Commodore / Amiga,,1995
+55748,super-asteroids-missile-command,Super Asteroids & Missile Command,1995-01-01,,0.0,0,0,5,Atari Lynx,Shooter,1995
+53064,jupiter-strike,Jupiter Strike,1995-08-25,,0.0,0,0,5,"PC, PlayStation",,1995
+57545,timecop,Timecop,1995-02-17,,0.0,2,0,5,SNES,"Platformer, Action",1995
+55867,nfl-quarterback-club-96-2,NFL Quarterback Club 96,1995-10-27,,0.0,0,0,5,"Game Boy, SNES, Genesis, Game Gear",Sports,1995
+30586,pressure-drop,Pressure Drop,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+31143,immoral-cumbat,Immoral Cumbat,1995-01-01,,0.0,1,0,5,PC,"Shooter, Action",1995
+30423,loadstar-the-legend-of-tully-bodine,Loadstar: The Legend of Tully Bodine,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+34377,the-curse-of-armand-castle,The Curse of Armand Castle,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+34436,kid-works-deluxe,Kid Works Deluxe,1995-01-01,,0.0,1,0,5,PC,Educational,1995
+34468,rodge-rock-in-retro-active,Rodge Rock in Retro Active,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+33016,shakii-the-wolf,Shakii the Wolf,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+32733,playskool-puzzles,Playskool Puzzles,1995-01-01,,0.0,1,0,5,PC,,1995
+33434,alien-checkers,Alien Checkers,1995-01-01,,0.0,1,0,5,PC,Board Games,1995
+33574,the-raven-project,The Raven Project,1995-01-01,,0.0,1,0,5,PC,"Arcade, Simulation",1995
+34069,lunar-commander-2,Lunar Commander 2,1995-01-01,,0.0,1,0,5,PC,Strategy,1995
+33558,shanghai-great-moments,Shanghai: Great Moments,1995-01-01,,0.0,1,0,5,PC,,1995
+33522,rings-of-the-magi,Rings of the Magi,1995-01-01,,0.0,0,0,5,PC,Puzzle,1995
+29822,steel-panthers,Steel Panthers,1995-01-01,,0.0,0,0,5,PC,Strategy,1995
+34081,solitaire-devil,Solitaire Devil,1995-01-01,,0.0,0,0,5,PC,Card,1995
+34510,classics-arcade-action-for-windows,Classics Arcade Action for Windows,1995-01-01,,0.0,0,0,5,PC,Arcade,1995
+334307,johnny-mnemonic,Johnny Mnemonic,1995-05-26,,0.0,0,0,5,"PC, macOS",Adventure,1995
+32533,breach-3,Breach 3,1995-07-01,,0.0,0,0,5,PC,Strategy,1995
+34028,rapid-assault,Rapid Assault,1995-01-01,,0.0,0,0,5,PC,"Racing, Action",1995
+30742,the-scroll,The Scroll,1995-01-01,,0.0,0,0,5,PC,Adventure,1995
+29823,front-page-sports-football-pro-96,Front Page Sports: Football Pro '96,1995-01-01,,0.0,0,0,5,PC,Sports,1995
+33944,thors-hammer-trilogy,Thor's Hammer Trilogy,1995-01-01,,0.0,2,0,5,PC,RPG,1995
+31036,hardball-5,HardBall 5,1995-01-01,,0.0,0,0,5,PC,Sports,1995
+34346,world-class-rugby-95,World Class Rugby '95,1995-01-01,,0.0,1,0,5,PC,Sports,1995
+29474,fighter-wing,Fighter Wing,1995-01-01,,0.0,0,0,5,PC,Simulation,1995
+3798,the-firemen-2-pete-danny,The Firemen 2: Pete & Danny,1995-01-01,,0.0,0,0,5,PlayStation,Action,1995
+54245,corpse-killer,Corpse Killer,1995-08-25,,0.0,0,0,5,"Classic Macintosh, SEGA Saturn, SEGA CD, SEGA 32X, 3DO",Action,1995
+57304,big-sky-trooper,Big Sky Trooper,1995-10-01,,0.0,0,0,5,SNES,Action,1995
+57060,fever-pitch-soccer,Fever Pitch Soccer,1995-01-01,,0.0,1,0,5,"SNES, Genesis, Jaguar",Sports,1995
+306016,clockwork-knight,Clockwork Knight: Pepperouchau's Adventure,1995-05-11,,0.0,2,0,5,SEGA Saturn,"Platformer, Action",1995
+33461,player-of-the-year,Player of the Year,1995-01-01,,0.0,0,0,5,PC,Sports,1995
+33197,solitaire-suite,Solitaire Suite,1995-01-01,,0.0,0,0,5,PC,Card,1995
+31296,pool-champion,Pool Champion,1995-01-01,,0.0,0,0,5,PC,"Adventure, Sports",1995
+51287,titanic-une-aventure-hors-du-temps,Titanic: Une aventure hors du temps,1995-12-31,,0.0,0,0,5,PC,"Adventure, Puzzle",1995
+739614,mighty-mike,Mighty Mike,1995-01-01,,0.0,0,0,5,"PC, Classic Macintosh","Platformer, Action",1995
+33031,crullo-adventures-of-the-donut,Crullo: Adventures of the Donut,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+33147,room-the-math-game-from-hell,ROOM: The Math Game from Hell!,1995-01-01,,0.0,1,0,5,PC,,1995
+31354,the-martian-chronicles,The Martian Chronicles,1995-01-01,,0.0,1,0,5,PC,"Adventure, Puzzle",1995
+33208,qwirks,Qwirks,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+33328,uncover-it,Uncover It!,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+33510,vegas-knights-new-kasino-keno,Vegas Knight's New Kasino Keno,1995-01-01,,0.0,1,0,5,PC,,1995
+33238,too-many-geckos,Too Many Geckos!,1995-01-01,,0.0,1,0,5,PC,Puzzle,1995
+33959,kingpin-bowling,Kingpin Bowling,1995-01-01,,0.0,1,0,5,"PC, iOS","Family, Sports",1995
+34263,blackstar-agent-of-justice,Blackstar: Agent of Justice,1995-01-01,,0.0,1,0,5,PC,Adventure,1995
+34201,laser-light,Laser Light,1995-01-01,,0.0,1,0,5,PC,Puzzle,1995
+34143,total-knockout-boxing,Total Knockout Boxing,1995-01-01,,0.0,1,0,5,PC,Sports,1995
+34018,fisher-price-abcs,Fisher-Price ABC's,1995-01-01,,0.0,1,0,5,PC,Educational,1995
+33909,splatt,Splatt!,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+30496,flying-tigers,Flying Tigers,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+34342,dreamworld-adventure,Dreamworld-Adventure,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+34363,pocahontes,Pocahontes,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+40114,skyborg-into-the-vortex,Skyborg: Into the Vortex,1995-01-01,,0.0,1,0,5,PC,"Adventure, Puzzle",1995
+55476,guardians,Guardians,1995-01-01,,0.0,0,0,5,"PC, Commodore / Amiga, Atari ST",,1995
+33859,tough-guy,Tough Guy,1995-01-01,,0.0,0,0,5,PC,"Arcade, Action, Fighting",1995
+34077,oasis-project,Oasis Project,1995-01-01,,0.0,1,0,5,PC,"Adventure, RPG",1995
+34476,operation-combat-2-by-land-sea-air,"Operation Combat 2: By Land, Sea & Air",1995-01-01,,0.0,0,0,5,PC,,1995
+34223,backlash-a-turret-gunner-simulation,Backlash: A Turret Gunner Simulation,1995-11-24,,0.0,0,0,5,PC,Arcade,1995
+736238,space-griffon-vf-9,Space Griffon VF-9,1995-01-27,,0.0,0,0,5,"PlayStation, Dreamcast",Shooter,1995
+57564,war-2410,War 2410,1995-12-01,,0.0,0,0,5,SNES,Strategy,1995
+57531,super-solitaire,Super Solitaire,1995-07-23,,0.0,0,0,5,SNES,Board Games,1995
+54861,best-of-microsoft-entertainment-pack,Best of Microsoft Entertainment Pack,1995-01-01,,0.0,1,0,5,Game Boy Color,"Strategy, Puzzle",1995
+54332,wild-woody,Wild Woody,1995-01-01,,0.0,0,0,5,SEGA CD,,1995
+55212,atr-all-terrain-racing,ATR: All Terrain Racing,1995-01-01,,0.0,1,0,5,Commodore / Amiga,Racing,1995
+413873,dust-a-tale-of-the-wired-west,Dust: A Tale of the Wired West,1995-06-30,,0.0,2,0,5,"PC, macOS","Indie, Adventure, Action",1995
+52991,goal-storm,Goal Storm,1995-12-22,,0.0,1,0,5,PlayStation,Sports,1995
+57290,air-cavalry,Air Cavalry,1995-01-01,,0.0,1,0,5,SNES,,1995
+456873,wild-cats,Wild C.A.T.s,1995-01-01,,0.0,1,0,5,SNES,"Action, Fighting",1995
+33313,kingdom-at-war,Kingdom at War,1995-01-01,,0.0,1,0,5,PC,Strategy,1995
+33647,uefa-champions-league-1995-96,UEFA Champions League 1995-96,1995-01-01,,0.0,0,0,5,PC,Sports,1995
+29424,ka-50-hokum,KA-50 Hokum,1995-01-01,,0.0,0,0,5,PC,Simulation,1995
+55185,shadow-squadron,Shadow Squadron,1995-04-26,,0.0,0,0,5,SEGA 32X,Shooter,1995
+52637,4th-super-robot-wars,4th Super Robot Wars,1995-03-17,,0.0,0,0,5,PlayStation,,1995
+34075,dr-seusss-abc,Dr. Seuss's ABC,1995-01-01,,0.0,0,0,5,PC,Educational,1995
+31723,virtual-valerie-2,Virtual Valerie 2,1995-01-01,,0.0,0,0,5,PC,Arcade,1995
+750291,the-story-of-kamikuishiki-village,The Story of Kamikuishiki Village,1995-06-29,,0.0,0,0,5,PC,"Strategy, Simulation",1995
+34567,space-dude,Space Dude,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+81090,critical-mass-war-in-space,Critical Mass - war in space,1995-01-01,,0.0,1,0,5,"PC, iOS, Android","Strategy, Simulation",1995
+34910,atmosfear-the-3rd-dimension,Atmosfear: The 3rd Dimension,1995-01-01,,0.0,1,0,5,PC,"Adventure, Puzzle",1995
+33823,road-hog,Road Hog!,1995-01-01,,0.0,1,0,5,PC,"Racing, Arcade",1995
+33888,digital-photo-puzzle,Digital Photo Puzzle,1995-01-01,,0.0,1,0,5,PC,Puzzle,1995
+34137,boulderoid,Boulderoid,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+33962,smart-games-puzzle-challenge,Smart Games Puzzle Challenge,1995-01-01,,0.0,1,0,5,PC,Puzzle,1995
+29440,bolo,Bolo,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+29631,time-hunters,Time Hunters,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+30841,charly-the-clown-run-for-fun,Charly the Clown: Run for Fun,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+34231,funball,Funball,1995-01-01,,0.0,1,0,5,PC,"Strategy, Arcade",1995
+34326,happy-go-lucky,Happy-Go-Lucky,1995-01-01,,0.0,1,0,5,PC,Board Games,1995
+33072,fistfight,Fistfight,1995-01-01,,0.0,0,0,5,PC,"Arcade, Fighting",1995
+33243,iron-blood,Iron Blood,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+32834,dark-strike-atf-advanced-tactical-fighter,Dark Strike A.T.F. - Advanced Tactical Fighter,1995-01-01,,0.0,0,0,5,PC,Arcade,1995
+34120,red-chamber-dream,Red Chamber Dream,1995-01-01,,0.0,0,0,5,PC,,1995
+30874,jewels-of-the-oracle,Jewels of the Oracle,1995-01-01,,0.0,0,0,5,PC,"Adventure, Puzzle",1995
+33986,living-pinball,Living Pinball,1995-01-01,,0.0,0,0,5,PC,Arcade,1995
+34177,las-vegas-super-casino,Las Vegas Super Casino,1995-01-01,,0.0,0,0,5,PC,,1995
+34449,cap,C.A.P.,1995-01-01,,0.0,0,0,5,PC,Simulation,1995
+33806,corel-arcade-mania,Corel Arcade Mania,1995-01-01,,0.0,0,0,5,PC,Arcade,1995
+37603,armageddon-1995,Armageddon (1995),1995-10-01,,0.0,1,0,5,PC,Simulation,1995
+34037,triazzle-rain-forest,Triazzle: Rain Forest,1995-01-01,,0.0,1,0,5,PC,Puzzle,1995
+33963,black-knight-marine-strike-fighter,Black Knight: Marine Strike Fighter,1995-01-01,,0.0,0,0,5,PC,Simulation,1995
+34487,twin-road,Twin Road,1995-01-01,,0.0,1,0,5,PC,"Adventure, RPG",1995
+33656,flamedragon-2-legend-of-golden-castle,FlameDragon 2: Legend of Golden Castle,1995-01-01,,0.0,3,0,5,PC,RPG,1995
+34423,sango-fighter-2,Sango Fighter 2,1995-01-01,,0.0,0,0,5,PC,"Arcade, Fighting",1995
+30399,vikings-the-strategy-of-ultimate-conquest,Vikings: The Strategy of Ultimate Conquest,1995-01-01,,0.0,1,0,5,PC,Strategy,1995
+34528,mordor-depths-of-dejenol,Mordor: Depths of Dejenol,1995-01-01,,0.0,1,0,5,PC,RPG,1995
+34413,lords-of-midnight-3-the-citadel,Lords of Midnight 3: The Citadel,1995-01-01,,0.0,2,0,5,PC,RPG,1995
+34374,stellar-explorer,Stellar Explorer,1995-01-01,,0.0,0,0,5,PC,Strategy,1995
+34451,q-pop,Q-Pop,1995-01-01,,0.0,0,0,5,PC,Strategy,1995
+33645,superher,SuperHer,1995-01-01,,0.0,1,0,5,PC,"Adventure, RPG",1995
+802411,kishin-douji-zenki,Kishin Douji Zenki,1995-09-01,,0.0,1,0,5,Game Gear,"Platformer, Action",1995
+57446,packy-and-marlon,Packy and Marlon,1995-06-01,,0.0,0,0,5,SNES,"Educational, Platformer",1995
+56971,coach-k-college-basketball,Coach K College Basketball,1995-01-01,,0.0,0,0,5,Genesis,Sports,1995
+52910,kileak-the-dna-imperative,Kileak: The DNA Imperative,1995-01-27,,0.0,0,0,5,PlayStation,,1995
+33085,magical-story-series-majokko-kumi,Magical Story Series: Majokko Kumi,1995-01-01,,0.0,0,0,5,PC,Adventure,1995
+33977,laser-match-racing,Laser Match Racing,1995-01-01,,0.0,0,0,5,PC,"Racing, Simulation",1995
+33695,invitations-from-fantastic-stories,Invitations from Fantastic Stories,1995-01-01,,0.0,0,0,5,PC,Adventure,1995
+34509,hole-in-one,Hole in One,1995-01-01,,0.0,0,0,5,PC,Sports,1995
+732506,buster-1995,Buster (1995),1995-01-01,,0.0,0,0,5,PC,"Platformer, Action",1995
+34190,battleground-ardennes,Battleground: Ardennes,1995-01-01,,0.0,0,0,5,PC,Strategy,1995
+34375,world-empire-2,World Empire 2,1995-01-01,,0.0,1,0,5,PC,Strategy,1995
+33033,word-crazy,Word Crazy,1995-01-01,,0.0,1,0,5,PC,Puzzle,1995
+33316,pizza-worm,Pizza Worm,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+33050,denture-man,Denture Man,1995-01-01,,0.0,1,0,5,PC,Arcade,1995
+33045,zurks-rainforest-lab,Zurk's Rainforest Lab,1995-01-01,,0.0,1,0,5,PC,Educational,1995
+33057,1995card-games,1995card Games,1995-01-01,,0.0,1,0,5,PC,Card,1995
+33412,red-rhino,Red Rhino,1995-01-01,,0.0,1,0,5,PC,Educational,1995
+33641,midnight-rescue,Midnight Rescue!,1995-01-01,,0.0,1,0,5,PC,"Educational, Arcade",1995
+33679,decoder,Decoder,1995-01-01,,0.0,1,0,5,"PC, iOS","Board Games, Puzzle",1995
+34085,great-adventures-castle,Great Adventures: Castle,1995-01-01,,0.0,1,0,5,PC,Adventure,1995
+52791,cho-aniki-1995,Cho Aniki: Bakuretsu Ranto Hen,1995-02-24,,0.0,2,0,5,SNES,"Shooter, Action",1995
+33754,stellar-police,Stellar Police,1995-02-28,,0.0,2,0,5,PC,RPG,1995
+732485,donald-duck-no-mahou-no-boushi,Donald Duck no Mahou no Boushi,1995-08-11,,0.0,3,0,5,SNES,Platformer,1995
+31173,blood-magic,Blood & Magic,1995-01-01,,0.0,0,0,5,PC,Strategy,1995
+52706,bases-loaded-96-double-header,Bases Loaded '96: Double Header,1995-11-22,,0.0,0,0,4,"PlayStation, SEGA Saturn","Simulation, Sports",1995
+53016,the-hive-1995,The Hive (1995),1995-01-01,,0.0,0,0,4,"PC, PlayStation",,1995
+57338,dirt-trax-fx,Dirt Trax FX,1995-06-01,,0.0,0,0,4,SNES,Racing,1995
+57346,emmitt-smith-football,Emmitt Smith Football,1995-11-01,,0.0,0,0,4,SNES,Sports,1995
+741609,doraemon-4-nobita-in-the-moon-kingdom,Doraemon 4: Nobita in the Moon Kingdom,1995-12-14,,0.0,0,0,4,SNES,Platformer,1995
+34040,clash-of-steel-2-the-future-edition-or-what-is-aft,Clash of Steel 2: The Future Edition or What Is After World War III?,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+32563,striker-95,Striker '95,1995-01-01,,0.0,1,0,4,PC,Sports,1995
+33199,pacific-theater-of-operations-2,Pacific Theater of Operations 2,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+33515,riss-solitaire-card-games,RISS Solitaire Card Games,1995-01-01,,0.0,0,0,4,PC,Card,1995
+32865,crusade,Crusade,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+33168,motor-city,Motor City,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+32849,space-empires-2,Space Empires 2,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+33410,flight-light-plus,Flight Light Plus,1995-01-01,,0.0,0,0,4,PC,Simulation,1995
+34347,apba-football,APBA Football,1995-01-01,,0.0,0,0,4,PC,"Simulation, Sports",1995
+55181,kolibri,Kolibri,1995-11-30,,0.0,1,0,4,SEGA 32X,,1995
+57039,foreman-for-real,Foreman For Real,1995-09-28,,0.0,0,0,4,"Game Boy, SNES, Genesis, Game Gear",Sports,1995
+33661,saturday-night-live-goes-political,Saturday Night Live Goes Political,1995-01-01,,0.0,0,0,4,PC,"Arcade, Puzzle",1995
+717027,terror-trax-track-of-the-vampire,Terror T.R.A.X.: Track of the Vampire,1995-01-01,,0.0,1,0,4,PC,Adventure,1995
+32810,outer-ridge,Outer Ridge,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+33664,grandmaster-championship-chess,Grandmaster Championship Chess,1995-01-01,,0.0,0,0,4,PC,,1995
+743449,may-club,May Club,1995-08-25,,0.0,0,0,4,PC,Casual,1995
+57494,sterling-sharpe-end-2-end,Sterling Sharpe: End 2 End,1995-03-01,,0.0,0,0,4,SNES,"Simulation, Sports",1995
+57462,rap-jam-volume-one,Rap Jam: Volume One,1995-01-01,,0.0,0,0,4,SNES,Sports,1995
+56925,australian-rugby-league,Australian Rugby League,1995-01-01,,0.0,0,0,4,Genesis,Sports,1995
+34066,mimi-the-mites,Mimi & the Mites,1995-01-01,,0.0,1,0,4,PC,Arcade,1995
+34023,jixxa,Jixxa,1995-01-01,,0.0,1,0,4,PC,Puzzle,1995
+90146,connections,Connections,1995-01-01,,0.0,1,0,4,"PC, Apple II",Adventure,1995
+330999,in-the-1st-degree,In the 1st Degree,1995-08-31,,0.0,1,0,4,"PC, macOS",Adventure,1995
+33763,card-players-paradise,Card Player's Paradise,1995-01-01,,0.0,1,0,4,PC,Card,1995
+33469,star-quest-1-in-the-27th-century,Star Quest 1: In the 27th Century,1995-01-01,,0.0,1,0,4,PC,"Arcade, Simulation",1995
+33867,retrospectro,Retrospectro,1995-01-01,,0.0,1,0,4,PC,,1995
+33067,one-on-one-with-the-sat,One-on-One with the SAT,1995-01-01,,0.0,1,0,4,PC,Educational,1995
+32394,ungaria,Ungaria,1995-01-01,,0.0,1,0,4,PC,Puzzle,1995
+30334,xenoball,XenoBall,1995-01-01,,0.0,1,0,4,PC,Arcade,1995
+31051,maximum-roadkill,Maximum Roadkill,1995-01-01,,0.0,1,0,4,PC,"Racing, Arcade",1995
+52671,aquanauts-holiday,Aquanaut's Holiday,1995-06-30,,0.0,0,0,4,PlayStation,Simulation,1995
+33861,graditor,Graditor,1995-03-01,,0.0,0,0,4,PC,Arcade,1995
+717016,super-chinese-world-3,Super Chinese World 3,1995-12-22,,0.0,0,0,4,SNES,"Action, RPG",1995
+397493,tamoris-picross,Tamori's Picross,1995-06-13,,0.0,0,0,4,SNES,Puzzle,1995
+57230,troy-aikman-nfl-football,Troy Aikman NFL Football,1995-02-01,,0.0,0,0,4,"SNES, Genesis, Jaguar","Simulation, Sports",1995
+55684,total-football,Total Football,1995-01-01,,0.0,0,0,4,"Commodore / Amiga, Genesis",,1995
+802416,sylvan-tale,Sylvan Tale,1995-01-27,,0.0,1,0,4,Game Gear,RPG,1995
+33591,power-pinochle,Power Pinochle,1995-07-01,,0.0,0,0,4,PC,Card,1995
+33834,military-tetris,Military Tetris,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+842582,dk-eyewitness-virtual-reality-cats,DK Eyewitness: Virtual Reality Cats,1995-01-01,,0.0,1,0,4,PC,"Casual, Educational",1995
+34385,rebel-runner,Rebel Runner,1995-01-01,,0.0,1,0,4,PC,Arcade,1995
+33028,canon-bubble-mania,Canon Bubble Mania,1995-01-01,,0.0,1,0,4,PC,Arcade,1995
+33553,sk-111-star-killer,SK-111 Star Killer,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+34105,hellfire-zone,Hellfire Zone,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+739613,death-from-above-1995,Death from Above (1995),1995-01-01,,0.0,0,0,4,"PC, Classic Macintosh",Action,1995
+34325,polytris,Polytris,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+33143,jurassic-chess,Jurassic Chess,1995-01-01,,0.0,0,0,4,PC,,1995
+55190,tempo,Tempo,1995-03-24,,0.0,0,0,4,SEGA 32X,,1995
+33825,montana-solitaire,Montana Solitaire,1995-01-01,,0.0,0,0,4,"PC, macOS","Card, Family",1995
+470197,farland-story,Farland Story,1995-02-24,,0.0,1,0,4,SNES,"Strategy, RPG",1995
+791710,go-go-ackman-3,Go Go Ackman 3,1995-12-15,,0.0,3,0,4,SNES,"Platformer, Adventure, Action",1995
+33711,old-time-baseball,Old Time Baseball,1995-01-01,,0.0,0,0,4,PC,Sports,1995
+34189,virtual-snooker,Virtual Snooker,1995-01-01,,0.0,0,0,4,PC,Sports,1995
+31695,nfl-quarterback-club-96,NFL Quarterback Club '96,1995-01-01,,0.0,0,0,4,PC,Sports,1995
+32147,iron-assault,Iron Assault,1995-01-01,,0.0,0,0,4,PC,Simulation,1995
+802412,kishin-douji-zenki-battle-raiden,Kishin Douji Zenki: Battle Raiden,1995-08-04,,0.0,1,0,4,SNES,"Platformer, Action",1995
+456865,inazuma-serve-da-super-beach-volley,Inazuma Serve Da!! Super Beach Volley,1995-08-04,,0.0,1,0,4,SNES,Sports,1995
+597148,jack-bros,Jack Bros.,1995-09-29,,0.0,1,0,4,Game Boy Color,Adventure,1995
+34205,custers-last-command-the-battle-of-the-little-bigh,Custer's Last Command: The Battle of the Little Bighorn,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+33864,screamball-the-ultimate-pinball-experience,Screamball: The Ultimate Pinball Experience,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+33080,panthers-in-the-shadows,Panthers in the Shadows,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+32133,silverball-plus,Silverball Plus,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+33587,reverse-time,Reverse Time,1995-01-01,,0.0,1,0,4,PC,Arcade,1995
+33610,game-74,Гаврила,1995-01-01,,0.0,1,0,4,PC,,1995
+33475,bask,Bask,1995-01-01,,0.0,0,0,4,PC,Sports,1995
+33012,drak,Drak,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+34438,fighter-duel,Fighter Duel,1995-01-01,,0.0,0,0,4,PC,Simulation,1995
+405480,foul-play-mystery-at-awkward-manor,Foul Play: Mystery at Awkward Manor,1995-12-31,,0.0,0,0,4,"PC, macOS",Adventure,1995
+34296,air-power,Air Power,1995-01-01,,0.0,1,0,4,PC,Simulation,1995
+34496,the-scrabble-power,The Scrabble Power,1995-01-01,,0.0,0,0,4,PC,Board Games,1995
+405988,ghosts-fmv-adventure-game,Ghosts (FMV Adventure Game),1995-12-31,,0.0,0,0,4,"PC, macOS",Adventure,1995
+57681,philosoma,Philosoma,1995-07-28,,0.0,0,0,4,PlayStation,"Shooter, Action",1995
+57166,sampras-tennis-96,Sampras Tennis 96,1995-01-01,,0.0,0,0,4,Genesis,Sports,1995
+57013,earth-defense,Earth Defense,1995-01-01,,0.0,0,0,4,Genesis,,1995
+52836,criticom,Criticom,1995-11-29,,0.0,0,0,4,"PlayStation, SEGA Saturn",Fighting,1995
+57526,super-rbi-baseball,Super R.B.I. Baseball,1995-06-01,,0.0,0,0,4,SNES,"Simulation, Sports",1995
+55354,behind-the-iron-gate,Behind the Iron Gate,1995-01-01,,0.0,0,0,4,Commodore / Amiga,,1995
+415174,backpacker,Backpacker,1995-01-01,,0.0,0,0,4,,"Educational, Puzzle",1995
+55184,nfl-quarterback-club,NFL Quarterback Club,1995-02-24,,0.0,0,0,4,"Game Boy, SNES, Genesis, SEGA 32X",Sports,1995
+55183,metal-head,Metal Head,1995-02-24,,0.0,0,0,4,SEGA 32X,,1995
+57403,kyle-pettys-no-fear-racing,Kyle Petty's No Fear Racing,1995-01-15,,0.0,0,0,4,SNES,Racing,1995
+791674,hyper-iria,Hyper Iria,1995-10-13,,0.0,1,0,4,SNES,"Platformer, Action",1995
+57434,nba-give-n-go,NBA Give 'n Go,1995-09-29,,0.0,2,0,4,SNES,Sports,1995
+34166,football-limited,Football Limited,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+33289,virtual-karts,Virtual Karts,1995-01-01,,0.0,1,0,4,PC,"Racing, Arcade",1995
+33254,funky-bubbles-puzz,Funky Bubbles Puzz,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+514885,max-comes-to-earth,Max Comes to Earth,1995-01-02,,0.0,2,0,4,PC,Educational,1995
+33405,air-havoc-controller,Air Havoc Controller,1995-01-01,,0.0,1,0,4,PC,"Strategy, Simulation",1995
+33229,cybertarot,CyberTarot,1995-01-01,,0.0,1,0,4,PC,"Card, Educational",1995
+33600,corsa-grand-slam,Corsa Grand Slam,1995-01-01,,0.0,1,0,4,PC,,1995
+34165,magic-bid-2,Magic Bid 2,1995-01-01,,0.0,1,0,4,PC,Card,1995
+34255,risky,Risky,1995-01-01,,0.0,1,0,4,PC,,1995
+34473,arithmetick-tack-toe,ArithmeTick-Tack-Toe,1995-01-01,,0.0,1,0,4,PC,Educational,1995
+33468,great-naval-battles-vol-3-fury-in-the-pacific,"Great Naval Battles, Vol. 3: Fury in the Pacific",1995-01-01,,0.0,0,0,4,PC,"Strategy, Simulation",1995
+418469,pokonyan-henpokorin-adventure,Pokonyan! Henpokorin Adventure,1995-01-22,,0.0,0,0,4,SNES,Platformer,1995
+33350,hr2-the-simulator,HR2: The Simulator,1995-01-01,,0.0,0,0,4,PC,Strategy,1995
+32491,overdrive-1995,Overdrive (1995),1995-01-01,,0.0,0,0,4,PC,"Racing, Arcade",1995
+33960,punktris,PunkTris,1995-09-01,,0.0,0,0,4,PC,Arcade,1995
+29815,1944-across-the-rhine,1944: Across the Rhine,1995-07-01,,0.0,0,0,4,PC,Strategy,1995
+34508,puddle-books-the-lie,Puddle Books: The Lie,1995-01-01,,0.0,0,0,4,PC,Educational,1995
+32657,trial-by-magic,Trial by Magic,1995-01-01,,0.0,2,0,4,PC,RPG,1995
+57323,carrier-aces,Carrier Aces,1995-07-28,,0.0,0,0,4,SNES,"Action, Simulation",1995
+791705,go-go-ackman-2,Go Go Ackman 2,1995-07-21,,0.0,2,0,4,SNES,"Platformer, Adventure, Action",1995
+57412,manchester-united-championship-soccer,Manchester United Championship Soccer,1995-01-01,,0.0,0,0,4,SNES,"Simulation, Sports",1995
+739512,crystal-beans-from-dungeon-explorer,Crystal Beans From Dungeon Explorer,1995-01-01,,0.0,0,0,4,SNES,RPG,1995
+57337,dirt-racer,Dirt Racer,1995-05-01,,0.0,0,0,4,SNES,Racing,1995
+33729,marty-mouse-and-the-trouble-with-cheese,Marty Mouse and the Trouble With Cheese,1995-01-01,,0.0,0,0,4,PC,Adventure,1995
+34058,game-86,Задави старушку,1995-10-19,,0.0,0,0,4,PC,Arcade,1995
+389809,area-51-2,Area  51,1995-01-01,,0.0,1,0,4,"PlayStation, SEGA Saturn",Shooter,1995
+33331,3-4,Марьяж 3,1995-01-01,,0.0,0,0,4,PC,Card,1995
+57574,world-masters-golf,World Masters Golf,1995-11-23,,0.0,0,0,4,SNES,"Simulation, Sports",1995
+739506,shinseiki-odysselya-ii,Shinseiki Odysselya II,1995-10-06,,0.0,0,0,4,SNES,RPG,1995
+57491,star-trek-deep-space-nine-crossroads-of-time,Star Trek: Deep Space Nine – Crossroads of Time,1995-01-01,,0.0,0,0,4,SNES,"Adventure, Action",1995
+487898,rendering-ranger-r2,Rendering Ranger R2,1995-11-17,,0.0,0,0,4,SNES,"Shooter, Platformer",1995
+32583,super-stardust-96,Super Stardust '96,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+32537,millennia-altered-destinies,Millennia: Altered Destinies,1995-01-01,,0.0,0,0,4,PC,"Strategy, Adventure",1995
+34217,muppet-beginning-to-read,Muppet Beginning to Read,1995-01-01,,0.0,0,0,4,PC,Educational,1995
+33874,kin-yeo-fighter,Kin Yeo Fighter,1995-01-01,,0.0,0,0,4,PC,"Arcade, Fighting",1995
+33064,fight-of-destiny,Fight of Destiny,1995-01-01,,0.0,0,0,4,PC,Arcade,1995
+405493,ghostly-desires,Ghostly Desires,1995-12-31,,0.0,0,0,4,"PC, macOS",Adventure,1995
+34240,championship-chess,Championship Chess,1995-01-01,,0.0,0,0,4,PC,,1995
+30368,power-the-game,Power: The Game,1995-01-01,,0.0,1,0,4,PC,Strategy,1995
+31743,hypercycles,HyperCycles,1995-01-01,,0.0,1,0,4,PC,Racing,1995
+34502,trivia-mania,Trivia Mania!,1995-01-01,,0.0,1,0,4,PC,,1995
+34463,oware-the-national-game-of-africa,Oware! The National Game of Africa,1995-01-01,,0.0,1,0,4,PC,Board Games,1995
+34146,late-night-sexy-tv-show,Late Night Sexy TV Show,1995-01-01,,0.0,1,0,4,PC,,1995
+33134,turoid,Turoid,1995-01-01,,0.0,1,0,4,PC,Arcade,1995
+33913,heart-the-patchwork,Heart: The Patchwork,1995-01-01,,0.0,1,0,4,PC,Arcade,1995
+33705,jigsaw-power,Jigsaw Power,1995-01-01,,0.0,1,0,4,PC,,1995
+330734,runaway-city,Runaway City,1995-12-22,,0.0,2,0,4,PC,Casual,1995
+55699,valhalla-before-the-war,Valhalla: Before the War,1995-01-01,,0.0,0,0,4,Commodore / Amiga,Adventure,1995
+34245,tz-minigolf,TZ-Minigolf,1995-01-01,,0.0,2,0,4,PC,Sports,1995
+738014,the-outfoxies,The Outfoxies,1995-03-01,,0.0,0,0,3,,"Arcade, Fighting",1995
+57106,mlbpa-baseball,MLBPA Baseball,1995-08-11,,0.0,0,0,3,"SNES, Genesis",Sports,1995
+55725,xtreme-racing,Xtreme Racing,1995-01-01,,0.0,0,0,3,Commodore / Amiga,Racing,1995
+32763,navy-strike-task-force-command,Navy Strike: Task Force Command,1995-10-01,,0.0,0,0,3,PC,Simulation,1995
+55388,coala,Coala,1995-01-01,,0.0,0,0,3,Commodore / Amiga,Action,1995
+334879,mobilesuitgundam,Mobile Suit Gundam,1995-06-23,,0.0,1,0,3,"PlayStation, SEGA Saturn","Shooter, Action",1995
+817976,atari-karts,Atari Karts,1995-12-15,,0.0,0,0,3,Jaguar,"Racing, Family",1995
+351696,gourmet-warriors,Gourmet Warriors,1995-09-28,,0.0,0,0,3,PC,Action,1995
+324128,wolfsbane-1995,Wolfsbane (1995),1995-06-01,,0.0,1,0,3,PC,Adventure,1995
+55214,base-jumpers,Base Jumpers,1995-01-01,,0.0,0,0,3,Commodore / Amiga,,1995
+805083,disneys-bonkers-wax-up,Disney's Bonkers: Wax Up!,1995-01-01,,0.0,1,0,3,"SEGA Master System, Game Gear","Platformer, Adventure",1995
+57031,ferias-frustradas-do-pica-pau,Férias Frustradas do Pica-Pau,1995-01-01,,0.0,0,0,3,"Genesis, SEGA Master System",,1995
+55620,sensible-train-spotting,Sensible Train Spotting,1995-08-01,,0.0,0,0,3,Commodore / Amiga,,1995
+56969,chokyukai-miracle-nine,Chōkyūkai Miracle Nine,1995-07-21,,0.0,0,0,3,Genesis,"Simulation, Sports",1995
+55858,monster-max,Monster Max,1995-01-01,,0.0,0,0,3,Game Boy,"Adventure, Puzzle",1995
+732489,jikkyou-oshaberi-parodius,Jikkyou Oshaberi Parodius,1995-12-15,,0.0,0,0,3,SNES,Shooter,1995
+41708,joyous-rebel,Joyous Rebel,1995-12-27,,0.0,1,0,3,PC,RPG,1995
+33014,world-at-war-d-day-america-invades,World at War: D-Day - America Invades!,1995-01-01,,0.0,0,0,3,PC,Strategy,1995
+55226,gloom-1995,Gloom (1995),1995-01-01,,0.0,0,0,3,Commodore / Amiga,"Adventure, Action",1995
+55755,ultra-vortek,Ultra Vortek,1995-01-01,,0.0,0,0,3,Atari Lynx,Fighting,1995
+57428,michael-andrettis-indy-car-challenge,Michael Andretti's Indy Car Challenge,1995-01-20,,0.0,0,0,3,SNES,Racing,1995
+55023,gravon-real-virtuality,Gravon: Real Virtuality,1995-08-01,,0.0,0,0,3,Atari ST,"Action, Simulation",1995
+55927,super-chinese-land-3,Super Chinese Land 3,1995-01-13,,0.0,0,0,3,Game Boy,,1995
+55180,darxide,Darxide,1995-01-01,,0.0,0,0,3,SEGA 32X,,1995
+306017,clockwork-knight-2,Clockwork Knight 2: Pepperouchau's Adventure,1995-10-27,,0.0,0,0,3,SEGA Saturn,"Platformer, Action",1995
+33402,firestorm-thunderhawk-2,Firestorm Thunderhawk 2,1995-01-01,,0.0,0,0,3,PC,Simulation,1995
+32381,werewolf-vs-comanche-20,Werewolf vs. Comanche 2.0,1995-01-01,,0.0,1,0,3,PC,Simulation,1995
+31494,tornado-operation-desert-storm,Tornado: Operation Desert Storm,1995-01-01,,0.0,0,0,3,PC,Simulation,1995
+736268,mystic-ark,Mystic Ark,1995-07-14,,0.0,0,0,3,SNES,RPG,1995
+362736,jleague-jikkyou-winning-eleven,J.League Jikkyou Winning Eleven,1995-07-21,,0.0,0,0,3,PlayStation,"Action, Sports",1995
+729323,youkai-buster-ruka-no-daibouken,Youkai Buster: Ruka no Daibouken,1995-06-09,,0.0,0,0,3,SNES,"Platformer, Action",1995
+359037,pd-ultraman-invader,PD Ultraman Invader,1995-12-22,,0.0,0,0,3,PlayStation,"Shooter, Action",1995
+57763,shockwave-assault,Shockwave Assault,1995-12-05,,0.0,0,0,3,PlayStation,,1995
+55195,world-series-baseball-starring-deion-sanders,World Series Baseball Starring Deion Sanders,1995-01-01,,0.0,0,0,3,SEGA 32X,"Simulation, Sports",1995
+55192,toughman-contest,Toughman Contest,1995-01-01,,0.0,0,0,3,"Genesis, SEGA 32X",Sports,1995
+688755,gunblade-ny,Gunblade NY,1995-12-31,,0.0,0,0,3,Wii,Shooter,1995
+452631,battle-racers,Battle Racers,1995-03-17,,0.0,0,0,3,SNES,"Racing, Action",1995
+33856,virtual-chess,Virtual Chess,1995-01-01,,0.0,0,0,3,PC,,1995
+739577,amaranth-iv,Amaranth IV,1995-08-04,,0.0,0,0,3,PC,"Strategy, RPG",1995
+445440,ninja-gaiden-triology,Ninja Gaiden Triology,1995-08-04,,0.0,0,0,3,SNES,Action,1995
+332857,combiner,Combiner,1995-12-18,,0.0,1,0,3,PC,,1995
+806947,chicago-syndicate,Chicago Syndicate,1995-01-01,,0.0,1,0,3,Game Gear,"Action, Fighting",1995
+55197,zaxxons-motherbase-2000,Zaxxon's Motherbase 2000,1995-07-14,,0.0,0,0,3,SEGA 32X,,1995
+856171,ball-bullet-gun-survival-game-simulation,Ball Bullet Gun: Survival Game Simulation,1995-12-01,,0.0,0,0,3,SNES,Strategy,1995
+802413,kishin-douji-zenki-denei-raibu,Kishin Douji Zenki: Denei Raibu,1995-11-24,,0.0,1,0,3,SNES,"Platformer, Action",1995
+34352,south-sea-tycoon,South Sea Tycoon,1995-01-01,,0.0,0,0,3,PC,Strategy,1995
+34277,legend-of-pong-lonng-fighter-sunnyna,Legend of Pong Lonng Fighter Sunny'Na,1995-01-01,,0.0,1,0,3,PC,RPG,1995
+409585,caverns-of-xaskazien,Caverns of Xaskazien,1995-01-01,,0.0,2,0,3,PC,RPG,1995
+511457,carmen-sandiego-junior-detective,Carmen Sandiego: Junior Detective,1995-06-01,,0.0,0,0,3,PC,Educational,1995
+739527,laplace-no-ma,Laplace no Ma,1995-07-14,,0.0,0,0,3,"PC, SNES",RPG,1995
+405995,don-quixote-a-dream-in-seven-crystals,Don Quixote: A Dream in Seven Crystals,1995-01-01,,0.0,0,0,2,SEGA CD,Adventure,1995
+981433,babylon-ii,Babylon II,1995-01-01,,0.0,0,0,2,PC,Puzzle,1995
+736285,metamoqester,Metamoqester,1995-11-01,,0.0,0,0,2,,Arcade,1995
+455554,kabuki-klash,Far East of Eden: Kabuki Klash,1995-10-23,,0.0,1,0,2,Neo Geo,"Action, Fighting",1995
+362743,hermie-hopperhead-scrap-panic,Hermie Hopperhead: Scrap Panic,1995-09-29,,0.0,0,0,2,PlayStation,"Platformer, Action",1995
+57631,nage-libre-seijaku-no-suishin,Nage Libre: Seijaku no Suishin,1995-02-24,,0.0,0,0,2,PlayStation,Strategy,1995
+802422,ninku,Ninku,1995-07-21,,0.0,0,0,2,Game Gear,RPG,1995
+55926,super-chinese-land-1-2-3,Super Chinese Land 1-2-3,1995-09-13,,0.0,0,0,2,Game Boy,"Action, RPG",1995
+368999,marsupilami,Marsupilami,1995-10-01,,0.0,1,0,2,Genesis,Action,1995
+55820,the-getaway-high-speed-ii,The Getaway: High Speed II,1995-12-01,,0.0,0,0,2,Game Boy,"Action, Board Games",1995
+856749,seifuku-densetsu-pretty-fighter-x,Seifuku Densetsu: Pretty Fighter X,1995-06-16,,0.0,1,0,2,SEGA Saturn,Fighting,1995
+861276,lady-stalker-kako-kara-no-chousen,Lady Stalker: Kako kara no Chousen,1995-04-01,,0.0,1,0,2,SNES,"Action, RPG",1995
+371822,phoenix-3,Phoenix 3,1995-01-01,,0.0,0,0,2,3DO,"Platformer, Action, Simulation",1995
+405996,snow-job,Snow Job,1995-01-01,,0.0,0,0,2,3DO,Adventure,1995
+369026,robotica-cybernation-revolt,Robotica: Cybernation Revolt,1995-01-01,,0.0,0,0,2,SEGA Saturn,"Shooter, Action",1995
+802429,godzilla-kaijuu-no-daishingeki,Godzilla: Kaijuu no Daishingeki,1995-11-08,,0.0,0,0,2,Game Gear,Strategy,1995
+748556,penn-and-tellers-smoke-and-mirrors,"Penn And Teller's, Smoke And Mirrors",1995-04-01,,0.0,0,0,2,SEGA CD,Arcade,1995
+961732,warhawk-1995,WarHawk (1995),1995-11-10,,0.0,0,0,2,"PC, PlayStation",Action,1995
+906101,mahou-kishi-rayearth-gb,Mahou Kishi Rayearth (GB),1995-06-02,,0.0,0,0,1,Game Boy,RPG,1995
+974382,izzys-quest-for-the-olympic-rings,Izzy's Quest for the Olympic Rings,1995-04-01,,0.0,0,0,1,"SNES, Genesis",Platformer,1995
+906120,magic-knight-rayearth-2nd-the-missing-colors,Magic Knight RayEarth 2nd: The Missing Colors,1995-10-27,,0.0,0,0,1,Game Boy,RPG,1995
+966581,farland-story-2,Farland Story 2,1995-12-22,,0.0,0,0,1,"SNES, SEGA Saturn",RPG,1995
+845104,mahou-kishi-rayearth-snes,Mahou Kishi Rayearth (SNES),1995-09-29,,0.0,0,0,1,SNES,RPG,1995
+974495,fire-pro-gaiden-blazing-tornado,Fire Pro Gaiden: Blazing Tornado,1995-08-25,,0.0,0,0,1,SEGA Saturn,Fighting,1995
+487906,lego-fun-to-build,LEGO Fun To Build,1995-12-01,,0.0,1,0,1,,Educational,1995
+428554,music-tryst,Music Tryst,1995-01-01,,0.0,0,0,1,,Indie,1995
+52134,framed-1995,Framed (1995),1995-01-01,,0.0,0,0,1,,Platformer,1995
+802428,crayon-shin-chan-showdown-quantum-panic,Crayon Shin-Chan: Showdown! Quantum Panic!!,1995-02-24,,0.0,1,0,1,Game Gear,"Indie, Puzzle, Simulation, Sports",1995
+973061,far-east-of-eden-zero,Far East of Eden Zero,1995-12-22,,0.0,0,0,1,SNES,RPG,1995
+978043,defana,De.FaNa,1995-01-01,,0.0,0,0,0,,Adventure,1995
+973011,surfin-sam-1995,Surfin' Sam (1995),1995-01-02,,0.0,0,0,0,,Simulation,1995
+978075,strikers-1945-arcade,Strikers 1945 (Arcade),1995-01-01,,0.0,0,0,0,,Shooter,1995
+997390,super-bomberman-panic-bomber-w,Super Bomberman - Panic Bomber W,1995-03-01,,0.0,0,0,0,SNES,Puzzle,1995
+973008,ginga-yukyou-densetsu-rc-tobacker,Ginga Yukyou Densetsu RC Tobacker,1995-11-10,,0.0,1,0,0,,"Strategy, Adventure",1995
+663366,top-down-shoter,Top Shooter,1995-09-07,,0.0,0,0,0,Genesis,"Arcade, Sports",1995
+769552,wesleys-wedding,Wedding Peach,1995-09-28,,0.0,1,0,0,SNES,Adventure,1995
+997388,stargate-snes,Stargate (SNES),1995-05-26,,0.0,0,0,0,SNES,Platformer,1995

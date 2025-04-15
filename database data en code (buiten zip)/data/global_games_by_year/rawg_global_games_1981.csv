@@ -1,0 +1,67 @@
+id,slug,name,released,metacritic,rating,ratings_count,playtime,added,platforms,genres,year
+52512,arcade-archives-donkey-kong,Donkey Kong,1981-07-09,,3.72,182,10,426,"Nintendo Switch, Nintendo 3DS, Wii U, Wii, Game Boy Advance, Game Boy, NES, Apple II, Commodore / Amiga, Atari 7800, Atari 2600, Atari 8-bit, Atari XEGS","Platformer, Puzzle",1981
+53830,galaga-1981,Galaga (1981),1981-01-01,,3.95,65,0,143,"PC, Xbox One, PlayStation 4, Nintendo 3DS, Xbox 360, Wii U, Wii, Game Boy, NES, Commodore / Amiga, Atari 7800, SEGA Master System","Shooter, Arcade, Action",1981
+52438,ms-pac-man,Ms. Pac-Man,1981-01-12,,4.0,35,0,112,"PC, Xbox One, PlayStation 4, iOS, Android, Xbox 360, Xbox, Game Boy, SNES, NES, Apple II, Commodore / Amiga, Atari 7800, Atari 5200, Atari 2600, Atari 8-bit, Atari Lynx, Genesis, SEGA Master System, Game Gear",Arcade,1981
+52522,frogger-1981,Frogger (1981),1981-01-01,,3.61,34,0,96,"PC, PlayStation 4, Nintendo Switch, iOS, Android, PlayStation, Game Boy Color, Game Boy, SNES, Classic Macintosh, Apple II, Commodore / Amiga, Atari 5200, Atari 2600, Atari 8-bit, Genesis","Arcade, Action",1981
+52415,defender,Defender,1981-02-01,,3.43,13,0,74,"Xbox 360, Classic Macintosh, Apple II, Commodore / Amiga, Atari 5200, Atari 2600, Atari 8-bit",,1981
+56865,ultima,Ultima I: The First Age of Darkness,1981-06-01,,2.78,20,0,67,"PC, Apple II, Commodore / Amiga, Atari 8-bit",RPG,1981
+56380,castle-wolfenstein,Castle Wolfenstein,1981-01-01,,3.35,19,0,54,"PC, Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1981
+52406,centipede-1981,Centipede (1981),1981-01-01,,3.93,12,0,43,"Game Boy Advance, Game Boy Color, Game Boy, Apple II, Commodore / Amiga, Atari 7800, Atari 5200, Atari 2600, Atari 8-bit, Atari Lynx",,1981
+52417,stargate,Stargate,1981-11-01,,3.62,12,0,40,"SNES, NES, Apple II, Commodore / Amiga, Atari 2600, Genesis","Platformer, Action",1981
+52538,ice-hockey-1981,Ice Hockey (1981),1981-01-01,,3.78,8,0,36,"Wii U, Wii, NES, Atari 2600",Sports,1981
+53139,tempest-1981,Tempest (1981),1981-01-01,,4.29,5,0,29,"Game Boy Advance, Atari ST",,1981
+54148,wizardry-proving-grounds-of-the-mad-overlord,Wizardry: Proving Grounds of the Mad Overlord,1981-09-01,,0.0,5,0,28,"PC, Game Boy Color, SNES, NES, Classic Macintosh, Apple II, Commodore / Amiga",RPG,1981
+55951,ultima-old,Ultima (Old),1981-06-02,,0.0,4,0,26,"Game Boy, SNES, Apple II, Commodore / Amiga, Atari 8-bit",RPG,1981
+52619,wizard-of-wor,Wizard of Wor,1981-01-01,,3.0,6,0,23,"Commodore / Amiga, Atari 5200, Atari 2600, Atari 8-bit",Action,1981
+52633,turbo,Turbo,1981-01-01,,0.0,2,0,21,Atari 2600,Racing,1981
+52610,tennis-1981,Tennis (1981),1981-01-01,,2.67,5,0,21,Atari 2600,Sports,1981
+52595,stampede,Stampede,1981-01-01,,0.0,4,0,21,"PC, Xbox 360, Atari 2600","Arcade, Action",1981
+52630,asteroids-deluxe-2,Asteroids Deluxe,1981-05-01,,0.0,3,0,21,"Atari 7800, Atari 2600, Atari ST",,1981
+55175,zork-ii,Zork II,1981-01-01,,0.0,4,0,20,"PC, Classic Macintosh, Apple II, Commodore / Amiga, Atari 8-bit, Atari ST",,1981
+52617,venture,Venture,1981-01-01,,0.0,4,0,19,Atari 2600,Action,1981
+54594,scramble-1981,Scramble (1981),1981-03-16,,0.0,4,0,19,"PlayStation 4, Xbox 360, Commodore / Amiga, Atari 7800",,1981
+52468,vanguard-1981,Vanguard (1981),1981-01-01,,0.0,2,0,18,"PlayStation 3, PSP, Atari 5200, Atari 2600",,1981
+52540,kaboom,Kaboom!,1981-01-01,,0.0,3,0,18,"Atari 5200, Atari 2600, Atari Flashback, Atari 8-bit",Action,1981
+52622,caverns-of-mars,Caverns of Mars,1981-01-01,,0.0,1,0,17,"Atari 2600, Atari 8-bit",,1981
+52521,freeway,Freeway,1981-01-01,,0.0,2,0,16,Atari 2600,Action,1981
+52482,amidar,Amidar,1981-01-01,,0.0,2,0,16,Atari 2600,,1981
+55311,eastern-front,Eastern Front,1981-01-01,,0.0,3,0,16,"Atari 8-bit, Atari XEGS",Strategy,1981
+308062,qix-1981,Qix (1981),1981-10-01,,0.0,4,0,16,,Arcade,1981
+52530,gorf,Gorf,1981-01-01,,0.0,5,0,16,"Commodore / Amiga, Atari 5200, Atari 2600, Atari 8-bit",,1981
+52544,lock-n-chase,Lock 'n' Chase,1981-06-19,,0.0,2,0,16,"PSP, Game Boy, Atari 2600","Arcade, Action",1981
+52487,astrosmash,Astrosmash,1981-01-01,,0.0,2,0,16,"PC, Xbox 360, Atari 2600",Action,1981
+52606,super-cobra,Super Cobra,1981-01-01,,0.0,2,0,15,"Atari 5200, Atari 2600, Atari 8-bit",,1981
+56410,crossfire,Crossfire,1981-01-01,,0.0,1,0,15,Commodore / Amiga,,1981
+56411,crush-crumble-and-chomp,"Crush, Crumble and Chomp!",1981-01-01,,0.0,2,0,15,"PC, Apple II, Commodore / Amiga, Atari 8-bit",Strategy,1981
+56398,computer-baseball,Computer Baseball,1981-01-01,,0.0,1,0,14,"PC, Classic Macintosh, Apple II, Commodore / Amiga, Atari 8-bit",Sports,1981
+58048,mystery-fun-house,Mystery Fun House,1981-01-01,,0.0,1,0,14,"PC, Classic Macintosh",Adventure,1981
+58021,apple-panic,Apple Panic,1981-01-01,,0.0,1,0,14,"Apple II, Atari 8-bit",Puzzle,1981
+52586,solar-fox,Solar Fox,1981-01-01,,0.0,1,0,14,"Commodore / Amiga, Atari 2600","Action, Puzzle",1981
+52583,sky-skipper,Sky Skipper,1981-01-01,,0.0,1,0,14,Atari 2600,Action,1981
+52553,mouse-trap,Mouse Trap,1981-01-01,,0.0,1,0,14,Atari 2600,,1981
+58034,crazy-kong,Crazy Kong,1981-01-01,,0.0,1,0,14,Commodore / Amiga,,1981
+56320,asylum-1981,Asylum (1981),1981-02-01,,0.0,2,2,14,Commodore / Amiga,Adventure,1981
+56405,the-count,The Count,1981-01-01,,0.0,2,0,13,"Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1981
+52626,lady-bug,Lady Bug,1981-01-01,,0.0,3,0,13,Atari 2600,,1981
+55093,president-elect,President Elect,1981-01-01,,0.0,2,0,13,"Apple II, Commodore / Amiga, Atari ST",,1981
+56867,ulysses-and-the-golden-fleece,Ulysses and the Golden Fleece,1981-01-01,,0.0,1,0,13,"Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1981
+52579,skeet-shoot,Skeet Shoot,1981-01-01,,0.0,2,0,13,Atari 2600,,1981
+52574,river-patrol,River Patrol,1981-01-01,,0.0,1,0,13,Atari 2600,Action,1981
+54588,astro-blaster-1981,Astro Blaster (1981),1981-01-01,,0.0,1,0,13,Atari 7800,Shooter,1981
+56326,avenger,Avenger,1981-01-01,,0.0,1,0,13,Commodore / Amiga,,1981
+58067,tooth-invaders,Tooth Invaders,1981-01-01,,0.0,1,0,13,Commodore / Amiga,Action,1981
+55204,space-dungeon,Space Dungeon,1981-01-01,,0.0,1,0,13,Atari 5200,,1981
+56577,jawbreaker,Jawbreaker,1981-01-01,,0.0,1,0,12,"Apple II, Commodore / Amiga, Atari 8-bit",,1981
+52604,strategy-x,Strategy X,1981-01-01,,0.0,1,0,12,Atari 2600,Shooter,1981
+58046,mole-attack,Mole Attack,1981-01-01,,0.0,1,0,12,,,1981
+56816,strange-odyssey,Strange Odyssey,1981-01-01,,0.0,1,0,12,"Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1981
+54590,munchkin,Munchkin,1981-01-01,,0.0,1,0,12,Atari 7800,,1981
+56723,radar-rat-race,Radar Rat Race,1981-01-01,,0.0,1,0,12,Commodore / Amiga,,1981
+52543,laser-blast,Laser Blast,1981-01-01,,0.0,1,0,12,Atari 2600,,1981
+318351,amok-1981,AMOK (1981),1981-12-31,,0.0,1,0,12,Commodore / Amiga,Action,1981
+52607,video-life,Video Life,1981-01-01,,0.0,1,0,11,Atari 2600,,1981
+58053,pyramid-of-doom,Pyramid of Doom,1981-01-01,,0.0,1,0,11,"Apple II, Commodore / Amiga, Atari 8-bit",Adventure,1981
+56512,ghost-town,Ghost Town,1981-01-01,,0.0,1,0,11,"Apple II, Commodore / Amiga, Atari 8-bit",,1981
+341589,the-demons-forge,The Demon's Forge,1981-01-01,,0.0,1,0,10,Apple II,Adventure,1981
+541264,3d-monster-maze,3D Monster Maze,1981-01-01,,0.0,2,0,9,,Puzzle,1981
+736303,zork-ii-the-wizard-of-frobozz,Zork II: The Wizard of Frobozz,1981-01-01,,0.0,1,0,6,"PC, Apple II, Commodore / Amiga",Adventure,1981
